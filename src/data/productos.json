@@ -1,0 +1,8002 @@
+[
+  {
+    "id": 1,
+    "nombre": "Unbranded Wooden Chips",
+    "precio": 6736,
+    "stock": 76,
+    "proveedor_id": 3,
+    "sucursal_id": 7
+  },
+  {
+    "id": 2,
+    "nombre": "Practical Wooden Bacon",
+    "precio": 8569,
+    "stock": 55,
+    "proveedor_id": 8,
+    "sucursal_id": 2
+  },
+  {
+    "id": 3,
+    "nombre": "Ergonomic Fresh Chicken",
+    "precio": 9063,
+    "stock": 76,
+    "proveedor_id": 6,
+    "sucursal_id": 8
+  },
+  {
+    "id": 4,
+    "nombre": "Intelligent Wooden Bike",
+    "precio": 2885,
+    "stock": 88,
+    "proveedor_id": 5,
+    "sucursal_id": 8
+  },
+  {
+    "id": 5,
+    "nombre": "Luxurious Plastic Ball",
+    "precio": 1345,
+    "stock": 1,
+    "proveedor_id": 10,
+    "sucursal_id": 1
+  },
+  {
+    "id": 6,
+    "nombre": "Intelligent Concrete Chips",
+    "precio": 8260,
+    "stock": 91,
+    "proveedor_id": 5,
+    "sucursal_id": 4
+  },
+  {
+    "id": 7,
+    "nombre": "Fantastic Bronze Car",
+    "precio": 2789,
+    "stock": 86,
+    "proveedor_id": 10,
+    "sucursal_id": 8
+  },
+  {
+    "id": 8,
+    "nombre": "Oriental Plastic Shirt",
+    "precio": 8229,
+    "stock": 43,
+    "proveedor_id": 3,
+    "sucursal_id": 7
+  },
+  {
+    "id": 9,
+    "nombre": "Intelligent Wooden Chair",
+    "precio": 1635,
+    "stock": 93,
+    "proveedor_id": 10,
+    "sucursal_id": 6
+  },
+  {
+    "id": 10,
+    "nombre": "Handmade Cotton Salad",
+    "precio": 7666,
+    "stock": 99,
+    "proveedor_id": 4,
+    "sucursal_id": 4
+  },
+  {
+    "id": 11,
+    "nombre": "Refined Wooden Mouse",
+    "precio": 3086,
+    "stock": 78,
+    "proveedor_id": 3,
+    "sucursal_id": 2
+  },
+  {
+    "id": 12,
+    "nombre": "Fantastic Cotton Table",
+    "precio": 7165,
+    "stock": 100,
+    "proveedor_id": 7,
+    "sucursal_id": 5
+  },
+  {
+    "id": 13,
+    "nombre": "Tasty Concrete Mouse",
+    "precio": 4057,
+    "stock": 25,
+    "proveedor_id": 10,
+    "sucursal_id": 7
+  },
+  {
+    "id": 14,
+    "nombre": "Electronic Steel Tuna",
+    "precio": 9699,
+    "stock": 99,
+    "proveedor_id": 9,
+    "sucursal_id": 4
+  },
+  {
+    "id": 15,
+    "nombre": "Tasty Concrete Gloves",
+    "precio": 8432,
+    "stock": 75,
+    "proveedor_id": 2,
+    "sucursal_id": 2
+  },
+  {
+    "id": 16,
+    "nombre": "Handmade Soft Computer",
+    "precio": 8974,
+    "stock": 95,
+    "proveedor_id": 3,
+    "sucursal_id": 3
+  },
+  {
+    "id": 17,
+    "nombre": "Luxurious Plastic Keyboard",
+    "precio": 1885,
+    "stock": 53,
+    "proveedor_id": 8,
+    "sucursal_id": 10
+  },
+  {
+    "id": 18,
+    "nombre": "Practical Concrete Cheese",
+    "precio": 9509,
+    "stock": 85,
+    "proveedor_id": 7,
+    "sucursal_id": 2
+  },
+  {
+    "id": 19,
+    "nombre": "Ergonomic Plastic Pizza",
+    "precio": 4013,
+    "stock": 18,
+    "proveedor_id": 2,
+    "sucursal_id": 3
+  },
+  {
+    "id": 20,
+    "nombre": "Incredible Bronze Chicken",
+    "precio": 6597,
+    "stock": 6,
+    "proveedor_id": 1,
+    "sucursal_id": 4
+  },
+  {
+    "id": 21,
+    "nombre": "Unbranded Soft Soap",
+    "precio": 8632,
+    "stock": 88,
+    "proveedor_id": 10,
+    "sucursal_id": 5
+  },
+  {
+    "id": 22,
+    "nombre": "Gorgeous Frozen Soap",
+    "precio": 1712,
+    "stock": 66,
+    "proveedor_id": 3,
+    "sucursal_id": 1
+  },
+  {
+    "id": 23,
+    "nombre": "Small Concrete Soap",
+    "precio": 5496,
+    "stock": 29,
+    "proveedor_id": 1,
+    "sucursal_id": 6
+  },
+  {
+    "id": 24,
+    "nombre": "Refined Frozen Table",
+    "precio": 5713,
+    "stock": 31,
+    "proveedor_id": 8,
+    "sucursal_id": 5
+  },
+  {
+    "id": 25,
+    "nombre": "Intelligent Concrete Hat",
+    "precio": 2610,
+    "stock": 39,
+    "proveedor_id": 3,
+    "sucursal_id": 10
+  },
+  {
+    "id": 26,
+    "nombre": "Handcrafted Fresh Bike",
+    "precio": 4204,
+    "stock": 47,
+    "proveedor_id": 10,
+    "sucursal_id": 6
+  },
+  {
+    "id": 27,
+    "nombre": "Sleek Rubber Pants",
+    "precio": 8331,
+    "stock": 100,
+    "proveedor_id": 2,
+    "sucursal_id": 10
+  },
+  {
+    "id": 28,
+    "nombre": "Modern Soft Keyboard",
+    "precio": 1022,
+    "stock": 77,
+    "proveedor_id": 5,
+    "sucursal_id": 9
+  },
+  {
+    "id": 29,
+    "nombre": "Handmade Plastic Computer",
+    "precio": 6497,
+    "stock": 17,
+    "proveedor_id": 6,
+    "sucursal_id": 3
+  },
+  {
+    "id": 30,
+    "nombre": "Incredible Concrete Bacon",
+    "precio": 2097,
+    "stock": 12,
+    "proveedor_id": 8,
+    "sucursal_id": 2
+  },
+  {
+    "id": 31,
+    "nombre": "Elegant Frozen Computer",
+    "precio": 4553,
+    "stock": 50,
+    "proveedor_id": 5,
+    "sucursal_id": 6
+  },
+  {
+    "id": 32,
+    "nombre": "Oriental Fresh Salad",
+    "precio": 7931,
+    "stock": 68,
+    "proveedor_id": 3,
+    "sucursal_id": 7
+  },
+  {
+    "id": 33,
+    "nombre": "Small Frozen Cheese",
+    "precio": 3323,
+    "stock": 37,
+    "proveedor_id": 4,
+    "sucursal_id": 5
+  },
+  {
+    "id": 34,
+    "nombre": "Refined Soft Table",
+    "precio": 4274,
+    "stock": 6,
+    "proveedor_id": 8,
+    "sucursal_id": 3
+  },
+  {
+    "id": 35,
+    "nombre": "Licensed Rubber Bacon",
+    "precio": 3683,
+    "stock": 89,
+    "proveedor_id": 9,
+    "sucursal_id": 9
+  },
+  {
+    "id": 36,
+    "nombre": "Luxurious Rubber Computer",
+    "precio": 1521,
+    "stock": 27,
+    "proveedor_id": 1,
+    "sucursal_id": 1
+  },
+  {
+    "id": 37,
+    "nombre": "Practical Soft Ball",
+    "precio": 1528,
+    "stock": 16,
+    "proveedor_id": 4,
+    "sucursal_id": 3
+  },
+  {
+    "id": 38,
+    "nombre": "Practical Wooden Keyboard",
+    "precio": 5678,
+    "stock": 56,
+    "proveedor_id": 2,
+    "sucursal_id": 9
+  },
+  {
+    "id": 39,
+    "nombre": "Awesome Plastic Ball",
+    "precio": 4844,
+    "stock": 94,
+    "proveedor_id": 4,
+    "sucursal_id": 5
+  },
+  {
+    "id": 40,
+    "nombre": "Tasty Cotton Chips",
+    "precio": 4372,
+    "stock": 85,
+    "proveedor_id": 8,
+    "sucursal_id": 3
+  },
+  {
+    "id": 41,
+    "nombre": "Oriental Frozen Keyboard",
+    "precio": 1874,
+    "stock": 87,
+    "proveedor_id": 3,
+    "sucursal_id": 1
+  },
+  {
+    "id": 42,
+    "nombre": "Rustic Wooden Keyboard",
+    "precio": 2623,
+    "stock": 60,
+    "proveedor_id": 10,
+    "sucursal_id": 1
+  },
+  {
+    "id": 43,
+    "nombre": "Unbranded Fresh Towels",
+    "precio": 7541,
+    "stock": 21,
+    "proveedor_id": 5,
+    "sucursal_id": 2
+  },
+  {
+    "id": 44,
+    "nombre": "Handmade Wooden Chips",
+    "precio": 3014,
+    "stock": 30,
+    "proveedor_id": 10,
+    "sucursal_id": 6
+  },
+  {
+    "id": 45,
+    "nombre": "Rustic Cotton Computer",
+    "precio": 6024,
+    "stock": 67,
+    "proveedor_id": 10,
+    "sucursal_id": 9
+  },
+  {
+    "id": 46,
+    "nombre": "Incredible Steel Chair",
+    "precio": 8483,
+    "stock": 51,
+    "proveedor_id": 4,
+    "sucursal_id": 1
+  },
+  {
+    "id": 47,
+    "nombre": "Handcrafted Plastic Towels",
+    "precio": 3847,
+    "stock": 68,
+    "proveedor_id": 2,
+    "sucursal_id": 2
+  },
+  {
+    "id": 48,
+    "nombre": "Handcrafted Metal Keyboard",
+    "precio": 6688,
+    "stock": 25,
+    "proveedor_id": 5,
+    "sucursal_id": 9
+  },
+  {
+    "id": 49,
+    "nombre": "Practical Cotton Bacon",
+    "precio": 3317,
+    "stock": 51,
+    "proveedor_id": 1,
+    "sucursal_id": 9
+  },
+  {
+    "id": 50,
+    "nombre": "Luxurious Soft Salad",
+    "precio": 7127,
+    "stock": 86,
+    "proveedor_id": 10,
+    "sucursal_id": 4
+  },
+  {
+    "id": 51,
+    "nombre": "Oriental Concrete Shoes",
+    "precio": 7605,
+    "stock": 80,
+    "proveedor_id": 3,
+    "sucursal_id": 8
+  },
+  {
+    "id": 52,
+    "nombre": "Licensed Soft Chicken",
+    "precio": 3869,
+    "stock": 73,
+    "proveedor_id": 3,
+    "sucursal_id": 9
+  },
+  {
+    "id": 53,
+    "nombre": "Oriental Concrete Cheese",
+    "precio": 9451,
+    "stock": 82,
+    "proveedor_id": 10,
+    "sucursal_id": 6
+  },
+  {
+    "id": 54,
+    "nombre": "Licensed Fresh Fish",
+    "precio": 4373,
+    "stock": 96,
+    "proveedor_id": 9,
+    "sucursal_id": 10
+  },
+  {
+    "id": 55,
+    "nombre": "Licensed Soft Salad",
+    "precio": 2067,
+    "stock": 70,
+    "proveedor_id": 10,
+    "sucursal_id": 8
+  },
+  {
+    "id": 56,
+    "nombre": "Modern Rubber Ball",
+    "precio": 5609,
+    "stock": 7,
+    "proveedor_id": 2,
+    "sucursal_id": 1
+  },
+  {
+    "id": 57,
+    "nombre": "Modern Rubber Gloves",
+    "precio": 1903,
+    "stock": 93,
+    "proveedor_id": 6,
+    "sucursal_id": 2
+  },
+  {
+    "id": 58,
+    "nombre": "Modern Wooden Towels",
+    "precio": 6496,
+    "stock": 51,
+    "proveedor_id": 1,
+    "sucursal_id": 1
+  },
+  {
+    "id": 59,
+    "nombre": "Unbranded Metal Cheese",
+    "precio": 6333,
+    "stock": 40,
+    "proveedor_id": 9,
+    "sucursal_id": 1
+  },
+  {
+    "id": 60,
+    "nombre": "Ergonomic Cotton Pants",
+    "precio": 7907,
+    "stock": 27,
+    "proveedor_id": 1,
+    "sucursal_id": 4
+  },
+  {
+    "id": 61,
+    "nombre": "Gorgeous Fresh Cheese",
+    "precio": 2634,
+    "stock": 96,
+    "proveedor_id": 10,
+    "sucursal_id": 9
+  },
+  {
+    "id": 62,
+    "nombre": "Elegant Bronze Hat",
+    "precio": 7924,
+    "stock": 61,
+    "proveedor_id": 10,
+    "sucursal_id": 2
+  },
+  {
+    "id": 63,
+    "nombre": "Luxurious Wooden Keyboard",
+    "precio": 1372,
+    "stock": 69,
+    "proveedor_id": 7,
+    "sucursal_id": 3
+  },
+  {
+    "id": 64,
+    "nombre": "Modern Granite Tuna",
+    "precio": 5457,
+    "stock": 22,
+    "proveedor_id": 4,
+    "sucursal_id": 10
+  },
+  {
+    "id": 65,
+    "nombre": "Generic Soft Pants",
+    "precio": 3261,
+    "stock": 17,
+    "proveedor_id": 7,
+    "sucursal_id": 5
+  },
+  {
+    "id": 66,
+    "nombre": "Handcrafted Bronze Pants",
+    "precio": 9594,
+    "stock": 40,
+    "proveedor_id": 7,
+    "sucursal_id": 2
+  },
+  {
+    "id": 67,
+    "nombre": "Tasty Soft Keyboard",
+    "precio": 5169,
+    "stock": 69,
+    "proveedor_id": 1,
+    "sucursal_id": 3
+  },
+  {
+    "id": 68,
+    "nombre": "Oriental Bronze Mouse",
+    "precio": 1169,
+    "stock": 6,
+    "proveedor_id": 5,
+    "sucursal_id": 10
+  },
+  {
+    "id": 69,
+    "nombre": "Handcrafted Wooden Gloves",
+    "precio": 1143,
+    "stock": 7,
+    "proveedor_id": 10,
+    "sucursal_id": 2
+  },
+  {
+    "id": 70,
+    "nombre": "Unbranded Granite Shirt",
+    "precio": 1214,
+    "stock": 37,
+    "proveedor_id": 1,
+    "sucursal_id": 4
+  },
+  {
+    "id": 71,
+    "nombre": "Oriental Rubber Sausages",
+    "precio": 1500,
+    "stock": 7,
+    "proveedor_id": 9,
+    "sucursal_id": 2
+  },
+  {
+    "id": 72,
+    "nombre": "Small Bronze Chair",
+    "precio": 7680,
+    "stock": 73,
+    "proveedor_id": 3,
+    "sucursal_id": 8
+  },
+  {
+    "id": 73,
+    "nombre": "Tasty Bronze Pants",
+    "precio": 4489,
+    "stock": 74,
+    "proveedor_id": 3,
+    "sucursal_id": 4
+  },
+  {
+    "id": 74,
+    "nombre": "Incredible Bronze Pizza",
+    "precio": 7834,
+    "stock": 8,
+    "proveedor_id": 5,
+    "sucursal_id": 3
+  },
+  {
+    "id": 75,
+    "nombre": "Incredible Wooden Sausages",
+    "precio": 7041,
+    "stock": 0,
+    "proveedor_id": 9,
+    "sucursal_id": 3
+  },
+  {
+    "id": 76,
+    "nombre": "Handmade Plastic Computer",
+    "precio": 6792,
+    "stock": 70,
+    "proveedor_id": 6,
+    "sucursal_id": 6
+  },
+  {
+    "id": 77,
+    "nombre": "Practical Granite Car",
+    "precio": 2616,
+    "stock": 10,
+    "proveedor_id": 8,
+    "sucursal_id": 1
+  },
+  {
+    "id": 78,
+    "nombre": "Gorgeous Soft Ball",
+    "precio": 2487,
+    "stock": 53,
+    "proveedor_id": 4,
+    "sucursal_id": 6
+  },
+  {
+    "id": 79,
+    "nombre": "Oriental Granite Sausages",
+    "precio": 7343,
+    "stock": 100,
+    "proveedor_id": 6,
+    "sucursal_id": 4
+  },
+  {
+    "id": 80,
+    "nombre": "Sleek Metal Car",
+    "precio": 4539,
+    "stock": 90,
+    "proveedor_id": 2,
+    "sucursal_id": 7
+  },
+  {
+    "id": 81,
+    "nombre": "Ergonomic Steel Car",
+    "precio": 5973,
+    "stock": 18,
+    "proveedor_id": 7,
+    "sucursal_id": 4
+  },
+  {
+    "id": 82,
+    "nombre": "Luxurious Metal Tuna",
+    "precio": 9025,
+    "stock": 20,
+    "proveedor_id": 5,
+    "sucursal_id": 6
+  },
+  {
+    "id": 83,
+    "nombre": "Bespoke Frozen Chair",
+    "precio": 5679,
+    "stock": 49,
+    "proveedor_id": 2,
+    "sucursal_id": 8
+  },
+  {
+    "id": 84,
+    "nombre": "Refined Granite Table",
+    "precio": 6636,
+    "stock": 62,
+    "proveedor_id": 4,
+    "sucursal_id": 7
+  },
+  {
+    "id": 85,
+    "nombre": "Generic Steel Pizza",
+    "precio": 4728,
+    "stock": 26,
+    "proveedor_id": 10,
+    "sucursal_id": 3
+  },
+  {
+    "id": 86,
+    "nombre": "Incredible Granite Chicken",
+    "precio": 5686,
+    "stock": 90,
+    "proveedor_id": 1,
+    "sucursal_id": 3
+  },
+  {
+    "id": 87,
+    "nombre": "Intelligent Plastic Pizza",
+    "precio": 3945,
+    "stock": 84,
+    "proveedor_id": 5,
+    "sucursal_id": 8
+  },
+  {
+    "id": 88,
+    "nombre": "Awesome Bronze Bacon",
+    "precio": 8800,
+    "stock": 14,
+    "proveedor_id": 2,
+    "sucursal_id": 10
+  },
+  {
+    "id": 89,
+    "nombre": "Refined Bronze Bike",
+    "precio": 4810,
+    "stock": 72,
+    "proveedor_id": 9,
+    "sucursal_id": 1
+  },
+  {
+    "id": 90,
+    "nombre": "Refined Frozen Pants",
+    "precio": 4776,
+    "stock": 98,
+    "proveedor_id": 2,
+    "sucursal_id": 6
+  },
+  {
+    "id": 91,
+    "nombre": "Elegant Rubber Soap",
+    "precio": 3474,
+    "stock": 48,
+    "proveedor_id": 3,
+    "sucursal_id": 1
+  },
+  {
+    "id": 92,
+    "nombre": "Modern Soft Keyboard",
+    "precio": 3767,
+    "stock": 27,
+    "proveedor_id": 4,
+    "sucursal_id": 8
+  },
+  {
+    "id": 93,
+    "nombre": "Unbranded Steel Bacon",
+    "precio": 6326,
+    "stock": 69,
+    "proveedor_id": 9,
+    "sucursal_id": 10
+  },
+  {
+    "id": 94,
+    "nombre": "Elegant Steel Bacon",
+    "precio": 1445,
+    "stock": 97,
+    "proveedor_id": 10,
+    "sucursal_id": 2
+  },
+  {
+    "id": 95,
+    "nombre": "Bespoke Soft Soap",
+    "precio": 4025,
+    "stock": 8,
+    "proveedor_id": 3,
+    "sucursal_id": 7
+  },
+  {
+    "id": 96,
+    "nombre": "Gorgeous Wooden Bacon",
+    "precio": 4496,
+    "stock": 24,
+    "proveedor_id": 2,
+    "sucursal_id": 2
+  },
+  {
+    "id": 97,
+    "nombre": "Unbranded Fresh Pizza",
+    "precio": 3512,
+    "stock": 22,
+    "proveedor_id": 2,
+    "sucursal_id": 5
+  },
+  {
+    "id": 98,
+    "nombre": "Licensed Concrete Table",
+    "precio": 4246,
+    "stock": 85,
+    "proveedor_id": 10,
+    "sucursal_id": 2
+  },
+  {
+    "id": 99,
+    "nombre": "Licensed Rubber Bacon",
+    "precio": 9278,
+    "stock": 6,
+    "proveedor_id": 2,
+    "sucursal_id": 1
+  },
+  {
+    "id": 100,
+    "nombre": "Rustic Soft Table",
+    "precio": 2237,
+    "stock": 80,
+    "proveedor_id": 9,
+    "sucursal_id": 5
+  },
+  {
+    "id": 101,
+    "nombre": "Small Concrete Ball",
+    "precio": 1186,
+    "stock": 62,
+    "proveedor_id": 1,
+    "sucursal_id": 9
+  },
+  {
+    "id": 102,
+    "nombre": "Handmade Rubber Pants",
+    "precio": 8226,
+    "stock": 73,
+    "proveedor_id": 10,
+    "sucursal_id": 10
+  },
+  {
+    "id": 103,
+    "nombre": "Gorgeous Fresh Gloves",
+    "precio": 4150,
+    "stock": 5,
+    "proveedor_id": 6,
+    "sucursal_id": 5
+  },
+  {
+    "id": 104,
+    "nombre": "Handcrafted Rubber Car",
+    "precio": 4769,
+    "stock": 49,
+    "proveedor_id": 4,
+    "sucursal_id": 5
+  },
+  {
+    "id": 105,
+    "nombre": "Sleek Wooden Sausages",
+    "precio": 3728,
+    "stock": 79,
+    "proveedor_id": 5,
+    "sucursal_id": 2
+  },
+  {
+    "id": 106,
+    "nombre": "Recycled Metal Sausages",
+    "precio": 6509,
+    "stock": 32,
+    "proveedor_id": 7,
+    "sucursal_id": 3
+  },
+  {
+    "id": 107,
+    "nombre": "Elegant Plastic Fish",
+    "precio": 6963,
+    "stock": 41,
+    "proveedor_id": 9,
+    "sucursal_id": 4
+  },
+  {
+    "id": 108,
+    "nombre": "Sleek Granite Chicken",
+    "precio": 1122,
+    "stock": 69,
+    "proveedor_id": 2,
+    "sucursal_id": 10
+  },
+  {
+    "id": 109,
+    "nombre": "Bespoke Steel Ball",
+    "precio": 4253,
+    "stock": 12,
+    "proveedor_id": 8,
+    "sucursal_id": 4
+  },
+  {
+    "id": 110,
+    "nombre": "Recycled Frozen Sausages",
+    "precio": 6648,
+    "stock": 86,
+    "proveedor_id": 10,
+    "sucursal_id": 9
+  },
+  {
+    "id": 111,
+    "nombre": "Small Plastic Tuna",
+    "precio": 9695,
+    "stock": 89,
+    "proveedor_id": 4,
+    "sucursal_id": 2
+  },
+  {
+    "id": 112,
+    "nombre": "Sleek Fresh Keyboard",
+    "precio": 9461,
+    "stock": 69,
+    "proveedor_id": 4,
+    "sucursal_id": 4
+  },
+  {
+    "id": 113,
+    "nombre": "Incredible Granite Keyboard",
+    "precio": 7100,
+    "stock": 92,
+    "proveedor_id": 8,
+    "sucursal_id": 1
+  },
+  {
+    "id": 114,
+    "nombre": "Sleek Cotton Fish",
+    "precio": 2166,
+    "stock": 83,
+    "proveedor_id": 10,
+    "sucursal_id": 5
+  },
+  {
+    "id": 115,
+    "nombre": "Recycled Metal Bike",
+    "precio": 3468,
+    "stock": 33,
+    "proveedor_id": 5,
+    "sucursal_id": 9
+  },
+  {
+    "id": 116,
+    "nombre": "Intelligent Wooden Towels",
+    "precio": 8347,
+    "stock": 44,
+    "proveedor_id": 1,
+    "sucursal_id": 4
+  },
+  {
+    "id": 117,
+    "nombre": "Luxurious Steel Keyboard",
+    "precio": 3131,
+    "stock": 94,
+    "proveedor_id": 4,
+    "sucursal_id": 4
+  },
+  {
+    "id": 118,
+    "nombre": "Small Cotton Bacon",
+    "precio": 2392,
+    "stock": 100,
+    "proveedor_id": 10,
+    "sucursal_id": 4
+  },
+  {
+    "id": 119,
+    "nombre": "Awesome Metal Table",
+    "precio": 4296,
+    "stock": 86,
+    "proveedor_id": 2,
+    "sucursal_id": 10
+  },
+  {
+    "id": 120,
+    "nombre": "Small Cotton Towels",
+    "precio": 9949,
+    "stock": 21,
+    "proveedor_id": 10,
+    "sucursal_id": 5
+  },
+  {
+    "id": 121,
+    "nombre": "Recycled Granite Shirt",
+    "precio": 1179,
+    "stock": 29,
+    "proveedor_id": 4,
+    "sucursal_id": 2
+  },
+  {
+    "id": 122,
+    "nombre": "Modern Bronze Chicken",
+    "precio": 5344,
+    "stock": 10,
+    "proveedor_id": 7,
+    "sucursal_id": 1
+  },
+  {
+    "id": 123,
+    "nombre": "Small Cotton Hat",
+    "precio": 1219,
+    "stock": 82,
+    "proveedor_id": 3,
+    "sucursal_id": 7
+  },
+  {
+    "id": 124,
+    "nombre": "Refined Steel Shirt",
+    "precio": 5711,
+    "stock": 27,
+    "proveedor_id": 8,
+    "sucursal_id": 4
+  },
+  {
+    "id": 125,
+    "nombre": "Recycled Soft Soap",
+    "precio": 2342,
+    "stock": 41,
+    "proveedor_id": 5,
+    "sucursal_id": 6
+  },
+  {
+    "id": 126,
+    "nombre": "Gorgeous Bronze Chips",
+    "precio": 1271,
+    "stock": 42,
+    "proveedor_id": 3,
+    "sucursal_id": 10
+  },
+  {
+    "id": 127,
+    "nombre": "Licensed Rubber Cheese",
+    "precio": 3640,
+    "stock": 14,
+    "proveedor_id": 7,
+    "sucursal_id": 8
+  },
+  {
+    "id": 128,
+    "nombre": "Gorgeous Fresh Fish",
+    "precio": 2479,
+    "stock": 0,
+    "proveedor_id": 8,
+    "sucursal_id": 2
+  },
+  {
+    "id": 129,
+    "nombre": "Modern Cotton Computer",
+    "precio": 4263,
+    "stock": 47,
+    "proveedor_id": 8,
+    "sucursal_id": 9
+  },
+  {
+    "id": 130,
+    "nombre": "Elegant Granite Salad",
+    "precio": 4949,
+    "stock": 85,
+    "proveedor_id": 8,
+    "sucursal_id": 8
+  },
+  {
+    "id": 131,
+    "nombre": "Incredible Steel Keyboard",
+    "precio": 5640,
+    "stock": 46,
+    "proveedor_id": 6,
+    "sucursal_id": 3
+  },
+  {
+    "id": 132,
+    "nombre": "Luxurious Concrete Fish",
+    "precio": 9298,
+    "stock": 3,
+    "proveedor_id": 6,
+    "sucursal_id": 7
+  },
+  {
+    "id": 133,
+    "nombre": "Ergonomic Soft Gloves",
+    "precio": 8278,
+    "stock": 95,
+    "proveedor_id": 6,
+    "sucursal_id": 8
+  },
+  {
+    "id": 134,
+    "nombre": "Handmade Bronze Mouse",
+    "precio": 8896,
+    "stock": 25,
+    "proveedor_id": 4,
+    "sucursal_id": 2
+  },
+  {
+    "id": 135,
+    "nombre": "Generic Bronze Salad",
+    "precio": 7335,
+    "stock": 96,
+    "proveedor_id": 4,
+    "sucursal_id": 10
+  },
+  {
+    "id": 136,
+    "nombre": "Recycled Concrete Chicken",
+    "precio": 5346,
+    "stock": 9,
+    "proveedor_id": 5,
+    "sucursal_id": 9
+  },
+  {
+    "id": 137,
+    "nombre": "Gorgeous Concrete Bike",
+    "precio": 3160,
+    "stock": 36,
+    "proveedor_id": 9,
+    "sucursal_id": 3
+  },
+  {
+    "id": 138,
+    "nombre": "Generic Cotton Shoes",
+    "precio": 6055,
+    "stock": 54,
+    "proveedor_id": 10,
+    "sucursal_id": 5
+  },
+  {
+    "id": 139,
+    "nombre": "Modern Rubber Chips",
+    "precio": 9994,
+    "stock": 73,
+    "proveedor_id": 6,
+    "sucursal_id": 1
+  },
+  {
+    "id": 140,
+    "nombre": "Small Frozen Shirt",
+    "precio": 7341,
+    "stock": 93,
+    "proveedor_id": 3,
+    "sucursal_id": 9
+  },
+  {
+    "id": 141,
+    "nombre": "Oriental Rubber Chair",
+    "precio": 3945,
+    "stock": 65,
+    "proveedor_id": 5,
+    "sucursal_id": 7
+  },
+  {
+    "id": 142,
+    "nombre": "Handcrafted Steel Gloves",
+    "precio": 5756,
+    "stock": 10,
+    "proveedor_id": 8,
+    "sucursal_id": 9
+  },
+  {
+    "id": 143,
+    "nombre": "Incredible Cotton Tuna",
+    "precio": 1587,
+    "stock": 48,
+    "proveedor_id": 10,
+    "sucursal_id": 3
+  },
+  {
+    "id": 144,
+    "nombre": "Oriental Soft Car",
+    "precio": 8014,
+    "stock": 43,
+    "proveedor_id": 9,
+    "sucursal_id": 5
+  },
+  {
+    "id": 145,
+    "nombre": "Gorgeous Fresh Computer",
+    "precio": 9209,
+    "stock": 89,
+    "proveedor_id": 9,
+    "sucursal_id": 8
+  },
+  {
+    "id": 146,
+    "nombre": "Recycled Wooden Chicken",
+    "precio": 7496,
+    "stock": 48,
+    "proveedor_id": 3,
+    "sucursal_id": 7
+  },
+  {
+    "id": 147,
+    "nombre": "Incredible Steel Mouse",
+    "precio": 9705,
+    "stock": 64,
+    "proveedor_id": 4,
+    "sucursal_id": 1
+  },
+  {
+    "id": 148,
+    "nombre": "Handmade Wooden Shirt",
+    "precio": 1476,
+    "stock": 15,
+    "proveedor_id": 1,
+    "sucursal_id": 3
+  },
+  {
+    "id": 149,
+    "nombre": "Unbranded Wooden Salad",
+    "precio": 5096,
+    "stock": 98,
+    "proveedor_id": 9,
+    "sucursal_id": 2
+  },
+  {
+    "id": 150,
+    "nombre": "Generic Frozen Hat",
+    "precio": 5787,
+    "stock": 24,
+    "proveedor_id": 5,
+    "sucursal_id": 5
+  },
+  {
+    "id": 151,
+    "nombre": "Generic Bronze Pizza",
+    "precio": 2858,
+    "stock": 55,
+    "proveedor_id": 8,
+    "sucursal_id": 2
+  },
+  {
+    "id": 152,
+    "nombre": "Incredible Fresh Gloves",
+    "precio": 3097,
+    "stock": 62,
+    "proveedor_id": 9,
+    "sucursal_id": 8
+  },
+  {
+    "id": 153,
+    "nombre": "Awesome Fresh Pants",
+    "precio": 9571,
+    "stock": 65,
+    "proveedor_id": 3,
+    "sucursal_id": 5
+  },
+  {
+    "id": 154,
+    "nombre": "Fantastic Bronze Salad",
+    "precio": 8344,
+    "stock": 3,
+    "proveedor_id": 7,
+    "sucursal_id": 5
+  },
+  {
+    "id": 155,
+    "nombre": "Handmade Fresh Bike",
+    "precio": 8118,
+    "stock": 13,
+    "proveedor_id": 1,
+    "sucursal_id": 4
+  },
+  {
+    "id": 156,
+    "nombre": "Handcrafted Concrete Computer",
+    "precio": 5279,
+    "stock": 16,
+    "proveedor_id": 8,
+    "sucursal_id": 1
+  },
+  {
+    "id": 157,
+    "nombre": "Intelligent Steel Bike",
+    "precio": 6875,
+    "stock": 61,
+    "proveedor_id": 8,
+    "sucursal_id": 7
+  },
+  {
+    "id": 158,
+    "nombre": "Unbranded Cotton Table",
+    "precio": 4004,
+    "stock": 16,
+    "proveedor_id": 10,
+    "sucursal_id": 6
+  },
+  {
+    "id": 159,
+    "nombre": "Handcrafted Wooden Chips",
+    "precio": 9077,
+    "stock": 89,
+    "proveedor_id": 4,
+    "sucursal_id": 1
+  },
+  {
+    "id": 160,
+    "nombre": "Elegant Plastic Car",
+    "precio": 8897,
+    "stock": 4,
+    "proveedor_id": 1,
+    "sucursal_id": 10
+  },
+  {
+    "id": 161,
+    "nombre": "Awesome Rubber Bike",
+    "precio": 3190,
+    "stock": 12,
+    "proveedor_id": 5,
+    "sucursal_id": 9
+  },
+  {
+    "id": 162,
+    "nombre": "Luxurious Granite Salad",
+    "precio": 9456,
+    "stock": 57,
+    "proveedor_id": 6,
+    "sucursal_id": 4
+  },
+  {
+    "id": 163,
+    "nombre": "Handcrafted Steel Salad",
+    "precio": 6166,
+    "stock": 86,
+    "proveedor_id": 5,
+    "sucursal_id": 9
+  },
+  {
+    "id": 164,
+    "nombre": "Licensed Bronze Car",
+    "precio": 4638,
+    "stock": 63,
+    "proveedor_id": 5,
+    "sucursal_id": 9
+  },
+  {
+    "id": 165,
+    "nombre": "Licensed Rubber Bacon",
+    "precio": 2834,
+    "stock": 99,
+    "proveedor_id": 6,
+    "sucursal_id": 5
+  },
+  {
+    "id": 166,
+    "nombre": "Intelligent Steel Keyboard",
+    "precio": 4566,
+    "stock": 34,
+    "proveedor_id": 7,
+    "sucursal_id": 10
+  },
+  {
+    "id": 167,
+    "nombre": "Ergonomic Cotton Shoes",
+    "precio": 6288,
+    "stock": 44,
+    "proveedor_id": 3,
+    "sucursal_id": 3
+  },
+  {
+    "id": 168,
+    "nombre": "Handmade Soft Car",
+    "precio": 3530,
+    "stock": 21,
+    "proveedor_id": 7,
+    "sucursal_id": 1
+  },
+  {
+    "id": 169,
+    "nombre": "Fantastic Rubber Hat",
+    "precio": 1731,
+    "stock": 71,
+    "proveedor_id": 2,
+    "sucursal_id": 1
+  },
+  {
+    "id": 170,
+    "nombre": "Small Metal Table",
+    "precio": 4086,
+    "stock": 38,
+    "proveedor_id": 3,
+    "sucursal_id": 8
+  },
+  {
+    "id": 171,
+    "nombre": "Bespoke Rubber Towels",
+    "precio": 2202,
+    "stock": 87,
+    "proveedor_id": 5,
+    "sucursal_id": 4
+  },
+  {
+    "id": 172,
+    "nombre": "Small Granite Salad",
+    "precio": 6357,
+    "stock": 55,
+    "proveedor_id": 8,
+    "sucursal_id": 1
+  },
+  {
+    "id": 173,
+    "nombre": "Awesome Cotton Fish",
+    "precio": 2679,
+    "stock": 11,
+    "proveedor_id": 8,
+    "sucursal_id": 6
+  },
+  {
+    "id": 174,
+    "nombre": "Recycled Granite Keyboard",
+    "precio": 6877,
+    "stock": 48,
+    "proveedor_id": 3,
+    "sucursal_id": 9
+  },
+  {
+    "id": 175,
+    "nombre": "Refined Frozen Chips",
+    "precio": 5295,
+    "stock": 81,
+    "proveedor_id": 2,
+    "sucursal_id": 2
+  },
+  {
+    "id": 176,
+    "nombre": "Oriental Frozen Pizza",
+    "precio": 3761,
+    "stock": 16,
+    "proveedor_id": 9,
+    "sucursal_id": 3
+  },
+  {
+    "id": 177,
+    "nombre": "Awesome Concrete Ball",
+    "precio": 8253,
+    "stock": 51,
+    "proveedor_id": 5,
+    "sucursal_id": 5
+  },
+  {
+    "id": 178,
+    "nombre": "Unbranded Plastic Computer",
+    "precio": 7620,
+    "stock": 76,
+    "proveedor_id": 10,
+    "sucursal_id": 1
+  },
+  {
+    "id": 179,
+    "nombre": "Sleek Granite Towels",
+    "precio": 7265,
+    "stock": 25,
+    "proveedor_id": 9,
+    "sucursal_id": 6
+  },
+  {
+    "id": 180,
+    "nombre": "Sleek Bronze Computer",
+    "precio": 1931,
+    "stock": 10,
+    "proveedor_id": 4,
+    "sucursal_id": 10
+  },
+  {
+    "id": 181,
+    "nombre": "Generic Wooden Shoes",
+    "precio": 2421,
+    "stock": 92,
+    "proveedor_id": 6,
+    "sucursal_id": 10
+  },
+  {
+    "id": 182,
+    "nombre": "Handmade Concrete Chair",
+    "precio": 8761,
+    "stock": 16,
+    "proveedor_id": 10,
+    "sucursal_id": 2
+  },
+  {
+    "id": 183,
+    "nombre": "Tasty Fresh Tuna",
+    "precio": 1709,
+    "stock": 26,
+    "proveedor_id": 6,
+    "sucursal_id": 9
+  },
+  {
+    "id": 184,
+    "nombre": "Handcrafted Concrete Pants",
+    "precio": 8513,
+    "stock": 82,
+    "proveedor_id": 7,
+    "sucursal_id": 2
+  },
+  {
+    "id": 185,
+    "nombre": "Ergonomic Granite Shoes",
+    "precio": 8801,
+    "stock": 59,
+    "proveedor_id": 6,
+    "sucursal_id": 10
+  },
+  {
+    "id": 186,
+    "nombre": "Licensed Cotton Bike",
+    "precio": 8628,
+    "stock": 41,
+    "proveedor_id": 3,
+    "sucursal_id": 1
+  },
+  {
+    "id": 187,
+    "nombre": "Unbranded Bronze Cheese",
+    "precio": 2813,
+    "stock": 42,
+    "proveedor_id": 10,
+    "sucursal_id": 5
+  },
+  {
+    "id": 188,
+    "nombre": "Oriental Plastic Mouse",
+    "precio": 6782,
+    "stock": 10,
+    "proveedor_id": 7,
+    "sucursal_id": 4
+  },
+  {
+    "id": 189,
+    "nombre": "Rustic Concrete Keyboard",
+    "precio": 2166,
+    "stock": 74,
+    "proveedor_id": 8,
+    "sucursal_id": 4
+  },
+  {
+    "id": 190,
+    "nombre": "Ergonomic Steel Bacon",
+    "precio": 9543,
+    "stock": 28,
+    "proveedor_id": 1,
+    "sucursal_id": 5
+  },
+  {
+    "id": 191,
+    "nombre": "Gorgeous Bronze Cheese",
+    "precio": 8591,
+    "stock": 84,
+    "proveedor_id": 6,
+    "sucursal_id": 10
+  },
+  {
+    "id": 192,
+    "nombre": "Rustic Frozen Computer",
+    "precio": 8118,
+    "stock": 25,
+    "proveedor_id": 3,
+    "sucursal_id": 9
+  },
+  {
+    "id": 193,
+    "nombre": "Gorgeous Cotton Shoes",
+    "precio": 9308,
+    "stock": 20,
+    "proveedor_id": 1,
+    "sucursal_id": 10
+  },
+  {
+    "id": 194,
+    "nombre": "Unbranded Concrete Table",
+    "precio": 5903,
+    "stock": 71,
+    "proveedor_id": 10,
+    "sucursal_id": 3
+  },
+  {
+    "id": 195,
+    "nombre": "Rustic Steel Fish",
+    "precio": 8929,
+    "stock": 51,
+    "proveedor_id": 2,
+    "sucursal_id": 2
+  },
+  {
+    "id": 196,
+    "nombre": "Fantastic Bronze Towels",
+    "precio": 3653,
+    "stock": 72,
+    "proveedor_id": 9,
+    "sucursal_id": 7
+  },
+  {
+    "id": 197,
+    "nombre": "Fantastic Concrete Gloves",
+    "precio": 7694,
+    "stock": 79,
+    "proveedor_id": 8,
+    "sucursal_id": 8
+  },
+  {
+    "id": 198,
+    "nombre": "Fantastic Fresh Table",
+    "precio": 7622,
+    "stock": 5,
+    "proveedor_id": 5,
+    "sucursal_id": 8
+  },
+  {
+    "id": 199,
+    "nombre": "Incredible Cotton Chips",
+    "precio": 8391,
+    "stock": 16,
+    "proveedor_id": 5,
+    "sucursal_id": 1
+  },
+  {
+    "id": 200,
+    "nombre": "Practical Soft Mouse",
+    "precio": 3809,
+    "stock": 3,
+    "proveedor_id": 9,
+    "sucursal_id": 8
+  },
+  {
+    "id": 201,
+    "nombre": "Rustic Metal Chair",
+    "precio": 9243,
+    "stock": 42,
+    "proveedor_id": 5,
+    "sucursal_id": 6
+  },
+  {
+    "id": 202,
+    "nombre": "Fantastic Rubber Computer",
+    "precio": 9401,
+    "stock": 80,
+    "proveedor_id": 2,
+    "sucursal_id": 2
+  },
+  {
+    "id": 203,
+    "nombre": "Elegant Bronze Hat",
+    "precio": 2087,
+    "stock": 81,
+    "proveedor_id": 9,
+    "sucursal_id": 1
+  },
+  {
+    "id": 204,
+    "nombre": "Ergonomic Wooden Fish",
+    "precio": 2892,
+    "stock": 31,
+    "proveedor_id": 5,
+    "sucursal_id": 8
+  },
+  {
+    "id": 205,
+    "nombre": "Refined Soft Cheese",
+    "precio": 9175,
+    "stock": 61,
+    "proveedor_id": 6,
+    "sucursal_id": 1
+  },
+  {
+    "id": 206,
+    "nombre": "Refined Fresh Salad",
+    "precio": 9621,
+    "stock": 58,
+    "proveedor_id": 6,
+    "sucursal_id": 4
+  },
+  {
+    "id": 207,
+    "nombre": "Recycled Concrete Computer",
+    "precio": 8301,
+    "stock": 85,
+    "proveedor_id": 7,
+    "sucursal_id": 8
+  },
+  {
+    "id": 208,
+    "nombre": "Practical Wooden Salad",
+    "precio": 1991,
+    "stock": 13,
+    "proveedor_id": 3,
+    "sucursal_id": 6
+  },
+  {
+    "id": 209,
+    "nombre": "Elegant Wooden Computer",
+    "precio": 4179,
+    "stock": 63,
+    "proveedor_id": 10,
+    "sucursal_id": 6
+  },
+  {
+    "id": 210,
+    "nombre": "Luxurious Metal Gloves",
+    "precio": 5991,
+    "stock": 79,
+    "proveedor_id": 2,
+    "sucursal_id": 4
+  },
+  {
+    "id": 211,
+    "nombre": "Handmade Granite Keyboard",
+    "precio": 7715,
+    "stock": 1,
+    "proveedor_id": 7,
+    "sucursal_id": 2
+  },
+  {
+    "id": 212,
+    "nombre": "Ergonomic Concrete Bacon",
+    "precio": 4898,
+    "stock": 26,
+    "proveedor_id": 6,
+    "sucursal_id": 5
+  },
+  {
+    "id": 213,
+    "nombre": "Bespoke Cotton Chips",
+    "precio": 7254,
+    "stock": 84,
+    "proveedor_id": 1,
+    "sucursal_id": 3
+  },
+  {
+    "id": 214,
+    "nombre": "Practical Soft Car",
+    "precio": 5212,
+    "stock": 21,
+    "proveedor_id": 2,
+    "sucursal_id": 2
+  },
+  {
+    "id": 215,
+    "nombre": "Incredible Concrete Shirt",
+    "precio": 4602,
+    "stock": 84,
+    "proveedor_id": 8,
+    "sucursal_id": 7
+  },
+  {
+    "id": 216,
+    "nombre": "Gorgeous Metal Bike",
+    "precio": 9389,
+    "stock": 2,
+    "proveedor_id": 8,
+    "sucursal_id": 10
+  },
+  {
+    "id": 217,
+    "nombre": "Handcrafted Soft Salad",
+    "precio": 6277,
+    "stock": 82,
+    "proveedor_id": 6,
+    "sucursal_id": 1
+  },
+  {
+    "id": 218,
+    "nombre": "Generic Wooden Chicken",
+    "precio": 8986,
+    "stock": 12,
+    "proveedor_id": 4,
+    "sucursal_id": 1
+  },
+  {
+    "id": 219,
+    "nombre": "Refined Cotton Shoes",
+    "precio": 8618,
+    "stock": 18,
+    "proveedor_id": 8,
+    "sucursal_id": 9
+  },
+  {
+    "id": 220,
+    "nombre": "Small Wooden Tuna",
+    "precio": 4573,
+    "stock": 19,
+    "proveedor_id": 7,
+    "sucursal_id": 2
+  },
+  {
+    "id": 221,
+    "nombre": "Rustic Metal Pizza",
+    "precio": 6778,
+    "stock": 48,
+    "proveedor_id": 3,
+    "sucursal_id": 3
+  },
+  {
+    "id": 222,
+    "nombre": "Unbranded Soft Pants",
+    "precio": 5342,
+    "stock": 33,
+    "proveedor_id": 2,
+    "sucursal_id": 2
+  },
+  {
+    "id": 223,
+    "nombre": "Handcrafted Wooden Sausages",
+    "precio": 3002,
+    "stock": 71,
+    "proveedor_id": 3,
+    "sucursal_id": 3
+  },
+  {
+    "id": 224,
+    "nombre": "Intelligent Cotton Pants",
+    "precio": 1233,
+    "stock": 2,
+    "proveedor_id": 9,
+    "sucursal_id": 3
+  },
+  {
+    "id": 225,
+    "nombre": "Fantastic Frozen Cheese",
+    "precio": 6861,
+    "stock": 57,
+    "proveedor_id": 4,
+    "sucursal_id": 1
+  },
+  {
+    "id": 226,
+    "nombre": "Sleek Metal Sausages",
+    "precio": 5113,
+    "stock": 55,
+    "proveedor_id": 5,
+    "sucursal_id": 9
+  },
+  {
+    "id": 227,
+    "nombre": "Unbranded Rubber Car",
+    "precio": 2792,
+    "stock": 76,
+    "proveedor_id": 4,
+    "sucursal_id": 1
+  },
+  {
+    "id": 228,
+    "nombre": "Luxurious Frozen Fish",
+    "precio": 4468,
+    "stock": 35,
+    "proveedor_id": 10,
+    "sucursal_id": 3
+  },
+  {
+    "id": 229,
+    "nombre": "Electronic Granite Shoes",
+    "precio": 5166,
+    "stock": 71,
+    "proveedor_id": 8,
+    "sucursal_id": 3
+  },
+  {
+    "id": 230,
+    "nombre": "Practical Cotton Cheese",
+    "precio": 9402,
+    "stock": 19,
+    "proveedor_id": 6,
+    "sucursal_id": 10
+  },
+  {
+    "id": 231,
+    "nombre": "Small Granite Hat",
+    "precio": 2747,
+    "stock": 32,
+    "proveedor_id": 1,
+    "sucursal_id": 8
+  },
+  {
+    "id": 232,
+    "nombre": "Recycled Wooden Computer",
+    "precio": 4193,
+    "stock": 18,
+    "proveedor_id": 9,
+    "sucursal_id": 6
+  },
+  {
+    "id": 233,
+    "nombre": "Elegant Granite Salad",
+    "precio": 1562,
+    "stock": 51,
+    "proveedor_id": 10,
+    "sucursal_id": 10
+  },
+  {
+    "id": 234,
+    "nombre": "Intelligent Frozen Chicken",
+    "precio": 4417,
+    "stock": 29,
+    "proveedor_id": 2,
+    "sucursal_id": 2
+  },
+  {
+    "id": 235,
+    "nombre": "Luxurious Wooden Shirt",
+    "precio": 8441,
+    "stock": 5,
+    "proveedor_id": 5,
+    "sucursal_id": 7
+  },
+  {
+    "id": 236,
+    "nombre": "Sleek Plastic Pizza",
+    "precio": 2160,
+    "stock": 32,
+    "proveedor_id": 1,
+    "sucursal_id": 10
+  },
+  {
+    "id": 237,
+    "nombre": "Electronic Metal Chips",
+    "precio": 4560,
+    "stock": 47,
+    "proveedor_id": 10,
+    "sucursal_id": 1
+  },
+  {
+    "id": 238,
+    "nombre": "Incredible Steel Shoes",
+    "precio": 6683,
+    "stock": 63,
+    "proveedor_id": 10,
+    "sucursal_id": 9
+  },
+  {
+    "id": 239,
+    "nombre": "Luxurious Concrete Towels",
+    "precio": 4123,
+    "stock": 20,
+    "proveedor_id": 2,
+    "sucursal_id": 3
+  },
+  {
+    "id": 240,
+    "nombre": "Handcrafted Plastic Mouse",
+    "precio": 7120,
+    "stock": 90,
+    "proveedor_id": 9,
+    "sucursal_id": 8
+  },
+  {
+    "id": 241,
+    "nombre": "Practical Soft Towels",
+    "precio": 9949,
+    "stock": 86,
+    "proveedor_id": 1,
+    "sucursal_id": 2
+  },
+  {
+    "id": 242,
+    "nombre": "Bespoke Bronze Chicken",
+    "precio": 2556,
+    "stock": 50,
+    "proveedor_id": 6,
+    "sucursal_id": 4
+  },
+  {
+    "id": 243,
+    "nombre": "Sleek Wooden Shirt",
+    "precio": 9819,
+    "stock": 99,
+    "proveedor_id": 1,
+    "sucursal_id": 5
+  },
+  {
+    "id": 244,
+    "nombre": "Electronic Steel Table",
+    "precio": 2573,
+    "stock": 18,
+    "proveedor_id": 5,
+    "sucursal_id": 5
+  },
+  {
+    "id": 245,
+    "nombre": "Sleek Granite Gloves",
+    "precio": 8057,
+    "stock": 78,
+    "proveedor_id": 5,
+    "sucursal_id": 2
+  },
+  {
+    "id": 246,
+    "nombre": "Unbranded Metal Fish",
+    "precio": 9766,
+    "stock": 11,
+    "proveedor_id": 3,
+    "sucursal_id": 10
+  },
+  {
+    "id": 247,
+    "nombre": "Handcrafted Wooden Table",
+    "precio": 9004,
+    "stock": 63,
+    "proveedor_id": 4,
+    "sucursal_id": 10
+  },
+  {
+    "id": 248,
+    "nombre": "Rustic Plastic Towels",
+    "precio": 6215,
+    "stock": 30,
+    "proveedor_id": 10,
+    "sucursal_id": 4
+  },
+  {
+    "id": 249,
+    "nombre": "Gorgeous Cotton Tuna",
+    "precio": 2486,
+    "stock": 81,
+    "proveedor_id": 8,
+    "sucursal_id": 3
+  },
+  {
+    "id": 250,
+    "nombre": "Small Bronze Salad",
+    "precio": 5351,
+    "stock": 50,
+    "proveedor_id": 6,
+    "sucursal_id": 3
+  },
+  {
+    "id": 251,
+    "nombre": "Rustic Rubber Computer",
+    "precio": 9874,
+    "stock": 42,
+    "proveedor_id": 10,
+    "sucursal_id": 4
+  },
+  {
+    "id": 252,
+    "nombre": "Small Fresh Towels",
+    "precio": 8631,
+    "stock": 12,
+    "proveedor_id": 3,
+    "sucursal_id": 6
+  },
+  {
+    "id": 253,
+    "nombre": "Sleek Metal Bike",
+    "precio": 5077,
+    "stock": 63,
+    "proveedor_id": 3,
+    "sucursal_id": 4
+  },
+  {
+    "id": 254,
+    "nombre": "Incredible Granite Computer",
+    "precio": 9010,
+    "stock": 92,
+    "proveedor_id": 6,
+    "sucursal_id": 9
+  },
+  {
+    "id": 255,
+    "nombre": "Refined Soft Computer",
+    "precio": 1580,
+    "stock": 19,
+    "proveedor_id": 9,
+    "sucursal_id": 9
+  },
+  {
+    "id": 256,
+    "nombre": "Ergonomic Concrete Keyboard",
+    "precio": 6747,
+    "stock": 26,
+    "proveedor_id": 3,
+    "sucursal_id": 2
+  },
+  {
+    "id": 257,
+    "nombre": "Sleek Concrete Soap",
+    "precio": 5084,
+    "stock": 79,
+    "proveedor_id": 2,
+    "sucursal_id": 8
+  },
+  {
+    "id": 258,
+    "nombre": "Tasty Frozen Computer",
+    "precio": 5033,
+    "stock": 34,
+    "proveedor_id": 5,
+    "sucursal_id": 6
+  },
+  {
+    "id": 259,
+    "nombre": "Small Granite Tuna",
+    "precio": 2680,
+    "stock": 18,
+    "proveedor_id": 2,
+    "sucursal_id": 9
+  },
+  {
+    "id": 260,
+    "nombre": "Rustic Concrete Cheese",
+    "precio": 8810,
+    "stock": 56,
+    "proveedor_id": 4,
+    "sucursal_id": 10
+  },
+  {
+    "id": 261,
+    "nombre": "Small Plastic Hat",
+    "precio": 6104,
+    "stock": 42,
+    "proveedor_id": 8,
+    "sucursal_id": 2
+  },
+  {
+    "id": 262,
+    "nombre": "Ergonomic Granite Hat",
+    "precio": 9119,
+    "stock": 80,
+    "proveedor_id": 1,
+    "sucursal_id": 10
+  },
+  {
+    "id": 263,
+    "nombre": "Ergonomic Rubber Gloves",
+    "precio": 4817,
+    "stock": 52,
+    "proveedor_id": 3,
+    "sucursal_id": 8
+  },
+  {
+    "id": 264,
+    "nombre": "Awesome Cotton Cheese",
+    "precio": 7082,
+    "stock": 56,
+    "proveedor_id": 2,
+    "sucursal_id": 10
+  },
+  {
+    "id": 265,
+    "nombre": "Sleek Concrete Pizza",
+    "precio": 8145,
+    "stock": 61,
+    "proveedor_id": 10,
+    "sucursal_id": 1
+  },
+  {
+    "id": 266,
+    "nombre": "Tasty Steel Salad",
+    "precio": 3142,
+    "stock": 59,
+    "proveedor_id": 3,
+    "sucursal_id": 3
+  },
+  {
+    "id": 267,
+    "nombre": "Practical Bronze Fish",
+    "precio": 8603,
+    "stock": 80,
+    "proveedor_id": 7,
+    "sucursal_id": 2
+  },
+  {
+    "id": 268,
+    "nombre": "Fantastic Soft Cheese",
+    "precio": 6821,
+    "stock": 95,
+    "proveedor_id": 6,
+    "sucursal_id": 8
+  },
+  {
+    "id": 269,
+    "nombre": "Modern Fresh Table",
+    "precio": 9016,
+    "stock": 21,
+    "proveedor_id": 1,
+    "sucursal_id": 6
+  },
+  {
+    "id": 270,
+    "nombre": "Licensed Soft Bacon",
+    "precio": 7849,
+    "stock": 1,
+    "proveedor_id": 9,
+    "sucursal_id": 4
+  },
+  {
+    "id": 271,
+    "nombre": "Awesome Concrete Mouse",
+    "precio": 6533,
+    "stock": 51,
+    "proveedor_id": 2,
+    "sucursal_id": 6
+  },
+  {
+    "id": 272,
+    "nombre": "Luxurious Bronze Cheese",
+    "precio": 7709,
+    "stock": 88,
+    "proveedor_id": 2,
+    "sucursal_id": 1
+  },
+  {
+    "id": 273,
+    "nombre": "Fantastic Granite Computer",
+    "precio": 2645,
+    "stock": 4,
+    "proveedor_id": 9,
+    "sucursal_id": 10
+  },
+  {
+    "id": 274,
+    "nombre": "Bespoke Frozen Mouse",
+    "precio": 9318,
+    "stock": 57,
+    "proveedor_id": 6,
+    "sucursal_id": 4
+  },
+  {
+    "id": 275,
+    "nombre": "Electronic Soft Bacon",
+    "precio": 6389,
+    "stock": 17,
+    "proveedor_id": 10,
+    "sucursal_id": 4
+  },
+  {
+    "id": 276,
+    "nombre": "Refined Fresh Towels",
+    "precio": 7600,
+    "stock": 10,
+    "proveedor_id": 5,
+    "sucursal_id": 7
+  },
+  {
+    "id": 277,
+    "nombre": "Elegant Granite Bacon",
+    "precio": 7593,
+    "stock": 46,
+    "proveedor_id": 8,
+    "sucursal_id": 8
+  },
+  {
+    "id": 278,
+    "nombre": "Licensed Frozen Computer",
+    "precio": 1869,
+    "stock": 58,
+    "proveedor_id": 8,
+    "sucursal_id": 9
+  },
+  {
+    "id": 279,
+    "nombre": "Handcrafted Fresh Shoes",
+    "precio": 5037,
+    "stock": 51,
+    "proveedor_id": 5,
+    "sucursal_id": 1
+  },
+  {
+    "id": 280,
+    "nombre": "Unbranded Fresh Chips",
+    "precio": 7168,
+    "stock": 21,
+    "proveedor_id": 6,
+    "sucursal_id": 4
+  },
+  {
+    "id": 281,
+    "nombre": "Rustic Soft Pants",
+    "precio": 8292,
+    "stock": 56,
+    "proveedor_id": 8,
+    "sucursal_id": 1
+  },
+  {
+    "id": 282,
+    "nombre": "Recycled Plastic Chair",
+    "precio": 3709,
+    "stock": 55,
+    "proveedor_id": 10,
+    "sucursal_id": 3
+  },
+  {
+    "id": 283,
+    "nombre": "Small Wooden Ball",
+    "precio": 6456,
+    "stock": 20,
+    "proveedor_id": 1,
+    "sucursal_id": 8
+  },
+  {
+    "id": 284,
+    "nombre": "Tasty Bronze Pants",
+    "precio": 6999,
+    "stock": 35,
+    "proveedor_id": 2,
+    "sucursal_id": 9
+  },
+  {
+    "id": 285,
+    "nombre": "Incredible Steel Pants",
+    "precio": 5988,
+    "stock": 88,
+    "proveedor_id": 6,
+    "sucursal_id": 4
+  },
+  {
+    "id": 286,
+    "nombre": "Refined Metal Table",
+    "precio": 3765,
+    "stock": 37,
+    "proveedor_id": 10,
+    "sucursal_id": 3
+  },
+  {
+    "id": 287,
+    "nombre": "Oriental Soft Car",
+    "precio": 7945,
+    "stock": 33,
+    "proveedor_id": 6,
+    "sucursal_id": 7
+  },
+  {
+    "id": 288,
+    "nombre": "Practical Metal Table",
+    "precio": 1499,
+    "stock": 10,
+    "proveedor_id": 3,
+    "sucursal_id": 2
+  },
+  {
+    "id": 289,
+    "nombre": "Modern Fresh Ball",
+    "precio": 5090,
+    "stock": 8,
+    "proveedor_id": 4,
+    "sucursal_id": 1
+  },
+  {
+    "id": 290,
+    "nombre": "Refined Soft Soap",
+    "precio": 7295,
+    "stock": 5,
+    "proveedor_id": 6,
+    "sucursal_id": 9
+  },
+  {
+    "id": 291,
+    "nombre": "Gorgeous Plastic Bike",
+    "precio": 5140,
+    "stock": 56,
+    "proveedor_id": 1,
+    "sucursal_id": 1
+  },
+  {
+    "id": 292,
+    "nombre": "Practical Bronze Pants",
+    "precio": 7584,
+    "stock": 1,
+    "proveedor_id": 6,
+    "sucursal_id": 1
+  },
+  {
+    "id": 293,
+    "nombre": "Luxurious Soft Cheese",
+    "precio": 4492,
+    "stock": 85,
+    "proveedor_id": 2,
+    "sucursal_id": 6
+  },
+  {
+    "id": 294,
+    "nombre": "Recycled Concrete Chicken",
+    "precio": 7786,
+    "stock": 13,
+    "proveedor_id": 3,
+    "sucursal_id": 2
+  },
+  {
+    "id": 295,
+    "nombre": "Refined Wooden Tuna",
+    "precio": 4607,
+    "stock": 88,
+    "proveedor_id": 10,
+    "sucursal_id": 3
+  },
+  {
+    "id": 296,
+    "nombre": "Unbranded Frozen Shoes",
+    "precio": 6176,
+    "stock": 15,
+    "proveedor_id": 9,
+    "sucursal_id": 2
+  },
+  {
+    "id": 297,
+    "nombre": "Sleek Bronze Towels",
+    "precio": 2834,
+    "stock": 51,
+    "proveedor_id": 4,
+    "sucursal_id": 8
+  },
+  {
+    "id": 298,
+    "nombre": "Ergonomic Rubber Cheese",
+    "precio": 6436,
+    "stock": 68,
+    "proveedor_id": 1,
+    "sucursal_id": 6
+  },
+  {
+    "id": 299,
+    "nombre": "Luxurious Soft Chicken",
+    "precio": 5480,
+    "stock": 2,
+    "proveedor_id": 5,
+    "sucursal_id": 7
+  },
+  {
+    "id": 300,
+    "nombre": "Oriental Concrete Cheese",
+    "precio": 4620,
+    "stock": 95,
+    "proveedor_id": 10,
+    "sucursal_id": 1
+  },
+  {
+    "id": 301,
+    "nombre": "Sleek Concrete Mouse",
+    "precio": 7660,
+    "stock": 81,
+    "proveedor_id": 2,
+    "sucursal_id": 3
+  },
+  {
+    "id": 302,
+    "nombre": "Electronic Wooden Tuna",
+    "precio": 2113,
+    "stock": 31,
+    "proveedor_id": 1,
+    "sucursal_id": 4
+  },
+  {
+    "id": 303,
+    "nombre": "Handcrafted Fresh Hat",
+    "precio": 7726,
+    "stock": 14,
+    "proveedor_id": 10,
+    "sucursal_id": 2
+  },
+  {
+    "id": 304,
+    "nombre": "Awesome Metal Sausages",
+    "precio": 5854,
+    "stock": 40,
+    "proveedor_id": 7,
+    "sucursal_id": 6
+  },
+  {
+    "id": 305,
+    "nombre": "Rustic Frozen Chair",
+    "precio": 9796,
+    "stock": 75,
+    "proveedor_id": 2,
+    "sucursal_id": 1
+  },
+  {
+    "id": 306,
+    "nombre": "Fantastic Fresh Mouse",
+    "precio": 6653,
+    "stock": 88,
+    "proveedor_id": 1,
+    "sucursal_id": 5
+  },
+  {
+    "id": 307,
+    "nombre": "Incredible Fresh Bike",
+    "precio": 3318,
+    "stock": 62,
+    "proveedor_id": 6,
+    "sucursal_id": 2
+  },
+  {
+    "id": 308,
+    "nombre": "Gorgeous Steel Keyboard",
+    "precio": 2831,
+    "stock": 94,
+    "proveedor_id": 6,
+    "sucursal_id": 10
+  },
+  {
+    "id": 309,
+    "nombre": "Oriental Plastic Pizza",
+    "precio": 6845,
+    "stock": 90,
+    "proveedor_id": 5,
+    "sucursal_id": 10
+  },
+  {
+    "id": 310,
+    "nombre": "Rustic Steel Gloves",
+    "precio": 4151,
+    "stock": 74,
+    "proveedor_id": 8,
+    "sucursal_id": 5
+  },
+  {
+    "id": 311,
+    "nombre": "Incredible Bronze Pants",
+    "precio": 4049,
+    "stock": 77,
+    "proveedor_id": 9,
+    "sucursal_id": 5
+  },
+  {
+    "id": 312,
+    "nombre": "Luxurious Plastic Cheese",
+    "precio": 2615,
+    "stock": 12,
+    "proveedor_id": 6,
+    "sucursal_id": 7
+  },
+  {
+    "id": 313,
+    "nombre": "Luxurious Steel Mouse",
+    "precio": 8029,
+    "stock": 98,
+    "proveedor_id": 7,
+    "sucursal_id": 8
+  },
+  {
+    "id": 314,
+    "nombre": "Sleek Plastic Chips",
+    "precio": 2751,
+    "stock": 48,
+    "proveedor_id": 6,
+    "sucursal_id": 2
+  },
+  {
+    "id": 315,
+    "nombre": "Handcrafted Steel Gloves",
+    "precio": 9261,
+    "stock": 51,
+    "proveedor_id": 1,
+    "sucursal_id": 5
+  },
+  {
+    "id": 316,
+    "nombre": "Intelligent Rubber Salad",
+    "precio": 5178,
+    "stock": 78,
+    "proveedor_id": 1,
+    "sucursal_id": 1
+  },
+  {
+    "id": 317,
+    "nombre": "Recycled Soft Computer",
+    "precio": 6842,
+    "stock": 36,
+    "proveedor_id": 3,
+    "sucursal_id": 3
+  },
+  {
+    "id": 318,
+    "nombre": "Luxurious Steel Chair",
+    "precio": 6622,
+    "stock": 52,
+    "proveedor_id": 2,
+    "sucursal_id": 7
+  },
+  {
+    "id": 319,
+    "nombre": "Generic Cotton Pizza",
+    "precio": 4206,
+    "stock": 9,
+    "proveedor_id": 9,
+    "sucursal_id": 10
+  },
+  {
+    "id": 320,
+    "nombre": "Handcrafted Metal Cheese",
+    "precio": 2048,
+    "stock": 69,
+    "proveedor_id": 10,
+    "sucursal_id": 7
+  },
+  {
+    "id": 321,
+    "nombre": "Practical Steel Shoes",
+    "precio": 9242,
+    "stock": 36,
+    "proveedor_id": 7,
+    "sucursal_id": 9
+  },
+  {
+    "id": 322,
+    "nombre": "Luxurious Rubber Cheese",
+    "precio": 6636,
+    "stock": 99,
+    "proveedor_id": 9,
+    "sucursal_id": 7
+  },
+  {
+    "id": 323,
+    "nombre": "Awesome Fresh Tuna",
+    "precio": 2873,
+    "stock": 56,
+    "proveedor_id": 4,
+    "sucursal_id": 6
+  },
+  {
+    "id": 324,
+    "nombre": "Recycled Rubber Fish",
+    "precio": 6938,
+    "stock": 97,
+    "proveedor_id": 8,
+    "sucursal_id": 8
+  },
+  {
+    "id": 325,
+    "nombre": "Oriental Wooden Towels",
+    "precio": 5431,
+    "stock": 87,
+    "proveedor_id": 10,
+    "sucursal_id": 10
+  },
+  {
+    "id": 326,
+    "nombre": "Fantastic Bronze Keyboard",
+    "precio": 8005,
+    "stock": 6,
+    "proveedor_id": 9,
+    "sucursal_id": 9
+  },
+  {
+    "id": 327,
+    "nombre": "Incredible Bronze Soap",
+    "precio": 4556,
+    "stock": 18,
+    "proveedor_id": 3,
+    "sucursal_id": 3
+  },
+  {
+    "id": 328,
+    "nombre": "Oriental Wooden Bike",
+    "precio": 7741,
+    "stock": 23,
+    "proveedor_id": 3,
+    "sucursal_id": 4
+  },
+  {
+    "id": 329,
+    "nombre": "Recycled Plastic Ball",
+    "precio": 5765,
+    "stock": 75,
+    "proveedor_id": 4,
+    "sucursal_id": 6
+  },
+  {
+    "id": 330,
+    "nombre": "Gorgeous Wooden Bike",
+    "precio": 1186,
+    "stock": 36,
+    "proveedor_id": 9,
+    "sucursal_id": 1
+  },
+  {
+    "id": 331,
+    "nombre": "Sleek Wooden Tuna",
+    "precio": 6136,
+    "stock": 34,
+    "proveedor_id": 2,
+    "sucursal_id": 9
+  },
+  {
+    "id": 332,
+    "nombre": "Small Wooden Shirt",
+    "precio": 4170,
+    "stock": 6,
+    "proveedor_id": 9,
+    "sucursal_id": 10
+  },
+  {
+    "id": 333,
+    "nombre": "Electronic Plastic Shoes",
+    "precio": 7015,
+    "stock": 3,
+    "proveedor_id": 8,
+    "sucursal_id": 2
+  },
+  {
+    "id": 334,
+    "nombre": "Gorgeous Wooden Ball",
+    "precio": 3147,
+    "stock": 21,
+    "proveedor_id": 1,
+    "sucursal_id": 8
+  },
+  {
+    "id": 335,
+    "nombre": "Elegant Rubber Salad",
+    "precio": 8485,
+    "stock": 32,
+    "proveedor_id": 7,
+    "sucursal_id": 6
+  },
+  {
+    "id": 336,
+    "nombre": "Tasty Granite Hat",
+    "precio": 4456,
+    "stock": 25,
+    "proveedor_id": 8,
+    "sucursal_id": 10
+  },
+  {
+    "id": 337,
+    "nombre": "Handcrafted Rubber Fish",
+    "precio": 1540,
+    "stock": 100,
+    "proveedor_id": 8,
+    "sucursal_id": 8
+  },
+  {
+    "id": 338,
+    "nombre": "Oriental Cotton Mouse",
+    "precio": 8025,
+    "stock": 19,
+    "proveedor_id": 1,
+    "sucursal_id": 3
+  },
+  {
+    "id": 339,
+    "nombre": "Rustic Fresh Gloves",
+    "precio": 1513,
+    "stock": 47,
+    "proveedor_id": 6,
+    "sucursal_id": 9
+  },
+  {
+    "id": 340,
+    "nombre": "Recycled Soft Salad",
+    "precio": 1604,
+    "stock": 84,
+    "proveedor_id": 8,
+    "sucursal_id": 2
+  },
+  {
+    "id": 341,
+    "nombre": "Ergonomic Concrete Table",
+    "precio": 1498,
+    "stock": 96,
+    "proveedor_id": 10,
+    "sucursal_id": 6
+  },
+  {
+    "id": 342,
+    "nombre": "Oriental Bronze Hat",
+    "precio": 3700,
+    "stock": 88,
+    "proveedor_id": 2,
+    "sucursal_id": 1
+  },
+  {
+    "id": 343,
+    "nombre": "Refined Rubber Shirt",
+    "precio": 4078,
+    "stock": 78,
+    "proveedor_id": 8,
+    "sucursal_id": 8
+  },
+  {
+    "id": 344,
+    "nombre": "Unbranded Soft Tuna",
+    "precio": 9906,
+    "stock": 13,
+    "proveedor_id": 7,
+    "sucursal_id": 7
+  },
+  {
+    "id": 345,
+    "nombre": "Generic Concrete Keyboard",
+    "precio": 5790,
+    "stock": 33,
+    "proveedor_id": 2,
+    "sucursal_id": 7
+  },
+  {
+    "id": 346,
+    "nombre": "Intelligent Soft Sausages",
+    "precio": 8881,
+    "stock": 55,
+    "proveedor_id": 3,
+    "sucursal_id": 1
+  },
+  {
+    "id": 347,
+    "nombre": "Handcrafted Metal Sausages",
+    "precio": 8497,
+    "stock": 44,
+    "proveedor_id": 2,
+    "sucursal_id": 5
+  },
+  {
+    "id": 348,
+    "nombre": "Incredible Plastic Tuna",
+    "precio": 3733,
+    "stock": 35,
+    "proveedor_id": 1,
+    "sucursal_id": 6
+  },
+  {
+    "id": 349,
+    "nombre": "Gorgeous Plastic Ball",
+    "precio": 1228,
+    "stock": 38,
+    "proveedor_id": 6,
+    "sucursal_id": 10
+  },
+  {
+    "id": 350,
+    "nombre": "Luxurious Concrete Computer",
+    "precio": 5089,
+    "stock": 72,
+    "proveedor_id": 4,
+    "sucursal_id": 6
+  },
+  {
+    "id": 351,
+    "nombre": "Small Granite Chair",
+    "precio": 4477,
+    "stock": 46,
+    "proveedor_id": 6,
+    "sucursal_id": 4
+  },
+  {
+    "id": 352,
+    "nombre": "Bespoke Granite Shirt",
+    "precio": 5662,
+    "stock": 88,
+    "proveedor_id": 2,
+    "sucursal_id": 8
+  },
+  {
+    "id": 353,
+    "nombre": "Electronic Wooden Mouse",
+    "precio": 7062,
+    "stock": 17,
+    "proveedor_id": 6,
+    "sucursal_id": 4
+  },
+  {
+    "id": 354,
+    "nombre": "Intelligent Granite Chair",
+    "precio": 4860,
+    "stock": 84,
+    "proveedor_id": 1,
+    "sucursal_id": 10
+  },
+  {
+    "id": 355,
+    "nombre": "Recycled Bronze Hat",
+    "precio": 8169,
+    "stock": 63,
+    "proveedor_id": 1,
+    "sucursal_id": 6
+  },
+  {
+    "id": 356,
+    "nombre": "Small Wooden Shirt",
+    "precio": 8954,
+    "stock": 45,
+    "proveedor_id": 10,
+    "sucursal_id": 7
+  },
+  {
+    "id": 357,
+    "nombre": "Sleek Steel Soap",
+    "precio": 4636,
+    "stock": 69,
+    "proveedor_id": 6,
+    "sucursal_id": 6
+  },
+  {
+    "id": 358,
+    "nombre": "Practical Granite Car",
+    "precio": 7969,
+    "stock": 0,
+    "proveedor_id": 2,
+    "sucursal_id": 2
+  },
+  {
+    "id": 359,
+    "nombre": "Refined Wooden Sausages",
+    "precio": 9531,
+    "stock": 32,
+    "proveedor_id": 3,
+    "sucursal_id": 4
+  },
+  {
+    "id": 360,
+    "nombre": "Recycled Bronze Hat",
+    "precio": 5606,
+    "stock": 42,
+    "proveedor_id": 2,
+    "sucursal_id": 3
+  },
+  {
+    "id": 361,
+    "nombre": "Modern Metal Fish",
+    "precio": 7366,
+    "stock": 99,
+    "proveedor_id": 8,
+    "sucursal_id": 3
+  },
+  {
+    "id": 362,
+    "nombre": "Oriental Plastic Fish",
+    "precio": 8729,
+    "stock": 32,
+    "proveedor_id": 3,
+    "sucursal_id": 5
+  },
+  {
+    "id": 363,
+    "nombre": "Awesome Metal Shirt",
+    "precio": 8266,
+    "stock": 77,
+    "proveedor_id": 9,
+    "sucursal_id": 2
+  },
+  {
+    "id": 364,
+    "nombre": "Refined Wooden Chicken",
+    "precio": 2388,
+    "stock": 42,
+    "proveedor_id": 1,
+    "sucursal_id": 2
+  },
+  {
+    "id": 365,
+    "nombre": "Small Plastic Tuna",
+    "precio": 3973,
+    "stock": 1,
+    "proveedor_id": 4,
+    "sucursal_id": 3
+  },
+  {
+    "id": 366,
+    "nombre": "Intelligent Concrete Soap",
+    "precio": 4355,
+    "stock": 83,
+    "proveedor_id": 6,
+    "sucursal_id": 10
+  },
+  {
+    "id": 367,
+    "nombre": "Fantastic Plastic Shoes",
+    "precio": 2653,
+    "stock": 15,
+    "proveedor_id": 2,
+    "sucursal_id": 3
+  },
+  {
+    "id": 368,
+    "nombre": "Sleek Frozen Ball",
+    "precio": 7520,
+    "stock": 75,
+    "proveedor_id": 3,
+    "sucursal_id": 5
+  },
+  {
+    "id": 369,
+    "nombre": "Licensed Steel Shoes",
+    "precio": 5373,
+    "stock": 42,
+    "proveedor_id": 8,
+    "sucursal_id": 9
+  },
+  {
+    "id": 370,
+    "nombre": "Unbranded Granite Salad",
+    "precio": 8561,
+    "stock": 27,
+    "proveedor_id": 9,
+    "sucursal_id": 8
+  },
+  {
+    "id": 371,
+    "nombre": "Ergonomic Fresh Car",
+    "precio": 9914,
+    "stock": 96,
+    "proveedor_id": 9,
+    "sucursal_id": 4
+  },
+  {
+    "id": 372,
+    "nombre": "Handcrafted Metal Towels",
+    "precio": 5921,
+    "stock": 2,
+    "proveedor_id": 1,
+    "sucursal_id": 2
+  },
+  {
+    "id": 373,
+    "nombre": "Rustic Frozen Keyboard",
+    "precio": 3771,
+    "stock": 44,
+    "proveedor_id": 1,
+    "sucursal_id": 7
+  },
+  {
+    "id": 374,
+    "nombre": "Fantastic Plastic Table",
+    "precio": 5706,
+    "stock": 96,
+    "proveedor_id": 1,
+    "sucursal_id": 9
+  },
+  {
+    "id": 375,
+    "nombre": "Elegant Metal Pants",
+    "precio": 9924,
+    "stock": 72,
+    "proveedor_id": 9,
+    "sucursal_id": 1
+  },
+  {
+    "id": 376,
+    "nombre": "Bespoke Fresh Chips",
+    "precio": 5855,
+    "stock": 5,
+    "proveedor_id": 10,
+    "sucursal_id": 2
+  },
+  {
+    "id": 377,
+    "nombre": "Intelligent Rubber Ball",
+    "precio": 3513,
+    "stock": 52,
+    "proveedor_id": 5,
+    "sucursal_id": 5
+  },
+  {
+    "id": 378,
+    "nombre": "Fantastic Metal Shoes",
+    "precio": 9578,
+    "stock": 51,
+    "proveedor_id": 6,
+    "sucursal_id": 4
+  },
+  {
+    "id": 379,
+    "nombre": "Small Soft Cheese",
+    "precio": 7547,
+    "stock": 58,
+    "proveedor_id": 6,
+    "sucursal_id": 5
+  },
+  {
+    "id": 380,
+    "nombre": "Ergonomic Wooden Ball",
+    "precio": 9753,
+    "stock": 57,
+    "proveedor_id": 7,
+    "sucursal_id": 9
+  },
+  {
+    "id": 381,
+    "nombre": "Generic Metal Gloves",
+    "precio": 3225,
+    "stock": 72,
+    "proveedor_id": 9,
+    "sucursal_id": 10
+  },
+  {
+    "id": 382,
+    "nombre": "Electronic Soft Hat",
+    "precio": 5415,
+    "stock": 10,
+    "proveedor_id": 5,
+    "sucursal_id": 6
+  },
+  {
+    "id": 383,
+    "nombre": "Fantastic Bronze Ball",
+    "precio": 6087,
+    "stock": 85,
+    "proveedor_id": 4,
+    "sucursal_id": 10
+  },
+  {
+    "id": 384,
+    "nombre": "Elegant Soft Towels",
+    "precio": 2874,
+    "stock": 34,
+    "proveedor_id": 8,
+    "sucursal_id": 3
+  },
+  {
+    "id": 385,
+    "nombre": "Generic Wooden Cheese",
+    "precio": 3516,
+    "stock": 52,
+    "proveedor_id": 1,
+    "sucursal_id": 2
+  },
+  {
+    "id": 386,
+    "nombre": "Ergonomic Metal Bike",
+    "precio": 4117,
+    "stock": 51,
+    "proveedor_id": 3,
+    "sucursal_id": 1
+  },
+  {
+    "id": 387,
+    "nombre": "Handmade Wooden Computer",
+    "precio": 7912,
+    "stock": 100,
+    "proveedor_id": 7,
+    "sucursal_id": 7
+  },
+  {
+    "id": 388,
+    "nombre": "Ergonomic Steel Bacon",
+    "precio": 4456,
+    "stock": 86,
+    "proveedor_id": 3,
+    "sucursal_id": 3
+  },
+  {
+    "id": 389,
+    "nombre": "Rustic Fresh Computer",
+    "precio": 9842,
+    "stock": 15,
+    "proveedor_id": 6,
+    "sucursal_id": 9
+  },
+  {
+    "id": 390,
+    "nombre": "Intelligent Concrete Pizza",
+    "precio": 2944,
+    "stock": 71,
+    "proveedor_id": 1,
+    "sucursal_id": 1
+  },
+  {
+    "id": 391,
+    "nombre": "Awesome Plastic Car",
+    "precio": 8655,
+    "stock": 39,
+    "proveedor_id": 5,
+    "sucursal_id": 3
+  },
+  {
+    "id": 392,
+    "nombre": "Licensed Rubber Computer",
+    "precio": 6933,
+    "stock": 1,
+    "proveedor_id": 9,
+    "sucursal_id": 7
+  },
+  {
+    "id": 393,
+    "nombre": "Unbranded Rubber Chicken",
+    "precio": 1632,
+    "stock": 75,
+    "proveedor_id": 5,
+    "sucursal_id": 7
+  },
+  {
+    "id": 394,
+    "nombre": "Refined Wooden Gloves",
+    "precio": 6610,
+    "stock": 57,
+    "proveedor_id": 10,
+    "sucursal_id": 7
+  },
+  {
+    "id": 395,
+    "nombre": "Generic Plastic Pants",
+    "precio": 3269,
+    "stock": 95,
+    "proveedor_id": 7,
+    "sucursal_id": 1
+  },
+  {
+    "id": 396,
+    "nombre": "Generic Concrete Chair",
+    "precio": 5639,
+    "stock": 33,
+    "proveedor_id": 1,
+    "sucursal_id": 2
+  },
+  {
+    "id": 397,
+    "nombre": "Handcrafted Soft Bacon",
+    "precio": 2131,
+    "stock": 3,
+    "proveedor_id": 5,
+    "sucursal_id": 7
+  },
+  {
+    "id": 398,
+    "nombre": "Electronic Steel Table",
+    "precio": 3325,
+    "stock": 74,
+    "proveedor_id": 10,
+    "sucursal_id": 1
+  },
+  {
+    "id": 399,
+    "nombre": "Tasty Soft Keyboard",
+    "precio": 9988,
+    "stock": 69,
+    "proveedor_id": 10,
+    "sucursal_id": 9
+  },
+  {
+    "id": 400,
+    "nombre": "Licensed Plastic Soap",
+    "precio": 5102,
+    "stock": 0,
+    "proveedor_id": 3,
+    "sucursal_id": 9
+  },
+  {
+    "id": 401,
+    "nombre": "Handmade Soft Ball",
+    "precio": 8419,
+    "stock": 32,
+    "proveedor_id": 6,
+    "sucursal_id": 9
+  },
+  {
+    "id": 402,
+    "nombre": "Sleek Wooden Cheese",
+    "precio": 5625,
+    "stock": 51,
+    "proveedor_id": 2,
+    "sucursal_id": 8
+  },
+  {
+    "id": 403,
+    "nombre": "Handcrafted Plastic Tuna",
+    "precio": 9801,
+    "stock": 42,
+    "proveedor_id": 10,
+    "sucursal_id": 1
+  },
+  {
+    "id": 404,
+    "nombre": "Intelligent Soft Pants",
+    "precio": 9498,
+    "stock": 71,
+    "proveedor_id": 2,
+    "sucursal_id": 2
+  },
+  {
+    "id": 405,
+    "nombre": "Sleek Concrete Towels",
+    "precio": 7533,
+    "stock": 28,
+    "proveedor_id": 4,
+    "sucursal_id": 8
+  },
+  {
+    "id": 406,
+    "nombre": "Refined Fresh Sausages",
+    "precio": 3679,
+    "stock": 23,
+    "proveedor_id": 10,
+    "sucursal_id": 10
+  },
+  {
+    "id": 407,
+    "nombre": "Incredible Soft Bike",
+    "precio": 6896,
+    "stock": 39,
+    "proveedor_id": 2,
+    "sucursal_id": 1
+  },
+  {
+    "id": 408,
+    "nombre": "Handcrafted Granite Pants",
+    "precio": 6243,
+    "stock": 1,
+    "proveedor_id": 5,
+    "sucursal_id": 9
+  },
+  {
+    "id": 409,
+    "nombre": "Generic Fresh Computer",
+    "precio": 5516,
+    "stock": 28,
+    "proveedor_id": 6,
+    "sucursal_id": 7
+  },
+  {
+    "id": 410,
+    "nombre": "Rustic Concrete Keyboard",
+    "precio": 9472,
+    "stock": 94,
+    "proveedor_id": 7,
+    "sucursal_id": 10
+  },
+  {
+    "id": 411,
+    "nombre": "Oriental Rubber Keyboard",
+    "precio": 3211,
+    "stock": 91,
+    "proveedor_id": 2,
+    "sucursal_id": 1
+  },
+  {
+    "id": 412,
+    "nombre": "Rustic Soft Chair",
+    "precio": 2159,
+    "stock": 26,
+    "proveedor_id": 10,
+    "sucursal_id": 9
+  },
+  {
+    "id": 413,
+    "nombre": "Bespoke Granite Shirt",
+    "precio": 9127,
+    "stock": 39,
+    "proveedor_id": 4,
+    "sucursal_id": 4
+  },
+  {
+    "id": 414,
+    "nombre": "Bespoke Rubber Mouse",
+    "precio": 3468,
+    "stock": 6,
+    "proveedor_id": 7,
+    "sucursal_id": 8
+  },
+  {
+    "id": 415,
+    "nombre": "Gorgeous Soft Car",
+    "precio": 4205,
+    "stock": 38,
+    "proveedor_id": 5,
+    "sucursal_id": 7
+  },
+  {
+    "id": 416,
+    "nombre": "Handcrafted Granite Car",
+    "precio": 6519,
+    "stock": 38,
+    "proveedor_id": 8,
+    "sucursal_id": 2
+  },
+  {
+    "id": 417,
+    "nombre": "Handmade Metal Chips",
+    "precio": 8611,
+    "stock": 37,
+    "proveedor_id": 2,
+    "sucursal_id": 8
+  },
+  {
+    "id": 418,
+    "nombre": "Awesome Plastic Fish",
+    "precio": 4448,
+    "stock": 31,
+    "proveedor_id": 10,
+    "sucursal_id": 10
+  },
+  {
+    "id": 419,
+    "nombre": "Bespoke Granite Keyboard",
+    "precio": 1580,
+    "stock": 72,
+    "proveedor_id": 8,
+    "sucursal_id": 1
+  },
+  {
+    "id": 420,
+    "nombre": "Practical Granite Table",
+    "precio": 2311,
+    "stock": 62,
+    "proveedor_id": 3,
+    "sucursal_id": 6
+  },
+  {
+    "id": 421,
+    "nombre": "Unbranded Metal Car",
+    "precio": 1233,
+    "stock": 29,
+    "proveedor_id": 4,
+    "sucursal_id": 9
+  },
+  {
+    "id": 422,
+    "nombre": "Incredible Wooden Computer",
+    "precio": 9076,
+    "stock": 73,
+    "proveedor_id": 2,
+    "sucursal_id": 5
+  },
+  {
+    "id": 423,
+    "nombre": "Handcrafted Steel Shoes",
+    "precio": 4068,
+    "stock": 6,
+    "proveedor_id": 8,
+    "sucursal_id": 10
+  },
+  {
+    "id": 424,
+    "nombre": "Fantastic Plastic Soap",
+    "precio": 3400,
+    "stock": 42,
+    "proveedor_id": 1,
+    "sucursal_id": 10
+  },
+  {
+    "id": 425,
+    "nombre": "Intelligent Rubber Car",
+    "precio": 8005,
+    "stock": 7,
+    "proveedor_id": 4,
+    "sucursal_id": 9
+  },
+  {
+    "id": 426,
+    "nombre": "Handmade Steel Mouse",
+    "precio": 5028,
+    "stock": 20,
+    "proveedor_id": 4,
+    "sucursal_id": 1
+  },
+  {
+    "id": 427,
+    "nombre": "Intelligent Granite Towels",
+    "precio": 3516,
+    "stock": 28,
+    "proveedor_id": 10,
+    "sucursal_id": 1
+  },
+  {
+    "id": 428,
+    "nombre": "Sleek Steel Mouse",
+    "precio": 6942,
+    "stock": 88,
+    "proveedor_id": 5,
+    "sucursal_id": 5
+  },
+  {
+    "id": 429,
+    "nombre": "Refined Metal Chips",
+    "precio": 9098,
+    "stock": 82,
+    "proveedor_id": 9,
+    "sucursal_id": 7
+  },
+  {
+    "id": 430,
+    "nombre": "Modern Steel Gloves",
+    "precio": 1774,
+    "stock": 85,
+    "proveedor_id": 3,
+    "sucursal_id": 4
+  },
+  {
+    "id": 431,
+    "nombre": "Tasty Fresh Hat",
+    "precio": 4916,
+    "stock": 94,
+    "proveedor_id": 5,
+    "sucursal_id": 1
+  },
+  {
+    "id": 432,
+    "nombre": "Small Rubber Shirt",
+    "precio": 9451,
+    "stock": 9,
+    "proveedor_id": 7,
+    "sucursal_id": 5
+  },
+  {
+    "id": 433,
+    "nombre": "Generic Steel Chair",
+    "precio": 8895,
+    "stock": 18,
+    "proveedor_id": 10,
+    "sucursal_id": 2
+  },
+  {
+    "id": 434,
+    "nombre": "Fantastic Steel Bike",
+    "precio": 7867,
+    "stock": 10,
+    "proveedor_id": 9,
+    "sucursal_id": 4
+  },
+  {
+    "id": 435,
+    "nombre": "Recycled Steel Chips",
+    "precio": 2607,
+    "stock": 87,
+    "proveedor_id": 5,
+    "sucursal_id": 3
+  },
+  {
+    "id": 436,
+    "nombre": "Awesome Bronze Hat",
+    "precio": 4344,
+    "stock": 60,
+    "proveedor_id": 5,
+    "sucursal_id": 3
+  },
+  {
+    "id": 437,
+    "nombre": "Tasty Granite Bike",
+    "precio": 4406,
+    "stock": 78,
+    "proveedor_id": 7,
+    "sucursal_id": 8
+  },
+  {
+    "id": 438,
+    "nombre": "Refined Metal Keyboard",
+    "precio": 9053,
+    "stock": 95,
+    "proveedor_id": 5,
+    "sucursal_id": 1
+  },
+  {
+    "id": 439,
+    "nombre": "Gorgeous Cotton Chicken",
+    "precio": 5351,
+    "stock": 68,
+    "proveedor_id": 5,
+    "sucursal_id": 8
+  },
+  {
+    "id": 440,
+    "nombre": "Ergonomic Rubber Fish",
+    "precio": 1140,
+    "stock": 26,
+    "proveedor_id": 1,
+    "sucursal_id": 3
+  },
+  {
+    "id": 441,
+    "nombre": "Fantastic Metal Pizza",
+    "precio": 2441,
+    "stock": 100,
+    "proveedor_id": 10,
+    "sucursal_id": 8
+  },
+  {
+    "id": 442,
+    "nombre": "Bespoke Cotton Table",
+    "precio": 5126,
+    "stock": 88,
+    "proveedor_id": 2,
+    "sucursal_id": 8
+  },
+  {
+    "id": 443,
+    "nombre": "Tasty Rubber Keyboard",
+    "precio": 5144,
+    "stock": 97,
+    "proveedor_id": 1,
+    "sucursal_id": 1
+  },
+  {
+    "id": 444,
+    "nombre": "Small Steel Table",
+    "precio": 7871,
+    "stock": 72,
+    "proveedor_id": 8,
+    "sucursal_id": 9
+  },
+  {
+    "id": 445,
+    "nombre": "Intelligent Concrete Shirt",
+    "precio": 8040,
+    "stock": 41,
+    "proveedor_id": 3,
+    "sucursal_id": 8
+  },
+  {
+    "id": 446,
+    "nombre": "Unbranded Plastic Keyboard",
+    "precio": 5723,
+    "stock": 41,
+    "proveedor_id": 4,
+    "sucursal_id": 5
+  },
+  {
+    "id": 447,
+    "nombre": "Handmade Metal Sausages",
+    "precio": 4475,
+    "stock": 53,
+    "proveedor_id": 7,
+    "sucursal_id": 10
+  },
+  {
+    "id": 448,
+    "nombre": "Ergonomic Steel Shoes",
+    "precio": 6433,
+    "stock": 23,
+    "proveedor_id": 9,
+    "sucursal_id": 4
+  },
+  {
+    "id": 449,
+    "nombre": "Rustic Soft Chair",
+    "precio": 3763,
+    "stock": 62,
+    "proveedor_id": 8,
+    "sucursal_id": 2
+  },
+  {
+    "id": 450,
+    "nombre": "Elegant Bronze Tuna",
+    "precio": 4205,
+    "stock": 24,
+    "proveedor_id": 2,
+    "sucursal_id": 4
+  },
+  {
+    "id": 451,
+    "nombre": "Modern Fresh Pizza",
+    "precio": 1571,
+    "stock": 92,
+    "proveedor_id": 3,
+    "sucursal_id": 8
+  },
+  {
+    "id": 452,
+    "nombre": "Licensed Metal Ball",
+    "precio": 6580,
+    "stock": 34,
+    "proveedor_id": 5,
+    "sucursal_id": 7
+  },
+  {
+    "id": 453,
+    "nombre": "Electronic Concrete Salad",
+    "precio": 2699,
+    "stock": 27,
+    "proveedor_id": 5,
+    "sucursal_id": 2
+  },
+  {
+    "id": 454,
+    "nombre": "Generic Metal Pants",
+    "precio": 7223,
+    "stock": 37,
+    "proveedor_id": 7,
+    "sucursal_id": 4
+  },
+  {
+    "id": 455,
+    "nombre": "Modern Metal Shirt",
+    "precio": 3351,
+    "stock": 7,
+    "proveedor_id": 10,
+    "sucursal_id": 9
+  },
+  {
+    "id": 456,
+    "nombre": "Small Metal Towels",
+    "precio": 3516,
+    "stock": 89,
+    "proveedor_id": 1,
+    "sucursal_id": 3
+  },
+  {
+    "id": 457,
+    "nombre": "Intelligent Wooden Shoes",
+    "precio": 3864,
+    "stock": 72,
+    "proveedor_id": 4,
+    "sucursal_id": 1
+  },
+  {
+    "id": 458,
+    "nombre": "Fantastic Concrete Car",
+    "precio": 7609,
+    "stock": 9,
+    "proveedor_id": 2,
+    "sucursal_id": 2
+  },
+  {
+    "id": 459,
+    "nombre": "Sleek Concrete Chair",
+    "precio": 1090,
+    "stock": 34,
+    "proveedor_id": 6,
+    "sucursal_id": 1
+  },
+  {
+    "id": 460,
+    "nombre": "Modern Metal Chicken",
+    "precio": 9068,
+    "stock": 56,
+    "proveedor_id": 5,
+    "sucursal_id": 2
+  },
+  {
+    "id": 461,
+    "nombre": "Oriental Frozen Cheese",
+    "precio": 5544,
+    "stock": 40,
+    "proveedor_id": 2,
+    "sucursal_id": 10
+  },
+  {
+    "id": 462,
+    "nombre": "Electronic Concrete Cheese",
+    "precio": 9448,
+    "stock": 46,
+    "proveedor_id": 4,
+    "sucursal_id": 8
+  },
+  {
+    "id": 463,
+    "nombre": "Elegant Plastic Gloves",
+    "precio": 6126,
+    "stock": 20,
+    "proveedor_id": 10,
+    "sucursal_id": 8
+  },
+  {
+    "id": 464,
+    "nombre": "Generic Bronze Soap",
+    "precio": 1559,
+    "stock": 86,
+    "proveedor_id": 3,
+    "sucursal_id": 10
+  },
+  {
+    "id": 465,
+    "nombre": "Tasty Wooden Soap",
+    "precio": 3397,
+    "stock": 26,
+    "proveedor_id": 9,
+    "sucursal_id": 6
+  },
+  {
+    "id": 466,
+    "nombre": "Licensed Concrete Pizza",
+    "precio": 9649,
+    "stock": 23,
+    "proveedor_id": 5,
+    "sucursal_id": 8
+  },
+  {
+    "id": 467,
+    "nombre": "Bespoke Plastic Pants",
+    "precio": 7706,
+    "stock": 5,
+    "proveedor_id": 1,
+    "sucursal_id": 2
+  },
+  {
+    "id": 468,
+    "nombre": "Generic Concrete Mouse",
+    "precio": 9737,
+    "stock": 36,
+    "proveedor_id": 9,
+    "sucursal_id": 7
+  },
+  {
+    "id": 469,
+    "nombre": "Electronic Metal Mouse",
+    "precio": 4165,
+    "stock": 1,
+    "proveedor_id": 10,
+    "sucursal_id": 2
+  },
+  {
+    "id": 470,
+    "nombre": "Unbranded Frozen Pants",
+    "precio": 7851,
+    "stock": 53,
+    "proveedor_id": 4,
+    "sucursal_id": 2
+  },
+  {
+    "id": 471,
+    "nombre": "Electronic Bronze Shirt",
+    "precio": 7403,
+    "stock": 95,
+    "proveedor_id": 6,
+    "sucursal_id": 7
+  },
+  {
+    "id": 472,
+    "nombre": "Gorgeous Wooden Towels",
+    "precio": 7220,
+    "stock": 99,
+    "proveedor_id": 4,
+    "sucursal_id": 9
+  },
+  {
+    "id": 473,
+    "nombre": "Licensed Granite Pizza",
+    "precio": 7275,
+    "stock": 33,
+    "proveedor_id": 7,
+    "sucursal_id": 5
+  },
+  {
+    "id": 474,
+    "nombre": "Oriental Concrete Pants",
+    "precio": 8551,
+    "stock": 23,
+    "proveedor_id": 1,
+    "sucursal_id": 8
+  },
+  {
+    "id": 475,
+    "nombre": "Bespoke Plastic Table",
+    "precio": 9682,
+    "stock": 24,
+    "proveedor_id": 3,
+    "sucursal_id": 3
+  },
+  {
+    "id": 476,
+    "nombre": "Recycled Rubber Car",
+    "precio": 9219,
+    "stock": 30,
+    "proveedor_id": 2,
+    "sucursal_id": 5
+  },
+  {
+    "id": 477,
+    "nombre": "Elegant Cotton Chicken",
+    "precio": 9984,
+    "stock": 37,
+    "proveedor_id": 10,
+    "sucursal_id": 1
+  },
+  {
+    "id": 478,
+    "nombre": "Electronic Concrete Shirt",
+    "precio": 5103,
+    "stock": 50,
+    "proveedor_id": 8,
+    "sucursal_id": 9
+  },
+  {
+    "id": 479,
+    "nombre": "Handcrafted Wooden Mouse",
+    "precio": 8078,
+    "stock": 45,
+    "proveedor_id": 5,
+    "sucursal_id": 1
+  },
+  {
+    "id": 480,
+    "nombre": "Handmade Soft Car",
+    "precio": 1688,
+    "stock": 39,
+    "proveedor_id": 5,
+    "sucursal_id": 1
+  },
+  {
+    "id": 481,
+    "nombre": "Gorgeous Metal Bike",
+    "precio": 8883,
+    "stock": 16,
+    "proveedor_id": 5,
+    "sucursal_id": 8
+  },
+  {
+    "id": 482,
+    "nombre": "Fantastic Granite Tuna",
+    "precio": 4006,
+    "stock": 78,
+    "proveedor_id": 9,
+    "sucursal_id": 8
+  },
+  {
+    "id": 483,
+    "nombre": "Small Steel Pants",
+    "precio": 3645,
+    "stock": 64,
+    "proveedor_id": 3,
+    "sucursal_id": 9
+  },
+  {
+    "id": 484,
+    "nombre": "Refined Frozen Ball",
+    "precio": 6808,
+    "stock": 9,
+    "proveedor_id": 6,
+    "sucursal_id": 1
+  },
+  {
+    "id": 485,
+    "nombre": "Licensed Frozen Mouse",
+    "precio": 1399,
+    "stock": 1,
+    "proveedor_id": 3,
+    "sucursal_id": 3
+  },
+  {
+    "id": 486,
+    "nombre": "Gorgeous Soft Mouse",
+    "precio": 6241,
+    "stock": 64,
+    "proveedor_id": 10,
+    "sucursal_id": 9
+  },
+  {
+    "id": 487,
+    "nombre": "Electronic Steel Tuna",
+    "precio": 9985,
+    "stock": 62,
+    "proveedor_id": 4,
+    "sucursal_id": 2
+  },
+  {
+    "id": 488,
+    "nombre": "Recycled Fresh Computer",
+    "precio": 4753,
+    "stock": 99,
+    "proveedor_id": 1,
+    "sucursal_id": 5
+  },
+  {
+    "id": 489,
+    "nombre": "Unbranded Bronze Sausages",
+    "precio": 4998,
+    "stock": 25,
+    "proveedor_id": 3,
+    "sucursal_id": 5
+  },
+  {
+    "id": 490,
+    "nombre": "Licensed Plastic Cheese",
+    "precio": 5271,
+    "stock": 42,
+    "proveedor_id": 4,
+    "sucursal_id": 9
+  },
+  {
+    "id": 491,
+    "nombre": "Handcrafted Metal Cheese",
+    "precio": 3229,
+    "stock": 48,
+    "proveedor_id": 10,
+    "sucursal_id": 3
+  },
+  {
+    "id": 492,
+    "nombre": "Refined Metal Bacon",
+    "precio": 3603,
+    "stock": 63,
+    "proveedor_id": 1,
+    "sucursal_id": 6
+  },
+  {
+    "id": 493,
+    "nombre": "Modern Cotton Ball",
+    "precio": 5782,
+    "stock": 32,
+    "proveedor_id": 7,
+    "sucursal_id": 9
+  },
+  {
+    "id": 494,
+    "nombre": "Intelligent Plastic Computer",
+    "precio": 6261,
+    "stock": 0,
+    "proveedor_id": 3,
+    "sucursal_id": 9
+  },
+  {
+    "id": 495,
+    "nombre": "Licensed Frozen Cheese",
+    "precio": 4114,
+    "stock": 6,
+    "proveedor_id": 4,
+    "sucursal_id": 4
+  },
+  {
+    "id": 496,
+    "nombre": "Incredible Fresh Computer",
+    "precio": 8104,
+    "stock": 34,
+    "proveedor_id": 5,
+    "sucursal_id": 8
+  },
+  {
+    "id": 497,
+    "nombre": "Recycled Cotton Shirt",
+    "precio": 5563,
+    "stock": 15,
+    "proveedor_id": 3,
+    "sucursal_id": 6
+  },
+  {
+    "id": 498,
+    "nombre": "Generic Soft Keyboard",
+    "precio": 4553,
+    "stock": 66,
+    "proveedor_id": 9,
+    "sucursal_id": 8
+  },
+  {
+    "id": 499,
+    "nombre": "Practical Granite Gloves",
+    "precio": 8315,
+    "stock": 51,
+    "proveedor_id": 1,
+    "sucursal_id": 9
+  },
+  {
+    "id": 500,
+    "nombre": "Bespoke Fresh Sausages",
+    "precio": 5400,
+    "stock": 29,
+    "proveedor_id": 3,
+    "sucursal_id": 5
+  },
+  {
+    "id": 501,
+    "nombre": "Modern Plastic Chicken",
+    "precio": 3680,
+    "stock": 80,
+    "proveedor_id": 5,
+    "sucursal_id": 1
+  },
+  {
+    "id": 502,
+    "nombre": "Modern Concrete Pants",
+    "precio": 6025,
+    "stock": 68,
+    "proveedor_id": 9,
+    "sucursal_id": 4
+  },
+  {
+    "id": 503,
+    "nombre": "Recycled Granite Salad",
+    "precio": 5592,
+    "stock": 58,
+    "proveedor_id": 2,
+    "sucursal_id": 3
+  },
+  {
+    "id": 504,
+    "nombre": "Licensed Granite Computer",
+    "precio": 2711,
+    "stock": 89,
+    "proveedor_id": 8,
+    "sucursal_id": 4
+  },
+  {
+    "id": 505,
+    "nombre": "Awesome Soft Keyboard",
+    "precio": 7639,
+    "stock": 93,
+    "proveedor_id": 6,
+    "sucursal_id": 9
+  },
+  {
+    "id": 506,
+    "nombre": "Sleek Soft Keyboard",
+    "precio": 2589,
+    "stock": 85,
+    "proveedor_id": 3,
+    "sucursal_id": 6
+  },
+  {
+    "id": 507,
+    "nombre": "Handcrafted Fresh Cheese",
+    "precio": 3117,
+    "stock": 94,
+    "proveedor_id": 1,
+    "sucursal_id": 5
+  },
+  {
+    "id": 508,
+    "nombre": "Rustic Bronze Sausages",
+    "precio": 8137,
+    "stock": 39,
+    "proveedor_id": 5,
+    "sucursal_id": 1
+  },
+  {
+    "id": 509,
+    "nombre": "Luxurious Bronze Bacon",
+    "precio": 5715,
+    "stock": 25,
+    "proveedor_id": 1,
+    "sucursal_id": 1
+  },
+  {
+    "id": 510,
+    "nombre": "Incredible Fresh Sausages",
+    "precio": 7097,
+    "stock": 7,
+    "proveedor_id": 10,
+    "sucursal_id": 8
+  },
+  {
+    "id": 511,
+    "nombre": "Recycled Frozen Table",
+    "precio": 1179,
+    "stock": 61,
+    "proveedor_id": 2,
+    "sucursal_id": 2
+  },
+  {
+    "id": 512,
+    "nombre": "Electronic Granite Table",
+    "precio": 9254,
+    "stock": 78,
+    "proveedor_id": 9,
+    "sucursal_id": 5
+  },
+  {
+    "id": 513,
+    "nombre": "Tasty Rubber Pants",
+    "precio": 1511,
+    "stock": 47,
+    "proveedor_id": 6,
+    "sucursal_id": 2
+  },
+  {
+    "id": 514,
+    "nombre": "Small Soft Bacon",
+    "precio": 2824,
+    "stock": 48,
+    "proveedor_id": 9,
+    "sucursal_id": 2
+  },
+  {
+    "id": 515,
+    "nombre": "Oriental Granite Chicken",
+    "precio": 7971,
+    "stock": 8,
+    "proveedor_id": 1,
+    "sucursal_id": 10
+  },
+  {
+    "id": 516,
+    "nombre": "Electronic Granite Bacon",
+    "precio": 5905,
+    "stock": 93,
+    "proveedor_id": 10,
+    "sucursal_id": 7
+  },
+  {
+    "id": 517,
+    "nombre": "Licensed Plastic Hat",
+    "precio": 7989,
+    "stock": 31,
+    "proveedor_id": 4,
+    "sucursal_id": 1
+  },
+  {
+    "id": 518,
+    "nombre": "Recycled Bronze Fish",
+    "precio": 4999,
+    "stock": 72,
+    "proveedor_id": 3,
+    "sucursal_id": 9
+  },
+  {
+    "id": 519,
+    "nombre": "Unbranded Bronze Bike",
+    "precio": 9866,
+    "stock": 16,
+    "proveedor_id": 10,
+    "sucursal_id": 10
+  },
+  {
+    "id": 520,
+    "nombre": "Recycled Concrete Chicken",
+    "precio": 1847,
+    "stock": 80,
+    "proveedor_id": 6,
+    "sucursal_id": 10
+  },
+  {
+    "id": 521,
+    "nombre": "Ergonomic Wooden Soap",
+    "precio": 5307,
+    "stock": 39,
+    "proveedor_id": 10,
+    "sucursal_id": 2
+  },
+  {
+    "id": 522,
+    "nombre": "Oriental Rubber Sausages",
+    "precio": 1904,
+    "stock": 43,
+    "proveedor_id": 2,
+    "sucursal_id": 7
+  },
+  {
+    "id": 523,
+    "nombre": "Intelligent Concrete Keyboard",
+    "precio": 9141,
+    "stock": 92,
+    "proveedor_id": 6,
+    "sucursal_id": 1
+  },
+  {
+    "id": 524,
+    "nombre": "Generic Frozen Pizza",
+    "precio": 7215,
+    "stock": 69,
+    "proveedor_id": 7,
+    "sucursal_id": 7
+  },
+  {
+    "id": 525,
+    "nombre": "Ergonomic Bronze Shirt",
+    "precio": 1473,
+    "stock": 51,
+    "proveedor_id": 4,
+    "sucursal_id": 1
+  },
+  {
+    "id": 526,
+    "nombre": "Rustic Metal Tuna",
+    "precio": 4462,
+    "stock": 80,
+    "proveedor_id": 5,
+    "sucursal_id": 3
+  },
+  {
+    "id": 527,
+    "nombre": "Elegant Frozen Shoes",
+    "precio": 8116,
+    "stock": 20,
+    "proveedor_id": 1,
+    "sucursal_id": 7
+  },
+  {
+    "id": 528,
+    "nombre": "Fantastic Rubber Cheese",
+    "precio": 9772,
+    "stock": 4,
+    "proveedor_id": 7,
+    "sucursal_id": 7
+  },
+  {
+    "id": 529,
+    "nombre": "Tasty Rubber Hat",
+    "precio": 5883,
+    "stock": 100,
+    "proveedor_id": 4,
+    "sucursal_id": 5
+  },
+  {
+    "id": 530,
+    "nombre": "Practical Metal Mouse",
+    "precio": 3843,
+    "stock": 87,
+    "proveedor_id": 7,
+    "sucursal_id": 8
+  },
+  {
+    "id": 531,
+    "nombre": "Oriental Concrete Pizza",
+    "precio": 8214,
+    "stock": 20,
+    "proveedor_id": 10,
+    "sucursal_id": 10
+  },
+  {
+    "id": 532,
+    "nombre": "Unbranded Concrete Table",
+    "precio": 3786,
+    "stock": 80,
+    "proveedor_id": 1,
+    "sucursal_id": 7
+  },
+  {
+    "id": 533,
+    "nombre": "Bespoke Soft Keyboard",
+    "precio": 4041,
+    "stock": 30,
+    "proveedor_id": 4,
+    "sucursal_id": 2
+  },
+  {
+    "id": 534,
+    "nombre": "Small Cotton Table",
+    "precio": 8985,
+    "stock": 82,
+    "proveedor_id": 10,
+    "sucursal_id": 6
+  },
+  {
+    "id": 535,
+    "nombre": "Intelligent Wooden Chicken",
+    "precio": 9067,
+    "stock": 49,
+    "proveedor_id": 10,
+    "sucursal_id": 3
+  },
+  {
+    "id": 536,
+    "nombre": "Oriental Cotton Shoes",
+    "precio": 3703,
+    "stock": 22,
+    "proveedor_id": 2,
+    "sucursal_id": 10
+  },
+  {
+    "id": 537,
+    "nombre": "Practical Rubber Table",
+    "precio": 4765,
+    "stock": 36,
+    "proveedor_id": 2,
+    "sucursal_id": 5
+  },
+  {
+    "id": 538,
+    "nombre": "Small Rubber Tuna",
+    "precio": 8398,
+    "stock": 31,
+    "proveedor_id": 3,
+    "sucursal_id": 4
+  },
+  {
+    "id": 539,
+    "nombre": "Awesome Plastic Soap",
+    "precio": 7358,
+    "stock": 57,
+    "proveedor_id": 7,
+    "sucursal_id": 5
+  },
+  {
+    "id": 540,
+    "nombre": "Incredible Wooden Towels",
+    "precio": 2107,
+    "stock": 3,
+    "proveedor_id": 3,
+    "sucursal_id": 4
+  },
+  {
+    "id": 541,
+    "nombre": "Small Bronze Car",
+    "precio": 8804,
+    "stock": 19,
+    "proveedor_id": 3,
+    "sucursal_id": 1
+  },
+  {
+    "id": 542,
+    "nombre": "Luxurious Metal Pizza",
+    "precio": 9788,
+    "stock": 24,
+    "proveedor_id": 7,
+    "sucursal_id": 10
+  },
+  {
+    "id": 543,
+    "nombre": "Licensed Steel Shoes",
+    "precio": 4038,
+    "stock": 50,
+    "proveedor_id": 9,
+    "sucursal_id": 10
+  },
+  {
+    "id": 544,
+    "nombre": "Bespoke Rubber Keyboard",
+    "precio": 6693,
+    "stock": 32,
+    "proveedor_id": 9,
+    "sucursal_id": 9
+  },
+  {
+    "id": 545,
+    "nombre": "Handcrafted Fresh Tuna",
+    "precio": 2813,
+    "stock": 54,
+    "proveedor_id": 2,
+    "sucursal_id": 3
+  },
+  {
+    "id": 546,
+    "nombre": "Intelligent Frozen Chicken",
+    "precio": 6307,
+    "stock": 72,
+    "proveedor_id": 6,
+    "sucursal_id": 7
+  },
+  {
+    "id": 547,
+    "nombre": "Elegant Metal Cheese",
+    "precio": 3929,
+    "stock": 60,
+    "proveedor_id": 9,
+    "sucursal_id": 9
+  },
+  {
+    "id": 548,
+    "nombre": "Fantastic Bronze Chips",
+    "precio": 4214,
+    "stock": 84,
+    "proveedor_id": 10,
+    "sucursal_id": 6
+  },
+  {
+    "id": 549,
+    "nombre": "Refined Fresh Mouse",
+    "precio": 6188,
+    "stock": 57,
+    "proveedor_id": 7,
+    "sucursal_id": 10
+  },
+  {
+    "id": 550,
+    "nombre": "Electronic Granite Computer",
+    "precio": 6169,
+    "stock": 54,
+    "proveedor_id": 7,
+    "sucursal_id": 7
+  },
+  {
+    "id": 551,
+    "nombre": "Unbranded Plastic Hat",
+    "precio": 4027,
+    "stock": 71,
+    "proveedor_id": 6,
+    "sucursal_id": 2
+  },
+  {
+    "id": 552,
+    "nombre": "Recycled Granite Shirt",
+    "precio": 5832,
+    "stock": 55,
+    "proveedor_id": 7,
+    "sucursal_id": 1
+  },
+  {
+    "id": 553,
+    "nombre": "Unbranded Soft Soap",
+    "precio": 8749,
+    "stock": 52,
+    "proveedor_id": 1,
+    "sucursal_id": 10
+  },
+  {
+    "id": 554,
+    "nombre": "Bespoke Frozen Keyboard",
+    "precio": 6757,
+    "stock": 95,
+    "proveedor_id": 4,
+    "sucursal_id": 8
+  },
+  {
+    "id": 555,
+    "nombre": "Bespoke Steel Gloves",
+    "precio": 3554,
+    "stock": 22,
+    "proveedor_id": 3,
+    "sucursal_id": 1
+  },
+  {
+    "id": 556,
+    "nombre": "Gorgeous Metal Gloves",
+    "precio": 8570,
+    "stock": 97,
+    "proveedor_id": 4,
+    "sucursal_id": 1
+  },
+  {
+    "id": 557,
+    "nombre": "Modern Fresh Sausages",
+    "precio": 4615,
+    "stock": 9,
+    "proveedor_id": 3,
+    "sucursal_id": 7
+  },
+  {
+    "id": 558,
+    "nombre": "Luxurious Bronze Gloves",
+    "precio": 8592,
+    "stock": 8,
+    "proveedor_id": 5,
+    "sucursal_id": 1
+  },
+  {
+    "id": 559,
+    "nombre": "Licensed Soft Salad",
+    "precio": 1078,
+    "stock": 71,
+    "proveedor_id": 9,
+    "sucursal_id": 5
+  },
+  {
+    "id": 560,
+    "nombre": "Unbranded Soft Hat",
+    "precio": 8321,
+    "stock": 41,
+    "proveedor_id": 4,
+    "sucursal_id": 4
+  },
+  {
+    "id": 561,
+    "nombre": "Recycled Steel Bacon",
+    "precio": 9717,
+    "stock": 95,
+    "proveedor_id": 8,
+    "sucursal_id": 7
+  },
+  {
+    "id": 562,
+    "nombre": "Sleek Soft Car",
+    "precio": 5372,
+    "stock": 61,
+    "proveedor_id": 2,
+    "sucursal_id": 8
+  },
+  {
+    "id": 563,
+    "nombre": "Awesome Concrete Fish",
+    "precio": 2094,
+    "stock": 79,
+    "proveedor_id": 1,
+    "sucursal_id": 8
+  },
+  {
+    "id": 564,
+    "nombre": "Elegant Concrete Chicken",
+    "precio": 7445,
+    "stock": 25,
+    "proveedor_id": 3,
+    "sucursal_id": 5
+  },
+  {
+    "id": 565,
+    "nombre": "Rustic Wooden Fish",
+    "precio": 6247,
+    "stock": 62,
+    "proveedor_id": 5,
+    "sucursal_id": 9
+  },
+  {
+    "id": 566,
+    "nombre": "Refined Plastic Pants",
+    "precio": 6309,
+    "stock": 83,
+    "proveedor_id": 4,
+    "sucursal_id": 4
+  },
+  {
+    "id": 567,
+    "nombre": "Unbranded Rubber Fish",
+    "precio": 6499,
+    "stock": 63,
+    "proveedor_id": 5,
+    "sucursal_id": 2
+  },
+  {
+    "id": 568,
+    "nombre": "Generic Plastic Ball",
+    "precio": 4866,
+    "stock": 8,
+    "proveedor_id": 4,
+    "sucursal_id": 5
+  },
+  {
+    "id": 569,
+    "nombre": "Incredible Steel Car",
+    "precio": 3056,
+    "stock": 19,
+    "proveedor_id": 8,
+    "sucursal_id": 3
+  },
+  {
+    "id": 570,
+    "nombre": "Recycled Bronze Chips",
+    "precio": 3189,
+    "stock": 98,
+    "proveedor_id": 5,
+    "sucursal_id": 9
+  },
+  {
+    "id": 571,
+    "nombre": "Sleek Concrete Mouse",
+    "precio": 7651,
+    "stock": 26,
+    "proveedor_id": 7,
+    "sucursal_id": 1
+  },
+  {
+    "id": 572,
+    "nombre": "Ergonomic Bronze Shoes",
+    "precio": 5724,
+    "stock": 21,
+    "proveedor_id": 3,
+    "sucursal_id": 8
+  },
+  {
+    "id": 573,
+    "nombre": "Unbranded Wooden Table",
+    "precio": 6173,
+    "stock": 53,
+    "proveedor_id": 4,
+    "sucursal_id": 2
+  },
+  {
+    "id": 574,
+    "nombre": "Ergonomic Granite Ball",
+    "precio": 1737,
+    "stock": 12,
+    "proveedor_id": 7,
+    "sucursal_id": 7
+  },
+  {
+    "id": 575,
+    "nombre": "Modern Cotton Keyboard",
+    "precio": 4858,
+    "stock": 85,
+    "proveedor_id": 7,
+    "sucursal_id": 8
+  },
+  {
+    "id": 576,
+    "nombre": "Intelligent Concrete Soap",
+    "precio": 7641,
+    "stock": 43,
+    "proveedor_id": 4,
+    "sucursal_id": 5
+  },
+  {
+    "id": 577,
+    "nombre": "Practical Fresh Shirt",
+    "precio": 7743,
+    "stock": 50,
+    "proveedor_id": 7,
+    "sucursal_id": 6
+  },
+  {
+    "id": 578,
+    "nombre": "Fantastic Plastic Chair",
+    "precio": 9901,
+    "stock": 64,
+    "proveedor_id": 4,
+    "sucursal_id": 9
+  },
+  {
+    "id": 579,
+    "nombre": "Awesome Plastic Chips",
+    "precio": 5829,
+    "stock": 87,
+    "proveedor_id": 3,
+    "sucursal_id": 1
+  },
+  {
+    "id": 580,
+    "nombre": "Fantastic Plastic Shoes",
+    "precio": 5888,
+    "stock": 79,
+    "proveedor_id": 8,
+    "sucursal_id": 7
+  },
+  {
+    "id": 581,
+    "nombre": "Sleek Wooden Sausages",
+    "precio": 9843,
+    "stock": 54,
+    "proveedor_id": 1,
+    "sucursal_id": 1
+  },
+  {
+    "id": 582,
+    "nombre": "Small Bronze Cheese",
+    "precio": 1421,
+    "stock": 67,
+    "proveedor_id": 3,
+    "sucursal_id": 5
+  },
+  {
+    "id": 583,
+    "nombre": "Electronic Soft Cheese",
+    "precio": 6990,
+    "stock": 41,
+    "proveedor_id": 6,
+    "sucursal_id": 5
+  },
+  {
+    "id": 584,
+    "nombre": "Recycled Cotton Towels",
+    "precio": 7500,
+    "stock": 65,
+    "proveedor_id": 3,
+    "sucursal_id": 6
+  },
+  {
+    "id": 585,
+    "nombre": "Fantastic Bronze Sausages",
+    "precio": 4971,
+    "stock": 54,
+    "proveedor_id": 3,
+    "sucursal_id": 5
+  },
+  {
+    "id": 586,
+    "nombre": "Ergonomic Metal Bike",
+    "precio": 3159,
+    "stock": 50,
+    "proveedor_id": 6,
+    "sucursal_id": 5
+  },
+  {
+    "id": 587,
+    "nombre": "Refined Metal Bike",
+    "precio": 2684,
+    "stock": 94,
+    "proveedor_id": 7,
+    "sucursal_id": 4
+  },
+  {
+    "id": 588,
+    "nombre": "Ergonomic Rubber Cheese",
+    "precio": 7135,
+    "stock": 19,
+    "proveedor_id": 5,
+    "sucursal_id": 10
+  },
+  {
+    "id": 589,
+    "nombre": "Awesome Cotton Computer",
+    "precio": 5858,
+    "stock": 15,
+    "proveedor_id": 4,
+    "sucursal_id": 3
+  },
+  {
+    "id": 590,
+    "nombre": "Electronic Wooden Gloves",
+    "precio": 8032,
+    "stock": 84,
+    "proveedor_id": 1,
+    "sucursal_id": 5
+  },
+  {
+    "id": 591,
+    "nombre": "Gorgeous Steel Shoes",
+    "precio": 4513,
+    "stock": 59,
+    "proveedor_id": 7,
+    "sucursal_id": 1
+  },
+  {
+    "id": 592,
+    "nombre": "Generic Soft Soap",
+    "precio": 6053,
+    "stock": 16,
+    "proveedor_id": 5,
+    "sucursal_id": 1
+  },
+  {
+    "id": 593,
+    "nombre": "Refined Steel Fish",
+    "precio": 5607,
+    "stock": 83,
+    "proveedor_id": 1,
+    "sucursal_id": 3
+  },
+  {
+    "id": 594,
+    "nombre": "Tasty Rubber Mouse",
+    "precio": 2903,
+    "stock": 19,
+    "proveedor_id": 2,
+    "sucursal_id": 9
+  },
+  {
+    "id": 595,
+    "nombre": "Intelligent Steel Computer",
+    "precio": 9337,
+    "stock": 36,
+    "proveedor_id": 1,
+    "sucursal_id": 4
+  },
+  {
+    "id": 596,
+    "nombre": "Intelligent Bronze Bacon",
+    "precio": 6992,
+    "stock": 6,
+    "proveedor_id": 2,
+    "sucursal_id": 6
+  },
+  {
+    "id": 597,
+    "nombre": "Recycled Metal Shirt",
+    "precio": 5058,
+    "stock": 70,
+    "proveedor_id": 10,
+    "sucursal_id": 1
+  },
+  {
+    "id": 598,
+    "nombre": "Bespoke Steel Mouse",
+    "precio": 7470,
+    "stock": 40,
+    "proveedor_id": 9,
+    "sucursal_id": 6
+  },
+  {
+    "id": 599,
+    "nombre": "Incredible Cotton Chicken",
+    "precio": 6644,
+    "stock": 22,
+    "proveedor_id": 9,
+    "sucursal_id": 5
+  },
+  {
+    "id": 600,
+    "nombre": "Sleek Granite Shoes",
+    "precio": 1328,
+    "stock": 54,
+    "proveedor_id": 7,
+    "sucursal_id": 6
+  },
+  {
+    "id": 601,
+    "nombre": "Electronic Concrete Sausages",
+    "precio": 9795,
+    "stock": 41,
+    "proveedor_id": 4,
+    "sucursal_id": 8
+  },
+  {
+    "id": 602,
+    "nombre": "Refined Cotton Towels",
+    "precio": 7687,
+    "stock": 58,
+    "proveedor_id": 2,
+    "sucursal_id": 1
+  },
+  {
+    "id": 603,
+    "nombre": "Gorgeous Rubber Tuna",
+    "precio": 8343,
+    "stock": 63,
+    "proveedor_id": 10,
+    "sucursal_id": 3
+  },
+  {
+    "id": 604,
+    "nombre": "Ergonomic Metal Ball",
+    "precio": 5654,
+    "stock": 69,
+    "proveedor_id": 5,
+    "sucursal_id": 7
+  },
+  {
+    "id": 605,
+    "nombre": "Bespoke Metal Fish",
+    "precio": 9329,
+    "stock": 61,
+    "proveedor_id": 9,
+    "sucursal_id": 1
+  },
+  {
+    "id": 606,
+    "nombre": "Small Wooden Salad",
+    "precio": 6808,
+    "stock": 93,
+    "proveedor_id": 2,
+    "sucursal_id": 5
+  },
+  {
+    "id": 607,
+    "nombre": "Ergonomic Bronze Salad",
+    "precio": 1222,
+    "stock": 79,
+    "proveedor_id": 4,
+    "sucursal_id": 5
+  },
+  {
+    "id": 608,
+    "nombre": "Modern Rubber Chair",
+    "precio": 6031,
+    "stock": 96,
+    "proveedor_id": 6,
+    "sucursal_id": 2
+  },
+  {
+    "id": 609,
+    "nombre": "Practical Frozen Ball",
+    "precio": 8912,
+    "stock": 7,
+    "proveedor_id": 3,
+    "sucursal_id": 3
+  },
+  {
+    "id": 610,
+    "nombre": "Luxurious Granite Soap",
+    "precio": 8199,
+    "stock": 77,
+    "proveedor_id": 4,
+    "sucursal_id": 4
+  },
+  {
+    "id": 611,
+    "nombre": "Fantastic Metal Computer",
+    "precio": 9133,
+    "stock": 43,
+    "proveedor_id": 4,
+    "sucursal_id": 8
+  },
+  {
+    "id": 612,
+    "nombre": "Incredible Bronze Fish",
+    "precio": 3456,
+    "stock": 72,
+    "proveedor_id": 5,
+    "sucursal_id": 9
+  },
+  {
+    "id": 613,
+    "nombre": "Awesome Steel Tuna",
+    "precio": 2303,
+    "stock": 26,
+    "proveedor_id": 3,
+    "sucursal_id": 3
+  },
+  {
+    "id": 614,
+    "nombre": "Handmade Steel Salad",
+    "precio": 6124,
+    "stock": 61,
+    "proveedor_id": 4,
+    "sucursal_id": 7
+  },
+  {
+    "id": 615,
+    "nombre": "Licensed Bronze Ball",
+    "precio": 7505,
+    "stock": 3,
+    "proveedor_id": 2,
+    "sucursal_id": 5
+  },
+  {
+    "id": 616,
+    "nombre": "Elegant Metal Bike",
+    "precio": 5956,
+    "stock": 97,
+    "proveedor_id": 10,
+    "sucursal_id": 1
+  },
+  {
+    "id": 617,
+    "nombre": "Recycled Concrete Chips",
+    "precio": 4060,
+    "stock": 7,
+    "proveedor_id": 2,
+    "sucursal_id": 8
+  },
+  {
+    "id": 618,
+    "nombre": "Elegant Concrete Fish",
+    "precio": 2260,
+    "stock": 39,
+    "proveedor_id": 1,
+    "sucursal_id": 5
+  },
+  {
+    "id": 619,
+    "nombre": "Sleek Cotton Tuna",
+    "precio": 1352,
+    "stock": 10,
+    "proveedor_id": 1,
+    "sucursal_id": 10
+  },
+  {
+    "id": 620,
+    "nombre": "Recycled Bronze Bike",
+    "precio": 2145,
+    "stock": 16,
+    "proveedor_id": 8,
+    "sucursal_id": 5
+  },
+  {
+    "id": 621,
+    "nombre": "Fantastic Soft Computer",
+    "precio": 6278,
+    "stock": 76,
+    "proveedor_id": 5,
+    "sucursal_id": 5
+  },
+  {
+    "id": 622,
+    "nombre": "Tasty Frozen Gloves",
+    "precio": 2613,
+    "stock": 10,
+    "proveedor_id": 4,
+    "sucursal_id": 10
+  },
+  {
+    "id": 623,
+    "nombre": "Intelligent Plastic Bacon",
+    "precio": 3889,
+    "stock": 75,
+    "proveedor_id": 5,
+    "sucursal_id": 4
+  },
+  {
+    "id": 624,
+    "nombre": "Luxurious Bronze Pants",
+    "precio": 4068,
+    "stock": 60,
+    "proveedor_id": 6,
+    "sucursal_id": 3
+  },
+  {
+    "id": 625,
+    "nombre": "Sleek Metal Pizza",
+    "precio": 5546,
+    "stock": 74,
+    "proveedor_id": 5,
+    "sucursal_id": 1
+  },
+  {
+    "id": 626,
+    "nombre": "Incredible Frozen Keyboard",
+    "precio": 8758,
+    "stock": 84,
+    "proveedor_id": 5,
+    "sucursal_id": 4
+  },
+  {
+    "id": 627,
+    "nombre": "Intelligent Steel Pants",
+    "precio": 7636,
+    "stock": 42,
+    "proveedor_id": 1,
+    "sucursal_id": 5
+  },
+  {
+    "id": 628,
+    "nombre": "Intelligent Cotton Computer",
+    "precio": 3758,
+    "stock": 89,
+    "proveedor_id": 2,
+    "sucursal_id": 9
+  },
+  {
+    "id": 629,
+    "nombre": "Generic Rubber Chair",
+    "precio": 7276,
+    "stock": 55,
+    "proveedor_id": 6,
+    "sucursal_id": 1
+  },
+  {
+    "id": 630,
+    "nombre": "Recycled Cotton Cheese",
+    "precio": 6280,
+    "stock": 26,
+    "proveedor_id": 3,
+    "sucursal_id": 4
+  },
+  {
+    "id": 631,
+    "nombre": "Handcrafted Metal Bacon",
+    "precio": 7458,
+    "stock": 3,
+    "proveedor_id": 2,
+    "sucursal_id": 1
+  },
+  {
+    "id": 632,
+    "nombre": "Rustic Rubber Shoes",
+    "precio": 8860,
+    "stock": 47,
+    "proveedor_id": 2,
+    "sucursal_id": 5
+  },
+  {
+    "id": 633,
+    "nombre": "Practical Frozen Computer",
+    "precio": 1427,
+    "stock": 34,
+    "proveedor_id": 7,
+    "sucursal_id": 5
+  },
+  {
+    "id": 634,
+    "nombre": "Ergonomic Concrete Computer",
+    "precio": 6302,
+    "stock": 39,
+    "proveedor_id": 10,
+    "sucursal_id": 8
+  },
+  {
+    "id": 635,
+    "nombre": "Practical Cotton Chair",
+    "precio": 6227,
+    "stock": 2,
+    "proveedor_id": 10,
+    "sucursal_id": 3
+  },
+  {
+    "id": 636,
+    "nombre": "Handcrafted Granite Mouse",
+    "precio": 9166,
+    "stock": 26,
+    "proveedor_id": 6,
+    "sucursal_id": 8
+  },
+  {
+    "id": 637,
+    "nombre": "Practical Metal Bike",
+    "precio": 5276,
+    "stock": 58,
+    "proveedor_id": 3,
+    "sucursal_id": 9
+  },
+  {
+    "id": 638,
+    "nombre": "Electronic Frozen Mouse",
+    "precio": 2419,
+    "stock": 94,
+    "proveedor_id": 9,
+    "sucursal_id": 3
+  },
+  {
+    "id": 639,
+    "nombre": "Small Frozen Towels",
+    "precio": 1616,
+    "stock": 63,
+    "proveedor_id": 6,
+    "sucursal_id": 3
+  },
+  {
+    "id": 640,
+    "nombre": "Bespoke Granite Chicken",
+    "precio": 2592,
+    "stock": 15,
+    "proveedor_id": 10,
+    "sucursal_id": 10
+  },
+  {
+    "id": 641,
+    "nombre": "Elegant Fresh Pants",
+    "precio": 5952,
+    "stock": 35,
+    "proveedor_id": 6,
+    "sucursal_id": 6
+  },
+  {
+    "id": 642,
+    "nombre": "Rustic Steel Hat",
+    "precio": 2236,
+    "stock": 5,
+    "proveedor_id": 8,
+    "sucursal_id": 7
+  },
+  {
+    "id": 643,
+    "nombre": "Handmade Plastic Chair",
+    "precio": 6438,
+    "stock": 58,
+    "proveedor_id": 8,
+    "sucursal_id": 7
+  },
+  {
+    "id": 644,
+    "nombre": "Handmade Cotton Salad",
+    "precio": 3240,
+    "stock": 23,
+    "proveedor_id": 3,
+    "sucursal_id": 10
+  },
+  {
+    "id": 645,
+    "nombre": "Sleek Soft Keyboard",
+    "precio": 8168,
+    "stock": 34,
+    "proveedor_id": 6,
+    "sucursal_id": 9
+  },
+  {
+    "id": 646,
+    "nombre": "Intelligent Soft Chips",
+    "precio": 6509,
+    "stock": 81,
+    "proveedor_id": 8,
+    "sucursal_id": 6
+  },
+  {
+    "id": 647,
+    "nombre": "Ergonomic Rubber Computer",
+    "precio": 2609,
+    "stock": 61,
+    "proveedor_id": 4,
+    "sucursal_id": 5
+  },
+  {
+    "id": 648,
+    "nombre": "Generic Rubber Ball",
+    "precio": 5972,
+    "stock": 79,
+    "proveedor_id": 2,
+    "sucursal_id": 8
+  },
+  {
+    "id": 649,
+    "nombre": "Tasty Concrete Shirt",
+    "precio": 9364,
+    "stock": 45,
+    "proveedor_id": 1,
+    "sucursal_id": 4
+  },
+  {
+    "id": 650,
+    "nombre": "Sleek Wooden Bike",
+    "precio": 2687,
+    "stock": 70,
+    "proveedor_id": 9,
+    "sucursal_id": 6
+  },
+  {
+    "id": 651,
+    "nombre": "Practical Metal Chicken",
+    "precio": 1984,
+    "stock": 48,
+    "proveedor_id": 3,
+    "sucursal_id": 4
+  },
+  {
+    "id": 652,
+    "nombre": "Refined Metal Computer",
+    "precio": 5651,
+    "stock": 50,
+    "proveedor_id": 7,
+    "sucursal_id": 1
+  },
+  {
+    "id": 653,
+    "nombre": "Sleek Frozen Mouse",
+    "precio": 3600,
+    "stock": 76,
+    "proveedor_id": 7,
+    "sucursal_id": 4
+  },
+  {
+    "id": 654,
+    "nombre": "Licensed Rubber Towels",
+    "precio": 2889,
+    "stock": 72,
+    "proveedor_id": 9,
+    "sucursal_id": 10
+  },
+  {
+    "id": 655,
+    "nombre": "Intelligent Granite Computer",
+    "precio": 8233,
+    "stock": 71,
+    "proveedor_id": 6,
+    "sucursal_id": 4
+  },
+  {
+    "id": 656,
+    "nombre": "Electronic Soft Shoes",
+    "precio": 3324,
+    "stock": 6,
+    "proveedor_id": 2,
+    "sucursal_id": 3
+  },
+  {
+    "id": 657,
+    "nombre": "Bespoke Soft Keyboard",
+    "precio": 5719,
+    "stock": 51,
+    "proveedor_id": 6,
+    "sucursal_id": 8
+  },
+  {
+    "id": 658,
+    "nombre": "Handmade Granite Pizza",
+    "precio": 3127,
+    "stock": 3,
+    "proveedor_id": 8,
+    "sucursal_id": 7
+  },
+  {
+    "id": 659,
+    "nombre": "Elegant Bronze Car",
+    "precio": 5195,
+    "stock": 15,
+    "proveedor_id": 10,
+    "sucursal_id": 5
+  },
+  {
+    "id": 660,
+    "nombre": "Ergonomic Frozen Keyboard",
+    "precio": 6843,
+    "stock": 59,
+    "proveedor_id": 9,
+    "sucursal_id": 4
+  },
+  {
+    "id": 661,
+    "nombre": "Awesome Cotton Bike",
+    "precio": 3658,
+    "stock": 6,
+    "proveedor_id": 8,
+    "sucursal_id": 9
+  },
+  {
+    "id": 662,
+    "nombre": "Incredible Cotton Soap",
+    "precio": 5156,
+    "stock": 70,
+    "proveedor_id": 5,
+    "sucursal_id": 2
+  },
+  {
+    "id": 663,
+    "nombre": "Recycled Wooden Chicken",
+    "precio": 5232,
+    "stock": 60,
+    "proveedor_id": 7,
+    "sucursal_id": 3
+  },
+  {
+    "id": 664,
+    "nombre": "Oriental Cotton Computer",
+    "precio": 6011,
+    "stock": 17,
+    "proveedor_id": 3,
+    "sucursal_id": 2
+  },
+  {
+    "id": 665,
+    "nombre": "Electronic Cotton Fish",
+    "precio": 1841,
+    "stock": 67,
+    "proveedor_id": 8,
+    "sucursal_id": 8
+  },
+  {
+    "id": 666,
+    "nombre": "Bespoke Frozen Ball",
+    "precio": 1782,
+    "stock": 43,
+    "proveedor_id": 5,
+    "sucursal_id": 5
+  },
+  {
+    "id": 667,
+    "nombre": "Intelligent Metal Chips",
+    "precio": 3782,
+    "stock": 97,
+    "proveedor_id": 4,
+    "sucursal_id": 2
+  },
+  {
+    "id": 668,
+    "nombre": "Intelligent Rubber Chips",
+    "precio": 5064,
+    "stock": 76,
+    "proveedor_id": 3,
+    "sucursal_id": 1
+  },
+  {
+    "id": 669,
+    "nombre": "Luxurious Fresh Bacon",
+    "precio": 8457,
+    "stock": 40,
+    "proveedor_id": 10,
+    "sucursal_id": 8
+  },
+  {
+    "id": 670,
+    "nombre": "Handcrafted Plastic Ball",
+    "precio": 2216,
+    "stock": 91,
+    "proveedor_id": 6,
+    "sucursal_id": 8
+  },
+  {
+    "id": 671,
+    "nombre": "Modern Rubber Fish",
+    "precio": 7908,
+    "stock": 42,
+    "proveedor_id": 6,
+    "sucursal_id": 9
+  },
+  {
+    "id": 672,
+    "nombre": "Oriental Rubber Ball",
+    "precio": 2930,
+    "stock": 42,
+    "proveedor_id": 3,
+    "sucursal_id": 9
+  },
+  {
+    "id": 673,
+    "nombre": "Practical Bronze Hat",
+    "precio": 6132,
+    "stock": 32,
+    "proveedor_id": 2,
+    "sucursal_id": 10
+  },
+  {
+    "id": 674,
+    "nombre": "Bespoke Wooden Ball",
+    "precio": 9850,
+    "stock": 19,
+    "proveedor_id": 1,
+    "sucursal_id": 6
+  },
+  {
+    "id": 675,
+    "nombre": "Refined Concrete Chair",
+    "precio": 4636,
+    "stock": 74,
+    "proveedor_id": 7,
+    "sucursal_id": 3
+  },
+  {
+    "id": 676,
+    "nombre": "Luxurious Steel Car",
+    "precio": 3082,
+    "stock": 79,
+    "proveedor_id": 10,
+    "sucursal_id": 2
+  },
+  {
+    "id": 677,
+    "nombre": "Rustic Plastic Bike",
+    "precio": 6364,
+    "stock": 43,
+    "proveedor_id": 1,
+    "sucursal_id": 1
+  },
+  {
+    "id": 678,
+    "nombre": "Tasty Wooden Fish",
+    "precio": 3878,
+    "stock": 17,
+    "proveedor_id": 5,
+    "sucursal_id": 2
+  },
+  {
+    "id": 679,
+    "nombre": "Handmade Wooden Tuna",
+    "precio": 6585,
+    "stock": 24,
+    "proveedor_id": 5,
+    "sucursal_id": 1
+  },
+  {
+    "id": 680,
+    "nombre": "Fantastic Steel Bacon",
+    "precio": 6237,
+    "stock": 59,
+    "proveedor_id": 1,
+    "sucursal_id": 4
+  },
+  {
+    "id": 681,
+    "nombre": "Practical Wooden Keyboard",
+    "precio": 3319,
+    "stock": 84,
+    "proveedor_id": 7,
+    "sucursal_id": 10
+  },
+  {
+    "id": 682,
+    "nombre": "Electronic Concrete Shirt",
+    "precio": 7006,
+    "stock": 3,
+    "proveedor_id": 2,
+    "sucursal_id": 8
+  },
+  {
+    "id": 683,
+    "nombre": "Modern Plastic Car",
+    "precio": 2316,
+    "stock": 64,
+    "proveedor_id": 4,
+    "sucursal_id": 6
+  },
+  {
+    "id": 684,
+    "nombre": "Fantastic Granite Sausages",
+    "precio": 1396,
+    "stock": 97,
+    "proveedor_id": 1,
+    "sucursal_id": 7
+  },
+  {
+    "id": 685,
+    "nombre": "Rustic Rubber Towels",
+    "precio": 4358,
+    "stock": 10,
+    "proveedor_id": 8,
+    "sucursal_id": 2
+  },
+  {
+    "id": 686,
+    "nombre": "Small Bronze Gloves",
+    "precio": 8280,
+    "stock": 90,
+    "proveedor_id": 3,
+    "sucursal_id": 5
+  },
+  {
+    "id": 687,
+    "nombre": "Electronic Wooden Cheese",
+    "precio": 6376,
+    "stock": 38,
+    "proveedor_id": 7,
+    "sucursal_id": 1
+  },
+  {
+    "id": 688,
+    "nombre": "Handmade Frozen Tuna",
+    "precio": 6641,
+    "stock": 68,
+    "proveedor_id": 10,
+    "sucursal_id": 2
+  },
+  {
+    "id": 689,
+    "nombre": "Elegant Cotton Soap",
+    "precio": 6726,
+    "stock": 22,
+    "proveedor_id": 1,
+    "sucursal_id": 6
+  },
+  {
+    "id": 690,
+    "nombre": "Practical Frozen Hat",
+    "precio": 7288,
+    "stock": 79,
+    "proveedor_id": 5,
+    "sucursal_id": 2
+  },
+  {
+    "id": 691,
+    "nombre": "Tasty Fresh Chips",
+    "precio": 6095,
+    "stock": 86,
+    "proveedor_id": 9,
+    "sucursal_id": 10
+  },
+  {
+    "id": 692,
+    "nombre": "Ergonomic Soft Fish",
+    "precio": 9643,
+    "stock": 81,
+    "proveedor_id": 3,
+    "sucursal_id": 4
+  },
+  {
+    "id": 693,
+    "nombre": "Unbranded Fresh Soap",
+    "precio": 8764,
+    "stock": 46,
+    "proveedor_id": 9,
+    "sucursal_id": 3
+  },
+  {
+    "id": 694,
+    "nombre": "Handmade Granite Soap",
+    "precio": 9307,
+    "stock": 3,
+    "proveedor_id": 4,
+    "sucursal_id": 4
+  },
+  {
+    "id": 695,
+    "nombre": "Unbranded Wooden Sausages",
+    "precio": 3286,
+    "stock": 62,
+    "proveedor_id": 10,
+    "sucursal_id": 5
+  },
+  {
+    "id": 696,
+    "nombre": "Refined Metal Shoes",
+    "precio": 1837,
+    "stock": 90,
+    "proveedor_id": 4,
+    "sucursal_id": 8
+  },
+  {
+    "id": 697,
+    "nombre": "Ergonomic Frozen Cheese",
+    "precio": 2680,
+    "stock": 64,
+    "proveedor_id": 4,
+    "sucursal_id": 9
+  },
+  {
+    "id": 698,
+    "nombre": "Tasty Granite Soap",
+    "precio": 2658,
+    "stock": 98,
+    "proveedor_id": 1,
+    "sucursal_id": 10
+  },
+  {
+    "id": 699,
+    "nombre": "Modern Cotton Pants",
+    "precio": 8875,
+    "stock": 15,
+    "proveedor_id": 9,
+    "sucursal_id": 7
+  },
+  {
+    "id": 700,
+    "nombre": "Luxurious Steel Table",
+    "precio": 9584,
+    "stock": 94,
+    "proveedor_id": 3,
+    "sucursal_id": 8
+  },
+  {
+    "id": 701,
+    "nombre": "Oriental Fresh Computer",
+    "precio": 9522,
+    "stock": 87,
+    "proveedor_id": 6,
+    "sucursal_id": 1
+  },
+  {
+    "id": 702,
+    "nombre": "Rustic Frozen Mouse",
+    "precio": 8686,
+    "stock": 52,
+    "proveedor_id": 2,
+    "sucursal_id": 6
+  },
+  {
+    "id": 703,
+    "nombre": "Practical Plastic Keyboard",
+    "precio": 4358,
+    "stock": 72,
+    "proveedor_id": 10,
+    "sucursal_id": 9
+  },
+  {
+    "id": 704,
+    "nombre": "Practical Steel Soap",
+    "precio": 7074,
+    "stock": 40,
+    "proveedor_id": 1,
+    "sucursal_id": 1
+  },
+  {
+    "id": 705,
+    "nombre": "Handcrafted Granite Chair",
+    "precio": 9346,
+    "stock": 71,
+    "proveedor_id": 1,
+    "sucursal_id": 2
+  },
+  {
+    "id": 706,
+    "nombre": "Oriental Cotton Gloves",
+    "precio": 7112,
+    "stock": 62,
+    "proveedor_id": 5,
+    "sucursal_id": 4
+  },
+  {
+    "id": 707,
+    "nombre": "Awesome Fresh Ball",
+    "precio": 2430,
+    "stock": 81,
+    "proveedor_id": 7,
+    "sucursal_id": 3
+  },
+  {
+    "id": 708,
+    "nombre": "Luxurious Concrete Tuna",
+    "precio": 6891,
+    "stock": 95,
+    "proveedor_id": 7,
+    "sucursal_id": 10
+  },
+  {
+    "id": 709,
+    "nombre": "Awesome Concrete Soap",
+    "precio": 4401,
+    "stock": 47,
+    "proveedor_id": 3,
+    "sucursal_id": 7
+  },
+  {
+    "id": 710,
+    "nombre": "Rustic Concrete Computer",
+    "precio": 4069,
+    "stock": 82,
+    "proveedor_id": 1,
+    "sucursal_id": 6
+  },
+  {
+    "id": 711,
+    "nombre": "Awesome Granite Hat",
+    "precio": 5703,
+    "stock": 29,
+    "proveedor_id": 10,
+    "sucursal_id": 7
+  },
+  {
+    "id": 712,
+    "nombre": "Fantastic Steel Computer",
+    "precio": 2503,
+    "stock": 81,
+    "proveedor_id": 3,
+    "sucursal_id": 10
+  },
+  {
+    "id": 713,
+    "nombre": "Unbranded Fresh Chips",
+    "precio": 8090,
+    "stock": 34,
+    "proveedor_id": 4,
+    "sucursal_id": 2
+  },
+  {
+    "id": 714,
+    "nombre": "Incredible Cotton Shirt",
+    "precio": 9584,
+    "stock": 20,
+    "proveedor_id": 3,
+    "sucursal_id": 4
+  },
+  {
+    "id": 715,
+    "nombre": "Awesome Cotton Table",
+    "precio": 3936,
+    "stock": 89,
+    "proveedor_id": 8,
+    "sucursal_id": 7
+  },
+  {
+    "id": 716,
+    "nombre": "Luxurious Metal Shirt",
+    "precio": 7983,
+    "stock": 23,
+    "proveedor_id": 1,
+    "sucursal_id": 7
+  },
+  {
+    "id": 717,
+    "nombre": "Sleek Granite Soap",
+    "precio": 1023,
+    "stock": 23,
+    "proveedor_id": 1,
+    "sucursal_id": 9
+  },
+  {
+    "id": 718,
+    "nombre": "Generic Granite Sausages",
+    "precio": 9973,
+    "stock": 15,
+    "proveedor_id": 2,
+    "sucursal_id": 6
+  },
+  {
+    "id": 719,
+    "nombre": "Rustic Wooden Pizza",
+    "precio": 8567,
+    "stock": 87,
+    "proveedor_id": 4,
+    "sucursal_id": 9
+  },
+  {
+    "id": 720,
+    "nombre": "Modern Wooden Table",
+    "precio": 1370,
+    "stock": 64,
+    "proveedor_id": 8,
+    "sucursal_id": 10
+  },
+  {
+    "id": 721,
+    "nombre": "Recycled Cotton Fish",
+    "precio": 5039,
+    "stock": 52,
+    "proveedor_id": 10,
+    "sucursal_id": 7
+  },
+  {
+    "id": 722,
+    "nombre": "Fantastic Frozen Towels",
+    "precio": 2334,
+    "stock": 90,
+    "proveedor_id": 7,
+    "sucursal_id": 10
+  },
+  {
+    "id": 723,
+    "nombre": "Handcrafted Steel Bike",
+    "precio": 7494,
+    "stock": 27,
+    "proveedor_id": 2,
+    "sucursal_id": 1
+  },
+  {
+    "id": 724,
+    "nombre": "Incredible Soft Salad",
+    "precio": 3260,
+    "stock": 92,
+    "proveedor_id": 6,
+    "sucursal_id": 1
+  },
+  {
+    "id": 725,
+    "nombre": "Modern Soft Sausages",
+    "precio": 5545,
+    "stock": 15,
+    "proveedor_id": 7,
+    "sucursal_id": 6
+  },
+  {
+    "id": 726,
+    "nombre": "Unbranded Plastic Tuna",
+    "precio": 4517,
+    "stock": 74,
+    "proveedor_id": 2,
+    "sucursal_id": 9
+  },
+  {
+    "id": 727,
+    "nombre": "Licensed Granite Towels",
+    "precio": 1196,
+    "stock": 9,
+    "proveedor_id": 6,
+    "sucursal_id": 4
+  },
+  {
+    "id": 728,
+    "nombre": "Practical Plastic Keyboard",
+    "precio": 7000,
+    "stock": 10,
+    "proveedor_id": 10,
+    "sucursal_id": 6
+  },
+  {
+    "id": 729,
+    "nombre": "Recycled Plastic Ball",
+    "precio": 3580,
+    "stock": 61,
+    "proveedor_id": 8,
+    "sucursal_id": 4
+  },
+  {
+    "id": 730,
+    "nombre": "Ergonomic Bronze Tuna",
+    "precio": 8034,
+    "stock": 34,
+    "proveedor_id": 5,
+    "sucursal_id": 9
+  },
+  {
+    "id": 731,
+    "nombre": "Fantastic Fresh Tuna",
+    "precio": 6551,
+    "stock": 1,
+    "proveedor_id": 4,
+    "sucursal_id": 7
+  },
+  {
+    "id": 732,
+    "nombre": "Fantastic Soft Pants",
+    "precio": 4388,
+    "stock": 89,
+    "proveedor_id": 2,
+    "sucursal_id": 9
+  },
+  {
+    "id": 733,
+    "nombre": "Unbranded Granite Chips",
+    "precio": 3030,
+    "stock": 58,
+    "proveedor_id": 1,
+    "sucursal_id": 2
+  },
+  {
+    "id": 734,
+    "nombre": "Generic Concrete Ball",
+    "precio": 1107,
+    "stock": 86,
+    "proveedor_id": 6,
+    "sucursal_id": 2
+  },
+  {
+    "id": 735,
+    "nombre": "Electronic Rubber Shoes",
+    "precio": 9725,
+    "stock": 44,
+    "proveedor_id": 1,
+    "sucursal_id": 2
+  },
+  {
+    "id": 736,
+    "nombre": "Electronic Steel Fish",
+    "precio": 9934,
+    "stock": 38,
+    "proveedor_id": 7,
+    "sucursal_id": 2
+  },
+  {
+    "id": 737,
+    "nombre": "Awesome Metal Bacon",
+    "precio": 3734,
+    "stock": 41,
+    "proveedor_id": 9,
+    "sucursal_id": 2
+  },
+  {
+    "id": 738,
+    "nombre": "Generic Granite Hat",
+    "precio": 2587,
+    "stock": 35,
+    "proveedor_id": 2,
+    "sucursal_id": 6
+  },
+  {
+    "id": 739,
+    "nombre": "Practical Concrete Shirt",
+    "precio": 9653,
+    "stock": 100,
+    "proveedor_id": 5,
+    "sucursal_id": 8
+  },
+  {
+    "id": 740,
+    "nombre": "Fantastic Metal Shoes",
+    "precio": 2377,
+    "stock": 18,
+    "proveedor_id": 1,
+    "sucursal_id": 7
+  },
+  {
+    "id": 741,
+    "nombre": "Rustic Steel Pizza",
+    "precio": 5059,
+    "stock": 76,
+    "proveedor_id": 5,
+    "sucursal_id": 8
+  },
+  {
+    "id": 742,
+    "nombre": "Intelligent Fresh Table",
+    "precio": 8185,
+    "stock": 22,
+    "proveedor_id": 9,
+    "sucursal_id": 10
+  },
+  {
+    "id": 743,
+    "nombre": "Sleek Metal Cheese",
+    "precio": 9931,
+    "stock": 88,
+    "proveedor_id": 4,
+    "sucursal_id": 2
+  },
+  {
+    "id": 744,
+    "nombre": "Elegant Wooden Keyboard",
+    "precio": 7336,
+    "stock": 93,
+    "proveedor_id": 1,
+    "sucursal_id": 3
+  },
+  {
+    "id": 745,
+    "nombre": "Unbranded Plastic Cheese",
+    "precio": 9266,
+    "stock": 43,
+    "proveedor_id": 10,
+    "sucursal_id": 1
+  },
+  {
+    "id": 746,
+    "nombre": "Fantastic Rubber Shoes",
+    "precio": 1923,
+    "stock": 82,
+    "proveedor_id": 2,
+    "sucursal_id": 10
+  },
+  {
+    "id": 747,
+    "nombre": "Gorgeous Plastic Tuna",
+    "precio": 7029,
+    "stock": 88,
+    "proveedor_id": 3,
+    "sucursal_id": 1
+  },
+  {
+    "id": 748,
+    "nombre": "Practical Soft Fish",
+    "precio": 9467,
+    "stock": 49,
+    "proveedor_id": 9,
+    "sucursal_id": 3
+  },
+  {
+    "id": 749,
+    "nombre": "Intelligent Rubber Gloves",
+    "precio": 8999,
+    "stock": 5,
+    "proveedor_id": 10,
+    "sucursal_id": 6
+  },
+  {
+    "id": 750,
+    "nombre": "Practical Plastic Table",
+    "precio": 1045,
+    "stock": 10,
+    "proveedor_id": 1,
+    "sucursal_id": 9
+  },
+  {
+    "id": 751,
+    "nombre": "Refined Fresh Tuna",
+    "precio": 1944,
+    "stock": 10,
+    "proveedor_id": 7,
+    "sucursal_id": 8
+  },
+  {
+    "id": 752,
+    "nombre": "Rustic Plastic Car",
+    "precio": 7160,
+    "stock": 98,
+    "proveedor_id": 9,
+    "sucursal_id": 5
+  },
+  {
+    "id": 753,
+    "nombre": "Elegant Metal Car",
+    "precio": 2098,
+    "stock": 65,
+    "proveedor_id": 5,
+    "sucursal_id": 2
+  },
+  {
+    "id": 754,
+    "nombre": "Rustic Fresh Soap",
+    "precio": 9784,
+    "stock": 90,
+    "proveedor_id": 5,
+    "sucursal_id": 10
+  },
+  {
+    "id": 755,
+    "nombre": "Rustic Soft Bike",
+    "precio": 2340,
+    "stock": 80,
+    "proveedor_id": 6,
+    "sucursal_id": 8
+  },
+  {
+    "id": 756,
+    "nombre": "Incredible Fresh Tuna",
+    "precio": 4370,
+    "stock": 22,
+    "proveedor_id": 8,
+    "sucursal_id": 9
+  },
+  {
+    "id": 757,
+    "nombre": "Rustic Metal Table",
+    "precio": 8561,
+    "stock": 22,
+    "proveedor_id": 8,
+    "sucursal_id": 4
+  },
+  {
+    "id": 758,
+    "nombre": "Generic Wooden Soap",
+    "precio": 1495,
+    "stock": 28,
+    "proveedor_id": 7,
+    "sucursal_id": 4
+  },
+  {
+    "id": 759,
+    "nombre": "Small Metal Pants",
+    "precio": 2644,
+    "stock": 70,
+    "proveedor_id": 5,
+    "sucursal_id": 3
+  },
+  {
+    "id": 760,
+    "nombre": "Luxurious Wooden Pizza",
+    "precio": 4096,
+    "stock": 96,
+    "proveedor_id": 9,
+    "sucursal_id": 7
+  },
+  {
+    "id": 761,
+    "nombre": "Modern Granite Ball",
+    "precio": 3297,
+    "stock": 38,
+    "proveedor_id": 4,
+    "sucursal_id": 10
+  },
+  {
+    "id": 762,
+    "nombre": "Recycled Metal Chair",
+    "precio": 6558,
+    "stock": 61,
+    "proveedor_id": 7,
+    "sucursal_id": 8
+  },
+  {
+    "id": 763,
+    "nombre": "Incredible Rubber Hat",
+    "precio": 4999,
+    "stock": 11,
+    "proveedor_id": 4,
+    "sucursal_id": 8
+  },
+  {
+    "id": 764,
+    "nombre": "Awesome Wooden Cheese",
+    "precio": 7906,
+    "stock": 23,
+    "proveedor_id": 4,
+    "sucursal_id": 2
+  },
+  {
+    "id": 765,
+    "nombre": "Tasty Steel Chicken",
+    "precio": 2024,
+    "stock": 75,
+    "proveedor_id": 9,
+    "sucursal_id": 3
+  },
+  {
+    "id": 766,
+    "nombre": "Awesome Fresh Ball",
+    "precio": 1271,
+    "stock": 99,
+    "proveedor_id": 1,
+    "sucursal_id": 6
+  },
+  {
+    "id": 767,
+    "nombre": "Bespoke Metal Computer",
+    "precio": 8105,
+    "stock": 7,
+    "proveedor_id": 3,
+    "sucursal_id": 2
+  },
+  {
+    "id": 768,
+    "nombre": "Handcrafted Cotton Shirt",
+    "precio": 6166,
+    "stock": 25,
+    "proveedor_id": 4,
+    "sucursal_id": 5
+  },
+  {
+    "id": 769,
+    "nombre": "Small Plastic Chair",
+    "precio": 4771,
+    "stock": 91,
+    "proveedor_id": 9,
+    "sucursal_id": 2
+  },
+  {
+    "id": 770,
+    "nombre": "Gorgeous Frozen Keyboard",
+    "precio": 2973,
+    "stock": 92,
+    "proveedor_id": 3,
+    "sucursal_id": 2
+  },
+  {
+    "id": 771,
+    "nombre": "Gorgeous Metal Pants",
+    "precio": 4074,
+    "stock": 58,
+    "proveedor_id": 6,
+    "sucursal_id": 4
+  },
+  {
+    "id": 772,
+    "nombre": "Sleek Wooden Cheese",
+    "precio": 7184,
+    "stock": 56,
+    "proveedor_id": 3,
+    "sucursal_id": 5
+  },
+  {
+    "id": 773,
+    "nombre": "Licensed Fresh Sausages",
+    "precio": 6067,
+    "stock": 92,
+    "proveedor_id": 3,
+    "sucursal_id": 4
+  },
+  {
+    "id": 774,
+    "nombre": "Sleek Metal Table",
+    "precio": 9049,
+    "stock": 47,
+    "proveedor_id": 8,
+    "sucursal_id": 7
+  },
+  {
+    "id": 775,
+    "nombre": "Generic Plastic Table",
+    "precio": 1387,
+    "stock": 1,
+    "proveedor_id": 9,
+    "sucursal_id": 5
+  },
+  {
+    "id": 776,
+    "nombre": "Handcrafted Fresh Sausages",
+    "precio": 8838,
+    "stock": 97,
+    "proveedor_id": 4,
+    "sucursal_id": 6
+  },
+  {
+    "id": 777,
+    "nombre": "Tasty Wooden Chips",
+    "precio": 5661,
+    "stock": 94,
+    "proveedor_id": 9,
+    "sucursal_id": 1
+  },
+  {
+    "id": 778,
+    "nombre": "Bespoke Rubber Ball",
+    "precio": 5810,
+    "stock": 50,
+    "proveedor_id": 1,
+    "sucursal_id": 10
+  },
+  {
+    "id": 779,
+    "nombre": "Practical Bronze Gloves",
+    "precio": 2964,
+    "stock": 50,
+    "proveedor_id": 6,
+    "sucursal_id": 7
+  },
+  {
+    "id": 780,
+    "nombre": "Incredible Metal Chips",
+    "precio": 6500,
+    "stock": 58,
+    "proveedor_id": 8,
+    "sucursal_id": 1
+  },
+  {
+    "id": 781,
+    "nombre": "Sleek Steel Car",
+    "precio": 2679,
+    "stock": 53,
+    "proveedor_id": 8,
+    "sucursal_id": 3
+  },
+  {
+    "id": 782,
+    "nombre": "Licensed Concrete Chips",
+    "precio": 1973,
+    "stock": 94,
+    "proveedor_id": 6,
+    "sucursal_id": 6
+  },
+  {
+    "id": 783,
+    "nombre": "Fantastic Concrete Pants",
+    "precio": 2279,
+    "stock": 29,
+    "proveedor_id": 3,
+    "sucursal_id": 5
+  },
+  {
+    "id": 784,
+    "nombre": "Bespoke Fresh Tuna",
+    "precio": 9201,
+    "stock": 52,
+    "proveedor_id": 9,
+    "sucursal_id": 3
+  },
+  {
+    "id": 785,
+    "nombre": "Generic Granite Tuna",
+    "precio": 6448,
+    "stock": 39,
+    "proveedor_id": 7,
+    "sucursal_id": 10
+  },
+  {
+    "id": 786,
+    "nombre": "Sleek Plastic Car",
+    "precio": 3010,
+    "stock": 7,
+    "proveedor_id": 4,
+    "sucursal_id": 1
+  },
+  {
+    "id": 787,
+    "nombre": "Incredible Granite Shoes",
+    "precio": 9062,
+    "stock": 71,
+    "proveedor_id": 7,
+    "sucursal_id": 2
+  },
+  {
+    "id": 788,
+    "nombre": "Incredible Soft Shoes",
+    "precio": 8026,
+    "stock": 81,
+    "proveedor_id": 8,
+    "sucursal_id": 8
+  },
+  {
+    "id": 789,
+    "nombre": "Bespoke Soft Computer",
+    "precio": 9003,
+    "stock": 44,
+    "proveedor_id": 10,
+    "sucursal_id": 5
+  },
+  {
+    "id": 790,
+    "nombre": "Unbranded Concrete Bike",
+    "precio": 5934,
+    "stock": 61,
+    "proveedor_id": 8,
+    "sucursal_id": 1
+  },
+  {
+    "id": 791,
+    "nombre": "Bespoke Rubber Bacon",
+    "precio": 6459,
+    "stock": 19,
+    "proveedor_id": 1,
+    "sucursal_id": 9
+  },
+  {
+    "id": 792,
+    "nombre": "Incredible Rubber Bike",
+    "precio": 8946,
+    "stock": 56,
+    "proveedor_id": 5,
+    "sucursal_id": 10
+  },
+  {
+    "id": 793,
+    "nombre": "Luxurious Plastic Fish",
+    "precio": 6663,
+    "stock": 34,
+    "proveedor_id": 9,
+    "sucursal_id": 9
+  },
+  {
+    "id": 794,
+    "nombre": "Refined Frozen Gloves",
+    "precio": 5198,
+    "stock": 1,
+    "proveedor_id": 6,
+    "sucursal_id": 9
+  },
+  {
+    "id": 795,
+    "nombre": "Modern Fresh Ball",
+    "precio": 5050,
+    "stock": 5,
+    "proveedor_id": 4,
+    "sucursal_id": 3
+  },
+  {
+    "id": 796,
+    "nombre": "Oriental Cotton Mouse",
+    "precio": 5513,
+    "stock": 6,
+    "proveedor_id": 6,
+    "sucursal_id": 3
+  },
+  {
+    "id": 797,
+    "nombre": "Refined Soft Hat",
+    "precio": 4507,
+    "stock": 28,
+    "proveedor_id": 8,
+    "sucursal_id": 7
+  },
+  {
+    "id": 798,
+    "nombre": "Refined Soft Cheese",
+    "precio": 2698,
+    "stock": 32,
+    "proveedor_id": 9,
+    "sucursal_id": 9
+  },
+  {
+    "id": 799,
+    "nombre": "Luxurious Fresh Car",
+    "precio": 7276,
+    "stock": 82,
+    "proveedor_id": 9,
+    "sucursal_id": 2
+  },
+  {
+    "id": 800,
+    "nombre": "Gorgeous Granite Table",
+    "precio": 5447,
+    "stock": 36,
+    "proveedor_id": 3,
+    "sucursal_id": 10
+  },
+  {
+    "id": 801,
+    "nombre": "Bespoke Fresh Chips",
+    "precio": 1619,
+    "stock": 19,
+    "proveedor_id": 7,
+    "sucursal_id": 2
+  },
+  {
+    "id": 802,
+    "nombre": "Small Concrete Tuna",
+    "precio": 3680,
+    "stock": 58,
+    "proveedor_id": 9,
+    "sucursal_id": 4
+  },
+  {
+    "id": 803,
+    "nombre": "Licensed Rubber Pants",
+    "precio": 1085,
+    "stock": 65,
+    "proveedor_id": 9,
+    "sucursal_id": 5
+  },
+  {
+    "id": 804,
+    "nombre": "Unbranded Bronze Bacon",
+    "precio": 3705,
+    "stock": 13,
+    "proveedor_id": 9,
+    "sucursal_id": 9
+  },
+  {
+    "id": 805,
+    "nombre": "Awesome Frozen Keyboard",
+    "precio": 2813,
+    "stock": 85,
+    "proveedor_id": 1,
+    "sucursal_id": 8
+  },
+  {
+    "id": 806,
+    "nombre": "Incredible Rubber Mouse",
+    "precio": 2696,
+    "stock": 75,
+    "proveedor_id": 4,
+    "sucursal_id": 4
+  },
+  {
+    "id": 807,
+    "nombre": "Small Steel Tuna",
+    "precio": 9111,
+    "stock": 97,
+    "proveedor_id": 10,
+    "sucursal_id": 3
+  },
+  {
+    "id": 808,
+    "nombre": "Awesome Cotton Bacon",
+    "precio": 9156,
+    "stock": 48,
+    "proveedor_id": 8,
+    "sucursal_id": 1
+  },
+  {
+    "id": 809,
+    "nombre": "Incredible Granite Chair",
+    "precio": 6992,
+    "stock": 96,
+    "proveedor_id": 2,
+    "sucursal_id": 2
+  },
+  {
+    "id": 810,
+    "nombre": "Generic Soft Cheese",
+    "precio": 1586,
+    "stock": 67,
+    "proveedor_id": 2,
+    "sucursal_id": 9
+  },
+  {
+    "id": 811,
+    "nombre": "Generic Wooden Towels",
+    "precio": 5568,
+    "stock": 89,
+    "proveedor_id": 4,
+    "sucursal_id": 10
+  },
+  {
+    "id": 812,
+    "nombre": "Awesome Granite Shirt",
+    "precio": 4744,
+    "stock": 9,
+    "proveedor_id": 7,
+    "sucursal_id": 8
+  },
+  {
+    "id": 813,
+    "nombre": "Small Frozen Chips",
+    "precio": 6404,
+    "stock": 31,
+    "proveedor_id": 5,
+    "sucursal_id": 6
+  },
+  {
+    "id": 814,
+    "nombre": "Recycled Soft Ball",
+    "precio": 7336,
+    "stock": 32,
+    "proveedor_id": 4,
+    "sucursal_id": 6
+  },
+  {
+    "id": 815,
+    "nombre": "Elegant Soft Hat",
+    "precio": 4300,
+    "stock": 17,
+    "proveedor_id": 2,
+    "sucursal_id": 8
+  },
+  {
+    "id": 816,
+    "nombre": "Awesome Plastic Bike",
+    "precio": 5294,
+    "stock": 99,
+    "proveedor_id": 5,
+    "sucursal_id": 10
+  },
+  {
+    "id": 817,
+    "nombre": "Bespoke Metal Table",
+    "precio": 9124,
+    "stock": 82,
+    "proveedor_id": 9,
+    "sucursal_id": 7
+  },
+  {
+    "id": 818,
+    "nombre": "Refined Plastic Salad",
+    "precio": 6812,
+    "stock": 73,
+    "proveedor_id": 5,
+    "sucursal_id": 1
+  },
+  {
+    "id": 819,
+    "nombre": "Luxurious Steel Sausages",
+    "precio": 7923,
+    "stock": 46,
+    "proveedor_id": 1,
+    "sucursal_id": 1
+  },
+  {
+    "id": 820,
+    "nombre": "Unbranded Metal Chair",
+    "precio": 9326,
+    "stock": 20,
+    "proveedor_id": 4,
+    "sucursal_id": 2
+  },
+  {
+    "id": 821,
+    "nombre": "Ergonomic Soft Shoes",
+    "precio": 5719,
+    "stock": 59,
+    "proveedor_id": 6,
+    "sucursal_id": 4
+  },
+  {
+    "id": 822,
+    "nombre": "Oriental Metal Chips",
+    "precio": 1284,
+    "stock": 74,
+    "proveedor_id": 2,
+    "sucursal_id": 6
+  },
+  {
+    "id": 823,
+    "nombre": "Generic Cotton Shirt",
+    "precio": 3394,
+    "stock": 91,
+    "proveedor_id": 1,
+    "sucursal_id": 1
+  },
+  {
+    "id": 824,
+    "nombre": "Luxurious Steel Salad",
+    "precio": 8054,
+    "stock": 85,
+    "proveedor_id": 1,
+    "sucursal_id": 8
+  },
+  {
+    "id": 825,
+    "nombre": "Handmade Rubber Tuna",
+    "precio": 5555,
+    "stock": 68,
+    "proveedor_id": 7,
+    "sucursal_id": 1
+  },
+  {
+    "id": 826,
+    "nombre": "Ergonomic Frozen Bike",
+    "precio": 1522,
+    "stock": 93,
+    "proveedor_id": 9,
+    "sucursal_id": 7
+  },
+  {
+    "id": 827,
+    "nombre": "Ergonomic Cotton Ball",
+    "precio": 7258,
+    "stock": 6,
+    "proveedor_id": 1,
+    "sucursal_id": 9
+  },
+  {
+    "id": 828,
+    "nombre": "Tasty Rubber Shirt",
+    "precio": 3905,
+    "stock": 31,
+    "proveedor_id": 6,
+    "sucursal_id": 9
+  },
+  {
+    "id": 829,
+    "nombre": "Handmade Metal Pizza",
+    "precio": 6436,
+    "stock": 55,
+    "proveedor_id": 8,
+    "sucursal_id": 9
+  },
+  {
+    "id": 830,
+    "nombre": "Awesome Steel Tuna",
+    "precio": 7183,
+    "stock": 72,
+    "proveedor_id": 6,
+    "sucursal_id": 5
+  },
+  {
+    "id": 831,
+    "nombre": "Fantastic Wooden Towels",
+    "precio": 3094,
+    "stock": 46,
+    "proveedor_id": 3,
+    "sucursal_id": 10
+  },
+  {
+    "id": 832,
+    "nombre": "Small Rubber Chips",
+    "precio": 3647,
+    "stock": 5,
+    "proveedor_id": 10,
+    "sucursal_id": 7
+  },
+  {
+    "id": 833,
+    "nombre": "Handcrafted Granite Towels",
+    "precio": 5290,
+    "stock": 23,
+    "proveedor_id": 9,
+    "sucursal_id": 5
+  },
+  {
+    "id": 834,
+    "nombre": "Awesome Frozen Soap",
+    "precio": 8579,
+    "stock": 70,
+    "proveedor_id": 3,
+    "sucursal_id": 3
+  },
+  {
+    "id": 835,
+    "nombre": "Refined Steel Sausages",
+    "precio": 1183,
+    "stock": 4,
+    "proveedor_id": 4,
+    "sucursal_id": 2
+  },
+  {
+    "id": 836,
+    "nombre": "Electronic Concrete Towels",
+    "precio": 4011,
+    "stock": 44,
+    "proveedor_id": 10,
+    "sucursal_id": 8
+  },
+  {
+    "id": 837,
+    "nombre": "Gorgeous Fresh Table",
+    "precio": 4028,
+    "stock": 8,
+    "proveedor_id": 6,
+    "sucursal_id": 2
+  },
+  {
+    "id": 838,
+    "nombre": "Electronic Cotton Bike",
+    "precio": 1411,
+    "stock": 91,
+    "proveedor_id": 3,
+    "sucursal_id": 3
+  },
+  {
+    "id": 839,
+    "nombre": "Handcrafted Frozen Hat",
+    "precio": 8585,
+    "stock": 18,
+    "proveedor_id": 4,
+    "sucursal_id": 9
+  },
+  {
+    "id": 840,
+    "nombre": "Fantastic Fresh Computer",
+    "precio": 6266,
+    "stock": 4,
+    "proveedor_id": 1,
+    "sucursal_id": 5
+  },
+  {
+    "id": 841,
+    "nombre": "Elegant Granite Pizza",
+    "precio": 7629,
+    "stock": 89,
+    "proveedor_id": 1,
+    "sucursal_id": 7
+  },
+  {
+    "id": 842,
+    "nombre": "Small Frozen Chicken",
+    "precio": 6335,
+    "stock": 89,
+    "proveedor_id": 7,
+    "sucursal_id": 3
+  },
+  {
+    "id": 843,
+    "nombre": "Elegant Concrete Salad",
+    "precio": 3653,
+    "stock": 76,
+    "proveedor_id": 6,
+    "sucursal_id": 9
+  },
+  {
+    "id": 844,
+    "nombre": "Small Metal Sausages",
+    "precio": 6275,
+    "stock": 57,
+    "proveedor_id": 3,
+    "sucursal_id": 1
+  },
+  {
+    "id": 845,
+    "nombre": "Luxurious Bronze Pants",
+    "precio": 9457,
+    "stock": 32,
+    "proveedor_id": 4,
+    "sucursal_id": 4
+  },
+  {
+    "id": 846,
+    "nombre": "Elegant Cotton Cheese",
+    "precio": 9881,
+    "stock": 48,
+    "proveedor_id": 7,
+    "sucursal_id": 4
+  },
+  {
+    "id": 847,
+    "nombre": "Licensed Steel Salad",
+    "precio": 1501,
+    "stock": 90,
+    "proveedor_id": 2,
+    "sucursal_id": 1
+  },
+  {
+    "id": 848,
+    "nombre": "Handmade Rubber Shirt",
+    "precio": 9421,
+    "stock": 70,
+    "proveedor_id": 4,
+    "sucursal_id": 5
+  },
+  {
+    "id": 849,
+    "nombre": "Elegant Metal Chicken",
+    "precio": 2357,
+    "stock": 24,
+    "proveedor_id": 9,
+    "sucursal_id": 8
+  },
+  {
+    "id": 850,
+    "nombre": "Tasty Concrete Chips",
+    "precio": 4356,
+    "stock": 7,
+    "proveedor_id": 7,
+    "sucursal_id": 3
+  },
+  {
+    "id": 851,
+    "nombre": "Small Fresh Table",
+    "precio": 9114,
+    "stock": 17,
+    "proveedor_id": 8,
+    "sucursal_id": 7
+  },
+  {
+    "id": 852,
+    "nombre": "Sleek Cotton Mouse",
+    "precio": 9326,
+    "stock": 26,
+    "proveedor_id": 1,
+    "sucursal_id": 6
+  },
+  {
+    "id": 853,
+    "nombre": "Elegant Soft Pizza",
+    "precio": 2130,
+    "stock": 89,
+    "proveedor_id": 5,
+    "sucursal_id": 7
+  },
+  {
+    "id": 854,
+    "nombre": "Practical Plastic Pants",
+    "precio": 7158,
+    "stock": 46,
+    "proveedor_id": 8,
+    "sucursal_id": 7
+  },
+  {
+    "id": 855,
+    "nombre": "Small Wooden Hat",
+    "precio": 9943,
+    "stock": 86,
+    "proveedor_id": 2,
+    "sucursal_id": 7
+  },
+  {
+    "id": 856,
+    "nombre": "Awesome Fresh Shirt",
+    "precio": 4830,
+    "stock": 45,
+    "proveedor_id": 5,
+    "sucursal_id": 2
+  },
+  {
+    "id": 857,
+    "nombre": "Licensed Plastic Mouse",
+    "precio": 6969,
+    "stock": 100,
+    "proveedor_id": 9,
+    "sucursal_id": 1
+  },
+  {
+    "id": 858,
+    "nombre": "Recycled Plastic Soap",
+    "precio": 2225,
+    "stock": 40,
+    "proveedor_id": 4,
+    "sucursal_id": 10
+  },
+  {
+    "id": 859,
+    "nombre": "Practical Plastic Computer",
+    "precio": 8426,
+    "stock": 69,
+    "proveedor_id": 10,
+    "sucursal_id": 10
+  },
+  {
+    "id": 860,
+    "nombre": "Recycled Fresh Car",
+    "precio": 6502,
+    "stock": 32,
+    "proveedor_id": 2,
+    "sucursal_id": 8
+  },
+  {
+    "id": 861,
+    "nombre": "Sleek Plastic Fish",
+    "precio": 1134,
+    "stock": 26,
+    "proveedor_id": 9,
+    "sucursal_id": 9
+  },
+  {
+    "id": 862,
+    "nombre": "Bespoke Frozen Chicken",
+    "precio": 9320,
+    "stock": 20,
+    "proveedor_id": 8,
+    "sucursal_id": 8
+  },
+  {
+    "id": 863,
+    "nombre": "Handcrafted Bronze Bike",
+    "precio": 4199,
+    "stock": 9,
+    "proveedor_id": 9,
+    "sucursal_id": 4
+  },
+  {
+    "id": 864,
+    "nombre": "Luxurious Concrete Shirt",
+    "precio": 8895,
+    "stock": 65,
+    "proveedor_id": 5,
+    "sucursal_id": 5
+  },
+  {
+    "id": 865,
+    "nombre": "Tasty Concrete Keyboard",
+    "precio": 4346,
+    "stock": 85,
+    "proveedor_id": 3,
+    "sucursal_id": 3
+  },
+  {
+    "id": 866,
+    "nombre": "Elegant Frozen Tuna",
+    "precio": 2546,
+    "stock": 61,
+    "proveedor_id": 3,
+    "sucursal_id": 7
+  },
+  {
+    "id": 867,
+    "nombre": "Small Granite Computer",
+    "precio": 6685,
+    "stock": 92,
+    "proveedor_id": 8,
+    "sucursal_id": 8
+  },
+  {
+    "id": 868,
+    "nombre": "Incredible Frozen Chips",
+    "precio": 5534,
+    "stock": 34,
+    "proveedor_id": 7,
+    "sucursal_id": 7
+  },
+  {
+    "id": 869,
+    "nombre": "Elegant Frozen Fish",
+    "precio": 2289,
+    "stock": 18,
+    "proveedor_id": 10,
+    "sucursal_id": 3
+  },
+  {
+    "id": 870,
+    "nombre": "Fantastic Frozen Car",
+    "precio": 9275,
+    "stock": 17,
+    "proveedor_id": 3,
+    "sucursal_id": 6
+  },
+  {
+    "id": 871,
+    "nombre": "Awesome Plastic Car",
+    "precio": 3807,
+    "stock": 25,
+    "proveedor_id": 7,
+    "sucursal_id": 7
+  },
+  {
+    "id": 872,
+    "nombre": "Fantastic Wooden Computer",
+    "precio": 2315,
+    "stock": 25,
+    "proveedor_id": 7,
+    "sucursal_id": 3
+  },
+  {
+    "id": 873,
+    "nombre": "Electronic Rubber Tuna",
+    "precio": 8172,
+    "stock": 51,
+    "proveedor_id": 8,
+    "sucursal_id": 4
+  },
+  {
+    "id": 874,
+    "nombre": "Incredible Granite Mouse",
+    "precio": 9229,
+    "stock": 85,
+    "proveedor_id": 10,
+    "sucursal_id": 4
+  },
+  {
+    "id": 875,
+    "nombre": "Sleek Granite Shirt",
+    "precio": 6650,
+    "stock": 68,
+    "proveedor_id": 8,
+    "sucursal_id": 6
+  },
+  {
+    "id": 876,
+    "nombre": "Oriental Concrete Salad",
+    "precio": 5172,
+    "stock": 26,
+    "proveedor_id": 8,
+    "sucursal_id": 2
+  },
+  {
+    "id": 877,
+    "nombre": "Fantastic Frozen Pizza",
+    "precio": 2170,
+    "stock": 29,
+    "proveedor_id": 7,
+    "sucursal_id": 6
+  },
+  {
+    "id": 878,
+    "nombre": "Small Cotton Bacon",
+    "precio": 6552,
+    "stock": 39,
+    "proveedor_id": 8,
+    "sucursal_id": 1
+  },
+  {
+    "id": 879,
+    "nombre": "Unbranded Granite Fish",
+    "precio": 1529,
+    "stock": 45,
+    "proveedor_id": 9,
+    "sucursal_id": 1
+  },
+  {
+    "id": 880,
+    "nombre": "Practical Rubber Sausages",
+    "precio": 7607,
+    "stock": 20,
+    "proveedor_id": 10,
+    "sucursal_id": 9
+  },
+  {
+    "id": 881,
+    "nombre": "Practical Granite Keyboard",
+    "precio": 1353,
+    "stock": 98,
+    "proveedor_id": 5,
+    "sucursal_id": 2
+  },
+  {
+    "id": 882,
+    "nombre": "Tasty Soft Salad",
+    "precio": 9433,
+    "stock": 96,
+    "proveedor_id": 3,
+    "sucursal_id": 5
+  },
+  {
+    "id": 883,
+    "nombre": "Incredible Concrete Chips",
+    "precio": 8623,
+    "stock": 62,
+    "proveedor_id": 5,
+    "sucursal_id": 7
+  },
+  {
+    "id": 884,
+    "nombre": "Licensed Soft Chicken",
+    "precio": 2052,
+    "stock": 77,
+    "proveedor_id": 4,
+    "sucursal_id": 10
+  },
+  {
+    "id": 885,
+    "nombre": "Handmade Bronze Shoes",
+    "precio": 4884,
+    "stock": 24,
+    "proveedor_id": 8,
+    "sucursal_id": 6
+  },
+  {
+    "id": 886,
+    "nombre": "Fantastic Cotton Towels",
+    "precio": 7410,
+    "stock": 20,
+    "proveedor_id": 5,
+    "sucursal_id": 8
+  },
+  {
+    "id": 887,
+    "nombre": "Tasty Wooden Soap",
+    "precio": 3076,
+    "stock": 63,
+    "proveedor_id": 9,
+    "sucursal_id": 10
+  },
+  {
+    "id": 888,
+    "nombre": "Licensed Rubber Hat",
+    "precio": 2831,
+    "stock": 60,
+    "proveedor_id": 7,
+    "sucursal_id": 2
+  },
+  {
+    "id": 889,
+    "nombre": "Fantastic Concrete Salad",
+    "precio": 1978,
+    "stock": 85,
+    "proveedor_id": 4,
+    "sucursal_id": 9
+  },
+  {
+    "id": 890,
+    "nombre": "Fantastic Soft Table",
+    "precio": 9029,
+    "stock": 87,
+    "proveedor_id": 8,
+    "sucursal_id": 6
+  },
+  {
+    "id": 891,
+    "nombre": "Gorgeous Bronze Soap",
+    "precio": 7315,
+    "stock": 95,
+    "proveedor_id": 4,
+    "sucursal_id": 5
+  },
+  {
+    "id": 892,
+    "nombre": "Handmade Cotton Tuna",
+    "precio": 7841,
+    "stock": 24,
+    "proveedor_id": 2,
+    "sucursal_id": 3
+  },
+  {
+    "id": 893,
+    "nombre": "Unbranded Steel Table",
+    "precio": 3099,
+    "stock": 32,
+    "proveedor_id": 8,
+    "sucursal_id": 5
+  },
+  {
+    "id": 894,
+    "nombre": "Small Granite Shoes",
+    "precio": 5773,
+    "stock": 18,
+    "proveedor_id": 9,
+    "sucursal_id": 4
+  },
+  {
+    "id": 895,
+    "nombre": "Bespoke Concrete Fish",
+    "precio": 5850,
+    "stock": 69,
+    "proveedor_id": 3,
+    "sucursal_id": 7
+  },
+  {
+    "id": 896,
+    "nombre": "Refined Wooden Soap",
+    "precio": 8762,
+    "stock": 76,
+    "proveedor_id": 9,
+    "sucursal_id": 6
+  },
+  {
+    "id": 897,
+    "nombre": "Intelligent Wooden Gloves",
+    "precio": 7228,
+    "stock": 79,
+    "proveedor_id": 2,
+    "sucursal_id": 4
+  },
+  {
+    "id": 898,
+    "nombre": "Refined Fresh Pants",
+    "precio": 7275,
+    "stock": 55,
+    "proveedor_id": 5,
+    "sucursal_id": 4
+  },
+  {
+    "id": 899,
+    "nombre": "Awesome Soft Chicken",
+    "precio": 3936,
+    "stock": 85,
+    "proveedor_id": 4,
+    "sucursal_id": 10
+  },
+  {
+    "id": 900,
+    "nombre": "Fantastic Metal Bike",
+    "precio": 8520,
+    "stock": 35,
+    "proveedor_id": 7,
+    "sucursal_id": 9
+  },
+  {
+    "id": 901,
+    "nombre": "Bespoke Fresh Ball",
+    "precio": 8545,
+    "stock": 63,
+    "proveedor_id": 9,
+    "sucursal_id": 9
+  },
+  {
+    "id": 902,
+    "nombre": "Licensed Cotton Towels",
+    "precio": 1752,
+    "stock": 51,
+    "proveedor_id": 5,
+    "sucursal_id": 6
+  },
+  {
+    "id": 903,
+    "nombre": "Unbranded Cotton Sausages",
+    "precio": 6228,
+    "stock": 94,
+    "proveedor_id": 8,
+    "sucursal_id": 9
+  },
+  {
+    "id": 904,
+    "nombre": "Licensed Bronze Towels",
+    "precio": 4864,
+    "stock": 86,
+    "proveedor_id": 4,
+    "sucursal_id": 9
+  },
+  {
+    "id": 905,
+    "nombre": "Generic Wooden Shoes",
+    "precio": 9570,
+    "stock": 66,
+    "proveedor_id": 6,
+    "sucursal_id": 4
+  },
+  {
+    "id": 906,
+    "nombre": "Sleek Frozen Soap",
+    "precio": 6388,
+    "stock": 40,
+    "proveedor_id": 10,
+    "sucursal_id": 5
+  },
+  {
+    "id": 907,
+    "nombre": "Handcrafted Granite Hat",
+    "precio": 5727,
+    "stock": 36,
+    "proveedor_id": 7,
+    "sucursal_id": 9
+  },
+  {
+    "id": 908,
+    "nombre": "Electronic Soft Chips",
+    "precio": 8484,
+    "stock": 32,
+    "proveedor_id": 7,
+    "sucursal_id": 3
+  },
+  {
+    "id": 909,
+    "nombre": "Small Wooden Sausages",
+    "precio": 6154,
+    "stock": 1,
+    "proveedor_id": 3,
+    "sucursal_id": 6
+  },
+  {
+    "id": 910,
+    "nombre": "Fantastic Steel Salad",
+    "precio": 3544,
+    "stock": 34,
+    "proveedor_id": 3,
+    "sucursal_id": 8
+  },
+  {
+    "id": 911,
+    "nombre": "Generic Fresh Chair",
+    "precio": 1956,
+    "stock": 16,
+    "proveedor_id": 7,
+    "sucursal_id": 2
+  },
+  {
+    "id": 912,
+    "nombre": "Bespoke Soft Shirt",
+    "precio": 2016,
+    "stock": 41,
+    "proveedor_id": 5,
+    "sucursal_id": 6
+  },
+  {
+    "id": 913,
+    "nombre": "Awesome Metal Cheese",
+    "precio": 8474,
+    "stock": 24,
+    "proveedor_id": 5,
+    "sucursal_id": 8
+  },
+  {
+    "id": 914,
+    "nombre": "Bespoke Concrete Cheese",
+    "precio": 2175,
+    "stock": 71,
+    "proveedor_id": 10,
+    "sucursal_id": 10
+  },
+  {
+    "id": 915,
+    "nombre": "Handmade Wooden Keyboard",
+    "precio": 6233,
+    "stock": 67,
+    "proveedor_id": 3,
+    "sucursal_id": 1
+  },
+  {
+    "id": 916,
+    "nombre": "Generic Fresh Towels",
+    "precio": 8703,
+    "stock": 15,
+    "proveedor_id": 8,
+    "sucursal_id": 4
+  },
+  {
+    "id": 917,
+    "nombre": "Electronic Soft Ball",
+    "precio": 3955,
+    "stock": 4,
+    "proveedor_id": 1,
+    "sucursal_id": 3
+  },
+  {
+    "id": 918,
+    "nombre": "Licensed Concrete Car",
+    "precio": 2479,
+    "stock": 77,
+    "proveedor_id": 8,
+    "sucursal_id": 4
+  },
+  {
+    "id": 919,
+    "nombre": "Tasty Steel Chips",
+    "precio": 8999,
+    "stock": 87,
+    "proveedor_id": 10,
+    "sucursal_id": 9
+  },
+  {
+    "id": 920,
+    "nombre": "Electronic Steel Keyboard",
+    "precio": 6351,
+    "stock": 80,
+    "proveedor_id": 6,
+    "sucursal_id": 7
+  },
+  {
+    "id": 921,
+    "nombre": "Refined Steel Towels",
+    "precio": 5731,
+    "stock": 71,
+    "proveedor_id": 8,
+    "sucursal_id": 4
+  },
+  {
+    "id": 922,
+    "nombre": "Modern Steel Ball",
+    "precio": 5070,
+    "stock": 41,
+    "proveedor_id": 4,
+    "sucursal_id": 8
+  },
+  {
+    "id": 923,
+    "nombre": "Tasty Granite Chips",
+    "precio": 4866,
+    "stock": 87,
+    "proveedor_id": 1,
+    "sucursal_id": 7
+  },
+  {
+    "id": 924,
+    "nombre": "Ergonomic Frozen Soap",
+    "precio": 4297,
+    "stock": 75,
+    "proveedor_id": 5,
+    "sucursal_id": 5
+  },
+  {
+    "id": 925,
+    "nombre": "Intelligent Bronze Mouse",
+    "precio": 5493,
+    "stock": 2,
+    "proveedor_id": 1,
+    "sucursal_id": 2
+  },
+  {
+    "id": 926,
+    "nombre": "Fantastic Rubber Shirt",
+    "precio": 8056,
+    "stock": 20,
+    "proveedor_id": 10,
+    "sucursal_id": 7
+  },
+  {
+    "id": 927,
+    "nombre": "Tasty Plastic Tuna",
+    "precio": 6970,
+    "stock": 69,
+    "proveedor_id": 4,
+    "sucursal_id": 1
+  },
+  {
+    "id": 928,
+    "nombre": "Bespoke Soft Bike",
+    "precio": 4328,
+    "stock": 69,
+    "proveedor_id": 4,
+    "sucursal_id": 3
+  },
+  {
+    "id": 929,
+    "nombre": "Licensed Plastic Cheese",
+    "precio": 9843,
+    "stock": 1,
+    "proveedor_id": 7,
+    "sucursal_id": 4
+  },
+  {
+    "id": 930,
+    "nombre": "Bespoke Fresh Tuna",
+    "precio": 4706,
+    "stock": 82,
+    "proveedor_id": 6,
+    "sucursal_id": 1
+  },
+  {
+    "id": 931,
+    "nombre": "Bespoke Metal Chicken",
+    "precio": 6966,
+    "stock": 54,
+    "proveedor_id": 5,
+    "sucursal_id": 6
+  },
+  {
+    "id": 932,
+    "nombre": "Oriental Metal Computer",
+    "precio": 8480,
+    "stock": 20,
+    "proveedor_id": 6,
+    "sucursal_id": 4
+  },
+  {
+    "id": 933,
+    "nombre": "Oriental Bronze Keyboard",
+    "precio": 8067,
+    "stock": 35,
+    "proveedor_id": 8,
+    "sucursal_id": 8
+  },
+  {
+    "id": 934,
+    "nombre": "Oriental Soft Towels",
+    "precio": 6513,
+    "stock": 12,
+    "proveedor_id": 2,
+    "sucursal_id": 5
+  },
+  {
+    "id": 935,
+    "nombre": "Ergonomic Wooden Cheese",
+    "precio": 2584,
+    "stock": 79,
+    "proveedor_id": 7,
+    "sucursal_id": 1
+  },
+  {
+    "id": 936,
+    "nombre": "Fantastic Soft Soap",
+    "precio": 9717,
+    "stock": 0,
+    "proveedor_id": 3,
+    "sucursal_id": 10
+  },
+  {
+    "id": 937,
+    "nombre": "Luxurious Soft Chair",
+    "precio": 9770,
+    "stock": 79,
+    "proveedor_id": 5,
+    "sucursal_id": 10
+  },
+  {
+    "id": 938,
+    "nombre": "Handcrafted Cotton Bike",
+    "precio": 10000,
+    "stock": 36,
+    "proveedor_id": 2,
+    "sucursal_id": 4
+  },
+  {
+    "id": 939,
+    "nombre": "Incredible Soft Pants",
+    "precio": 1374,
+    "stock": 26,
+    "proveedor_id": 7,
+    "sucursal_id": 3
+  },
+  {
+    "id": 940,
+    "nombre": "Modern Bronze Car",
+    "precio": 2992,
+    "stock": 27,
+    "proveedor_id": 10,
+    "sucursal_id": 8
+  },
+  {
+    "id": 941,
+    "nombre": "Oriental Rubber Soap",
+    "precio": 5829,
+    "stock": 85,
+    "proveedor_id": 2,
+    "sucursal_id": 5
+  },
+  {
+    "id": 942,
+    "nombre": "Modern Frozen Shoes",
+    "precio": 8946,
+    "stock": 93,
+    "proveedor_id": 4,
+    "sucursal_id": 4
+  },
+  {
+    "id": 943,
+    "nombre": "Handmade Wooden Pants",
+    "precio": 5577,
+    "stock": 33,
+    "proveedor_id": 6,
+    "sucursal_id": 2
+  },
+  {
+    "id": 944,
+    "nombre": "Unbranded Concrete Towels",
+    "precio": 2472,
+    "stock": 52,
+    "proveedor_id": 5,
+    "sucursal_id": 1
+  },
+  {
+    "id": 945,
+    "nombre": "Ergonomic Bronze Shirt",
+    "precio": 2334,
+    "stock": 65,
+    "proveedor_id": 10,
+    "sucursal_id": 5
+  },
+  {
+    "id": 946,
+    "nombre": "Bespoke Granite Salad",
+    "precio": 9414,
+    "stock": 16,
+    "proveedor_id": 8,
+    "sucursal_id": 3
+  },
+  {
+    "id": 947,
+    "nombre": "Small Frozen Chicken",
+    "precio": 5662,
+    "stock": 96,
+    "proveedor_id": 8,
+    "sucursal_id": 7
+  },
+  {
+    "id": 948,
+    "nombre": "Bespoke Soft Salad",
+    "precio": 6342,
+    "stock": 9,
+    "proveedor_id": 1,
+    "sucursal_id": 2
+  },
+  {
+    "id": 949,
+    "nombre": "Small Soft Table",
+    "precio": 3748,
+    "stock": 8,
+    "proveedor_id": 2,
+    "sucursal_id": 8
+  },
+  {
+    "id": 950,
+    "nombre": "Bespoke Steel Chair",
+    "precio": 3411,
+    "stock": 19,
+    "proveedor_id": 3,
+    "sucursal_id": 9
+  },
+  {
+    "id": 951,
+    "nombre": "Practical Fresh Salad",
+    "precio": 7291,
+    "stock": 15,
+    "proveedor_id": 8,
+    "sucursal_id": 7
+  },
+  {
+    "id": 952,
+    "nombre": "Rustic Rubber Pants",
+    "precio": 8369,
+    "stock": 25,
+    "proveedor_id": 8,
+    "sucursal_id": 8
+  },
+  {
+    "id": 953,
+    "nombre": "Rustic Steel Tuna",
+    "precio": 1226,
+    "stock": 63,
+    "proveedor_id": 8,
+    "sucursal_id": 1
+  },
+  {
+    "id": 954,
+    "nombre": "Incredible Wooden Shirt",
+    "precio": 6288,
+    "stock": 81,
+    "proveedor_id": 5,
+    "sucursal_id": 8
+  },
+  {
+    "id": 955,
+    "nombre": "Elegant Steel Sausages",
+    "precio": 7740,
+    "stock": 84,
+    "proveedor_id": 10,
+    "sucursal_id": 4
+  },
+  {
+    "id": 956,
+    "nombre": "Gorgeous Rubber Hat",
+    "precio": 9328,
+    "stock": 79,
+    "proveedor_id": 2,
+    "sucursal_id": 1
+  },
+  {
+    "id": 957,
+    "nombre": "Elegant Soft Chicken",
+    "precio": 3929,
+    "stock": 25,
+    "proveedor_id": 7,
+    "sucursal_id": 4
+  },
+  {
+    "id": 958,
+    "nombre": "Rustic Rubber Salad",
+    "precio": 7916,
+    "stock": 52,
+    "proveedor_id": 10,
+    "sucursal_id": 3
+  },
+  {
+    "id": 959,
+    "nombre": "Generic Wooden Chair",
+    "precio": 2474,
+    "stock": 62,
+    "proveedor_id": 4,
+    "sucursal_id": 8
+  },
+  {
+    "id": 960,
+    "nombre": "Bespoke Frozen Sausages",
+    "precio": 8821,
+    "stock": 30,
+    "proveedor_id": 3,
+    "sucursal_id": 2
+  },
+  {
+    "id": 961,
+    "nombre": "Unbranded Concrete Cheese",
+    "precio": 1469,
+    "stock": 80,
+    "proveedor_id": 10,
+    "sucursal_id": 8
+  },
+  {
+    "id": 962,
+    "nombre": "Tasty Concrete Salad",
+    "precio": 7919,
+    "stock": 32,
+    "proveedor_id": 2,
+    "sucursal_id": 1
+  },
+  {
+    "id": 963,
+    "nombre": "Elegant Frozen Chair",
+    "precio": 5773,
+    "stock": 12,
+    "proveedor_id": 5,
+    "sucursal_id": 8
+  },
+  {
+    "id": 964,
+    "nombre": "Handmade Soft Shoes",
+    "precio": 6567,
+    "stock": 98,
+    "proveedor_id": 9,
+    "sucursal_id": 5
+  },
+  {
+    "id": 965,
+    "nombre": "Handmade Wooden Shoes",
+    "precio": 4996,
+    "stock": 0,
+    "proveedor_id": 2,
+    "sucursal_id": 10
+  },
+  {
+    "id": 966,
+    "nombre": "Electronic Steel Sausages",
+    "precio": 5307,
+    "stock": 29,
+    "proveedor_id": 3,
+    "sucursal_id": 10
+  },
+  {
+    "id": 967,
+    "nombre": "Tasty Fresh Pants",
+    "precio": 4648,
+    "stock": 17,
+    "proveedor_id": 9,
+    "sucursal_id": 8
+  },
+  {
+    "id": 968,
+    "nombre": "Tasty Soft Sausages",
+    "precio": 1937,
+    "stock": 57,
+    "proveedor_id": 2,
+    "sucursal_id": 8
+  },
+  {
+    "id": 969,
+    "nombre": "Practical Soft Tuna",
+    "precio": 9165,
+    "stock": 43,
+    "proveedor_id": 4,
+    "sucursal_id": 4
+  },
+  {
+    "id": 970,
+    "nombre": "Generic Rubber Table",
+    "precio": 5384,
+    "stock": 99,
+    "proveedor_id": 6,
+    "sucursal_id": 6
+  },
+  {
+    "id": 971,
+    "nombre": "Electronic Frozen Ball",
+    "precio": 5735,
+    "stock": 94,
+    "proveedor_id": 3,
+    "sucursal_id": 9
+  },
+  {
+    "id": 972,
+    "nombre": "Fantastic Concrete Salad",
+    "precio": 3338,
+    "stock": 76,
+    "proveedor_id": 7,
+    "sucursal_id": 4
+  },
+  {
+    "id": 973,
+    "nombre": "Fantastic Fresh Sausages",
+    "precio": 5492,
+    "stock": 79,
+    "proveedor_id": 2,
+    "sucursal_id": 10
+  },
+  {
+    "id": 974,
+    "nombre": "Awesome Metal Tuna",
+    "precio": 2146,
+    "stock": 17,
+    "proveedor_id": 2,
+    "sucursal_id": 10
+  },
+  {
+    "id": 975,
+    "nombre": "Handcrafted Rubber Shirt",
+    "precio": 1989,
+    "stock": 87,
+    "proveedor_id": 5,
+    "sucursal_id": 2
+  },
+  {
+    "id": 976,
+    "nombre": "Luxurious Frozen Car",
+    "precio": 4238,
+    "stock": 3,
+    "proveedor_id": 9,
+    "sucursal_id": 7
+  },
+  {
+    "id": 977,
+    "nombre": "Elegant Rubber Towels",
+    "precio": 3294,
+    "stock": 39,
+    "proveedor_id": 1,
+    "sucursal_id": 9
+  },
+  {
+    "id": 978,
+    "nombre": "Incredible Steel Cheese",
+    "precio": 8705,
+    "stock": 32,
+    "proveedor_id": 10,
+    "sucursal_id": 8
+  },
+  {
+    "id": 979,
+    "nombre": "Modern Steel Towels",
+    "precio": 2978,
+    "stock": 80,
+    "proveedor_id": 7,
+    "sucursal_id": 5
+  },
+  {
+    "id": 980,
+    "nombre": "Small Frozen Pizza",
+    "precio": 1556,
+    "stock": 55,
+    "proveedor_id": 1,
+    "sucursal_id": 10
+  },
+  {
+    "id": 981,
+    "nombre": "Generic Fresh Pizza",
+    "precio": 1745,
+    "stock": 36,
+    "proveedor_id": 2,
+    "sucursal_id": 10
+  },
+  {
+    "id": 982,
+    "nombre": "Practical Wooden Towels",
+    "precio": 7282,
+    "stock": 54,
+    "proveedor_id": 6,
+    "sucursal_id": 4
+  },
+  {
+    "id": 983,
+    "nombre": "Fantastic Cotton Gloves",
+    "precio": 9307,
+    "stock": 47,
+    "proveedor_id": 4,
+    "sucursal_id": 10
+  },
+  {
+    "id": 984,
+    "nombre": "Sleek Wooden Towels",
+    "precio": 7807,
+    "stock": 48,
+    "proveedor_id": 10,
+    "sucursal_id": 9
+  },
+  {
+    "id": 985,
+    "nombre": "Practical Frozen Gloves",
+    "precio": 1453,
+    "stock": 2,
+    "proveedor_id": 10,
+    "sucursal_id": 2
+  },
+  {
+    "id": 986,
+    "nombre": "Bespoke Bronze Soap",
+    "precio": 4119,
+    "stock": 19,
+    "proveedor_id": 3,
+    "sucursal_id": 3
+  },
+  {
+    "id": 987,
+    "nombre": "Bespoke Bronze Gloves",
+    "precio": 8362,
+    "stock": 71,
+    "proveedor_id": 8,
+    "sucursal_id": 1
+  },
+  {
+    "id": 988,
+    "nombre": "Unbranded Fresh Chips",
+    "precio": 4858,
+    "stock": 70,
+    "proveedor_id": 10,
+    "sucursal_id": 9
+  },
+  {
+    "id": 989,
+    "nombre": "Practical Granite Mouse",
+    "precio": 4539,
+    "stock": 10,
+    "proveedor_id": 7,
+    "sucursal_id": 5
+  },
+  {
+    "id": 990,
+    "nombre": "Ergonomic Soft Chicken",
+    "precio": 2440,
+    "stock": 80,
+    "proveedor_id": 5,
+    "sucursal_id": 2
+  },
+  {
+    "id": 991,
+    "nombre": "Luxurious Cotton Chips",
+    "precio": 6724,
+    "stock": 52,
+    "proveedor_id": 6,
+    "sucursal_id": 4
+  },
+  {
+    "id": 992,
+    "nombre": "Oriental Frozen Bike",
+    "precio": 8879,
+    "stock": 1,
+    "proveedor_id": 7,
+    "sucursal_id": 9
+  },
+  {
+    "id": 993,
+    "nombre": "Rustic Fresh Computer",
+    "precio": 1538,
+    "stock": 23,
+    "proveedor_id": 8,
+    "sucursal_id": 9
+  },
+  {
+    "id": 994,
+    "nombre": "Licensed Plastic Shoes",
+    "precio": 4426,
+    "stock": 89,
+    "proveedor_id": 2,
+    "sucursal_id": 6
+  },
+  {
+    "id": 995,
+    "nombre": "Gorgeous Plastic Hat",
+    "precio": 6072,
+    "stock": 60,
+    "proveedor_id": 9,
+    "sucursal_id": 4
+  },
+  {
+    "id": 996,
+    "nombre": "Recycled Plastic Computer",
+    "precio": 1167,
+    "stock": 51,
+    "proveedor_id": 3,
+    "sucursal_id": 6
+  },
+  {
+    "id": 997,
+    "nombre": "Generic Rubber Soap",
+    "precio": 9383,
+    "stock": 80,
+    "proveedor_id": 3,
+    "sucursal_id": 8
+  },
+  {
+    "id": 998,
+    "nombre": "Small Granite Sausages",
+    "precio": 5533,
+    "stock": 97,
+    "proveedor_id": 8,
+    "sucursal_id": 5
+  },
+  {
+    "id": 999,
+    "nombre": "Luxurious Plastic Fish",
+    "precio": 8190,
+    "stock": 88,
+    "proveedor_id": 10,
+    "sucursal_id": 7
+  },
+  {
+    "id": 1000,
+    "nombre": "Tasty Steel Gloves",
+    "precio": 4590,
+    "stock": 15,
+    "proveedor_id": 4,
+    "sucursal_id": 6
+  }
+]

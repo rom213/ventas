@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "rut": "Apt. 667",
+    "nombre": "Norwood",
+    "apellidos": "Gleichner",
+    "direccion": {
+      "calle": "GR",
+      "numero": "Kuhlmanboro",
+      "comuna": "Brannoncester",
+      "ciudad": "Yuba City"
+    },
+    "telefono": "(920) 616-5582 x720",
+    "fecha_nacimiento": "2024-08-13",
+    "email": "Maya_Halvorson32@gmail.com"
+  },
+  {
+    "id": 2,
+    "rut": "Apt. 923",
+    "nombre": "Casimir",
+    "apellidos": "Lebsack",
+    "direccion": {
+      "calle": "GE",
+      "numero": "Redondo Beach",
+      "comuna": "Gusikowskitown",
+      "ciudad": "Lake Janiemouth"
+    },
+    "telefono": "(494) 629-3323",
+    "fecha_nacimiento": "2024-05-03",
+    "email": "Genesis56@yahoo.com"
+  },
+  {
+    "id": 3,
+    "rut": "Suite 255",
+    "nombre": "Lorena",
+    "apellidos": "Gibson",
+    "direccion": {
+      "calle": "ET",
+      "numero": "Evelinechester",
+      "comuna": "East Maegan",
+      "ciudad": "Waelchiburgh"
+    },
+    "telefono": "455-519-5322",
+    "fecha_nacimiento": "2024-05-22",
+    "email": "Bridget74@gmail.com"
+  },
+  {
+    "id": 4,
+    "rut": "Suite 283",
+    "nombre": "Leo",
+    "apellidos": "Gerlach",
+    "direccion": {
+      "calle": "PA",
+      "numero": "New Madaline",
+      "comuna": "North Marie",
+      "ciudad": "Trompstead"
+    },
+    "telefono": "(678) 859-9708",
+    "fecha_nacimiento": "2024-04-02",
+    "email": "Rey_Gulgowski18@hotmail.com"
+  },
+  {
+    "id": 5,
+    "rut": "Apt. 958",
+    "nombre": "Josiane",
+    "apellidos": "Kris",
+    "direccion": {
+      "calle": "ST",
+      "numero": "New Torreyboro",
+      "comuna": "New Reneberg",
+      "ciudad": "South Zoie"
+    },
+    "telefono": "(863) 900-0273",
+    "fecha_nacimiento": "2024-04-23",
+    "email": "Isaiah_Hammes96@gmail.com"
+  },
+  {
+    "id": 6,
+    "rut": "Suite 194",
+    "nombre": "Rita",
+    "apellidos": "Mraz",
+    "direccion": {
+      "calle": "TH",
+      "numero": "Lake Colestad",
+      "comuna": "Prohaskafort",
+      "ciudad": "Oakland"
+    },
+    "telefono": "460-802-1481 x240",
+    "fecha_nacimiento": "2023-11-04",
+    "email": "Madie75@gmail.com"
+  },
+  {
+    "id": 7,
+    "rut": "Suite 693",
+    "nombre": "Sandra",
+    "apellidos": "Schimmel",
+    "direccion": {
+      "calle": "BT",
+      "numero": "Simonefort",
+      "comuna": "San Juan",
+      "ciudad": "Flatleycester"
+    },
+    "telefono": "555-951-9832 x24178",
+    "fecha_nacimiento": "2024-06-22",
+    "email": "Oda_Lehner3@yahoo.com"
+  },
+  {
+    "id": 8,
+    "rut": "Suite 407",
+    "nombre": "Maude",
+    "apellidos": "Kuhlman",
+    "direccion": {
+      "calle": "PR",
+      "numero": "Port Velva",
+      "comuna": "South Elisha",
+      "ciudad": "Candelarioland"
+    },
+    "telefono": "(282) 818-0121 x571",
+    "fecha_nacimiento": "2024-07-04",
+    "email": "Esteban.Willms@gmail.com"
+  },
+  {
+    "id": 9,
+    "rut": "Suite 463",
+    "nombre": "Odessa",
+    "apellidos": "Batz",
+    "direccion": {
+      "calle": "UY",
+      "numero": "Fadelland",
+      "comuna": "Kayleyshire",
+      "ciudad": "Ritchiebury"
+    },
+    "telefono": "264-626-6496",
+    "fecha_nacimiento": "2024-09-21",
+    "email": "Scotty14@hotmail.com"
+  },
+  {
+    "id": 10,
+    "rut": "Suite 179",
+    "nombre": "Benton",
+    "apellidos": "Streich",
+    "direccion": {
+      "calle": "NA",
+      "numero": "Jeniferfort",
+      "comuna": "Sabrynatown",
+      "ciudad": "Runtefurt"
+    },
+    "telefono": "(804) 257-8120 x37814",
+    "fecha_nacimiento": "2024-10-01",
+    "email": "Stephania.Swift46@gmail.com"
+  },
+  {
+    "id": 11,
+    "rut": "Apt. 664",
+    "nombre": "Mathias",
+    "apellidos": "Corkery",
+    "direccion": {
+      "calle": "NL",
+      "numero": "West Raheembury",
+      "comuna": "Schaeferboro",
+      "ciudad": "Lake Jed"
+    },
+    "telefono": "337-693-1463 x717",
+    "fecha_nacimiento": "2024-03-06",
+    "email": "Colt62@hotmail.com"
+  },
+  {
+    "id": 12,
+    "rut": "Suite 835",
+    "nombre": "Anahi",
+    "apellidos": "Kuhic",
+    "direccion": {
+      "calle": "UM",
+      "numero": "Garretside",
+      "comuna": "Baton Rouge",
+      "ciudad": "Lynwood"
+    },
+    "telefono": "572-531-3359 x19549",
+    "fecha_nacimiento": "2024-05-04",
+    "email": "Karolann.Schroeder30@gmail.com"
+  },
+  {
+    "id": 13,
+    "rut": "Apt. 717",
+    "nombre": "Darren",
+    "apellidos": "Kassulke",
+    "direccion": {
+      "calle": "BH",
+      "numero": "New Willfield",
+      "comuna": "McKinney",
+      "ciudad": "New Hazle"
+    },
+    "telefono": "999-546-9067 x12836",
+    "fecha_nacimiento": "2024-09-17",
+    "email": "Anna.Skiles@yahoo.com"
+  },
+  {
+    "id": 14,
+    "rut": "Suite 370",
+    "nombre": "Favian",
+    "apellidos": "Rolfson",
+    "direccion": {
+      "calle": "BR",
+      "numero": "Emanuelworth",
+      "comuna": "East Yvette",
+      "ciudad": "New Virgieport"
+    },
+    "telefono": "(759) 316-2257 x5062",
+    "fecha_nacimiento": "2024-05-15",
+    "email": "Maud6@yahoo.com"
+  },
+  {
+    "id": 15,
+    "rut": "Suite 275",
+    "nombre": "Myrna",
+    "apellidos": "Gleichner",
+    "direccion": {
+      "calle": "RU",
+      "numero": "Douglasfield",
+      "comuna": "Fairfield",
+      "ciudad": "North Laverna"
+    },
+    "telefono": "674-232-4839 x6356",
+    "fecha_nacimiento": "2024-02-08",
+    "email": "Gabriella.Crooks94@gmail.com"
+  },
+  {
+    "id": 16,
+    "rut": "Apt. 657",
+    "nombre": "Emilie",
+    "apellidos": "Weissnat",
+    "direccion": {
+      "calle": "CY",
+      "numero": "East Raina",
+      "comuna": "East Citlalli",
+      "ciudad": "North Winston"
+    },
+    "telefono": "888-817-5020",
+    "fecha_nacimiento": "2024-02-10",
+    "email": "Noah.Greenfelder31@yahoo.com"
+  },
+  {
+    "id": 17,
+    "rut": "Suite 347",
+    "nombre": "Edison",
+    "apellidos": "Tillman-Moore",
+    "direccion": {
+      "calle": "MR",
+      "numero": "East Berneice",
+      "comuna": "Streichhaven",
+      "ciudad": "Lake Jamilfort"
+    },
+    "telefono": "501-563-1652 x30428",
+    "fecha_nacimiento": "2024-04-02",
+    "email": "Everett87@hotmail.com"
+  },
+  {
+    "id": 18,
+    "rut": "Suite 100",
+    "nombre": "Loraine",
+    "apellidos": "Schneider",
+    "direccion": {
+      "calle": "SL",
+      "numero": "Hoboken",
+      "comuna": "Weston",
+      "ciudad": "Ibrahimboro"
+    },
+    "telefono": "530.980.9835",
+    "fecha_nacimiento": "2024-05-23",
+    "email": "Billie83@gmail.com"
+  },
+  {
+    "id": 19,
+    "rut": "Suite 855",
+    "nombre": "Candelario",
+    "apellidos": "Sipes",
+    "direccion": {
+      "calle": "SK",
+      "numero": "West Urbanworth",
+      "comuna": "Oro Valley",
+      "ciudad": "St. Paul"
+    },
+    "telefono": "1-476-341-0419",
+    "fecha_nacimiento": "2024-03-27",
+    "email": "Kirstin16@gmail.com"
+  },
+  {
+    "id": 20,
+    "rut": "Suite 228",
+    "nombre": "Taryn",
+    "apellidos": "Thompson",
+    "direccion": {
+      "calle": "ES",
+      "numero": "Cincinnati",
+      "comuna": "Gulgowskimouth",
+      "ciudad": "Fort Collinport"
+    },
+    "telefono": "454-248-4032 x6238",
+    "fecha_nacimiento": "2024-02-20",
+    "email": "Alyson56@gmail.com"
+  }
+]
