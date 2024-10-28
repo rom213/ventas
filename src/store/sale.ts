@@ -6,7 +6,7 @@ interface SaleStore {
   path: string;
   sale: Venta;
   sales: [] | Venta[];
-  detalles: [] | DetalleVenta[]
+  detalles:  DetalleVenta[]
   saveSale: () => void;
   allSales: () => void;
   findSales: (ven_id: number) => Promise<{ sales: Venta[] }>;
@@ -23,7 +23,7 @@ const dataTem: Venta = {
   vendedor_id: 0,
 };
 
-const detalleVenta:DetalleVenta={
+export const detalleVenta:DetalleVenta={
   cantidad:0,
   precio_unitario:0,
   producto_id:0,

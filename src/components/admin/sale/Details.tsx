@@ -2,7 +2,7 @@
 
 import { useEffect, useState } from "react";
 import close from "../../../images/Recurso 15.png";
-import { SaleStore } from "@/store/sale";
+import { detalleVenta, SaleStore } from "@/store/sale";
 import { ProductStore } from "@/store/product";
 import { Product } from "@/types/product";
 
@@ -13,7 +13,9 @@ const Details = () => {
   const [searchKey, setSearchKey] = useState("");
   const [render, setRender] = useState(0);
   const [products, setProducts] = useState<Product[]>([]);
-  const [activeDetailIndex, setActiveDetailIndex] = useState<number | null>(null);
+  const [activeDetailIndex, setActiveDetailIndex] = useState<number | null>(
+    null
+  );
 
   useEffect(() => {
     if (searchKey !== "") {
@@ -34,25 +36,31 @@ const Details = () => {
     setSearchKey("");
   };
 
-
-
-  const mathPriceForDetail=(quantity:string, index:number)=>{
+  const mathPriceForDetail = (quantity: string, index: number) => {
     saleStore.detalles[index] = {
       ...saleStore.detalles[index],
-      cantidad:Number(quantity),
-      subtotal:Number(quantity)*saleStore.detalles[index].precio_unitario
+      cantidad: Number(quantity),
+      subtotal: Number(quantity) * saleStore.detalles[index].precio_unitario,
     };
-    setRender(render+1)
-  }
+    saleStore.sale.monto_total = saleStore.detalles.reduce(
+      (total, detalle) => total + detalle.subtotal,
+      0
+    );
+    setRender(render + 1);
+  };
 
   const handleDeleteDetail = (index: number) => {
-    if (saleStore.detalles.length>1) {
-        saleStore.detalles.splice(index, 1);
+    if (saleStore.detalles.length > 1) {
+      saleStore.detalles.splice(index, 1);
     }
 
-    setRender(render+1)
+    setRender(render + 1);
   };
-  
+
+  const newDetail = () => {
+    saleStore.detalles.push(detalleVenta);
+    setRender(render + 1);
+  };
 
   return (
     <div className="space-y-2">
@@ -80,14 +88,17 @@ const Details = () => {
                 />
               </div>
               {searchKey !== "" && activeDetailIndex === index && (
-                <div className="w-full bg-[#279aff] absolute max-h-[300px] overflow-auto rounded-b-lg">
+                <div
+                  className="w-full bg-[#279aff] absolute max-h-[300px] overflow-auto rounded-b-lg shadow-lg z-50"
+                  style={{ top: "100%", left: 0 }}
+                >
                   {products.length === 0 && (
                     <div className="w-full text-center text-white">
                       Not found product
                     </div>
                   )}
                   {products.length !== 0 && (
-                    <div className="grid gap-[1px] text-2x ">
+                    <div className="grid gap-[1px] text-2x">
                       {products.map((product) => (
                         <div
                           onClick={() => handleSelectProduct(product)}
@@ -109,7 +120,11 @@ const Details = () => {
                 Quantity
               </label>
               <div>
-                <input onChange={(e)=>{mathPriceForDetail(e.target.value, index)}} type="number"  className="outline-none h-12 text-2xl px-5 w-full" />
+                <input
+                  onChange={(e) => mathPriceForDetail(e.target.value, index)}
+                  type="number"
+                  className="outline-none h-12 text-2xl px-5 w-full"
+                />
               </div>
             </div>
             <div className="space-y-1 w-full">
@@ -117,7 +132,10 @@ const Details = () => {
                 Price
               </label>
               <div>
-                <input value={`$${detalle.precio_unitario}`} className="outline-none h-12 text-2xl px-5 w-full" />
+                <input
+                  value={`$${detalle.precio_unitario}`}
+                  className="outline-none h-12 text-2xl px-5 w-full"
+                />
               </div>
             </div>
             <div className="space-y-1 w-full">
@@ -125,18 +143,49 @@ const Details = () => {
                 Subtotal
               </label>
               <div>
-                <input value={detalle.subtotal} className="outline-none h-12 text-2xl px-5 w-full" />
+                <input
+                  value={detalle.subtotal}
+                  className="outline-none h-12 text-2xl px-5 w-full"
+                />
               </div>
             </div>
           </div>
           <div className="flex items-end w-14 cursor-pointer">
-              {
-                saleStore.detalles.length>1 &&   <img onClick={()=>handleDeleteDetail(index)} className="h-12" src={close.src} alt="Close" />
-              }
-
+            {saleStore.detalles.length > 1 && (
+              <img
+                onClick={() => handleDeleteDetail(index)}
+                className="h-12"
+                src={close.src}
+                alt="Close"
+              />
+            )}
           </div>
         </div>
       ))}
+
+      <div className="w-full grid gap-2">
+        <div
+          onClick={() => newDetail()}
+          className="w-32 h-12 bg-blue-400 text-white text-xl flex items-center justify-center cursor-pointer rounded-sm"
+        >
+          Add
+        </div>
+        <div className="w-full flex justify-end px-28">
+          <div className="space-y-1 flex items-center gap-2 w-[230px]">
+            <label className="block text-xl font-medium text-[#99a4b6]">
+              Quantity
+            </label>
+            <div>
+              <input
+                value={saleStore.sale.monto_total}
+                type="number"
+                className="outline-none h-12 text-2xl px-5 w-full"
+              />
+            </div>
+          </div>
+        </div>
+        <div className="w-full h-[1px] bg-black"></div>
+      </div>
     </div>
   );
 };

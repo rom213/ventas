@@ -13,7 +13,7 @@ export default function RootLayout({
                 <div>
                     <Sidebar />
                 </div>
-                <div className="h-full w-full bg-[#f6f7fa]">
+                <div className=" w-full bg-[#f6f7fa] overflow-auto">
                     {children}
                 </div>
             </div>
