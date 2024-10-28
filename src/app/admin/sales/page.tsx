@@ -27,6 +27,9 @@ const page = () => {
           <h1 className="text-2xl font-bold text-gray-800 mb-2">
             {data.nombre_suscursal}
           </h1>
+          <div className="text-xl">
+            <span className="font-semibold">Nombre:</span> {data.nombre_cliente}
+          </div>
           <div className="text-sm text-gray-500">
             <span className="font-semibold">Moneda:</span> {data.moneda}
           </div>

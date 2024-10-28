@@ -13,6 +13,7 @@ export type DetalleVenta = {
     vendedor_id: number;
     nombre_suscursal?:string,
     cliente_id: number;
+    nombre_cliente?:string
     sucursal_id: number;
     monto_total: number;
     moneda: string;

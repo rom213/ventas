@@ -8,6 +8,7 @@
     "nombre_suscursal": "PERU",
     "monto_total": 29300,
     "moneda": "MXN",
+    "nombre_cliente": "Roma Ariza",
     "detalle": [
       {
         "producto_id": 164,
@@ -26,46 +27,8 @@
     ]
   },
   {
-    "id": 2,
-    "fecha": "2024-10-25",
-    "vendedor_id": 6,
-    "cliente_id": 771,
-    "sucursal_id": 4,
-    "nombre_suscursal": "BOLIVIA",
-    "monto_total": 140665,
-    "moneda": "BRL",
-    "detalle": [
-      {
-        "producto_id": 835,
-        "cantidad": 4,
-        "nombre_producto": "Manual fake 4",
-        "precio_unitario": 1183,
-        "subtotal": 4732
-      }
-    ]
-  },
-  {
-    "id": 2,
-    "cliente_id": 3,
-    "detalle": [
-      {
-        "cantidad": 1,
-        "precio_unitario": 8569,
-        "producto_id": 2,
-        "subtotal": 8569,
-        "nombre_producto": "Practical Wooden Bacon"
-      }
-    ],
-    "fecha": "Mon Oct 28 2024 09:37:35 GMT-0500 (hora estándar de Colombia)",
-    "moneda": "BRL",
-    "monto_total": 8569,
-    "sucursal_id": 4,
-    "vendedor_id": 0,
-    "nombre_suscursal": "Brasil"
-  },
-  {
-    "id": 3,
-    "cliente_id": 8,
+    "id": 1,
+    "cliente_id": 6,
     "detalle": [
       {
         "cantidad": 1,
@@ -76,17 +39,18 @@
       },
       {
         "cantidad": 1,
-        "precio_unitario": 8569,
-        "producto_id": 2,
-        "subtotal": 8569,
-        "nombre_producto": "Practical Wooden Bacon"
+        "precio_unitario": 7127,
+        "producto_id": 50,
+        "subtotal": 7127,
+        "nombre_producto": "Luxurious Soft Salad"
       }
     ],
-    "fecha": "Mon Oct 28 2024 09:58:25 GMT-0500 (hora estándar de Colombia)",
-    "moneda": "UYU",
-    "monto_total": 16829,
-    "sucursal_id": 7,
+    "fecha": "Mon Oct 28 2024 10:43:28 GMT-0500 (hora estándar de Colombia)",
+    "moneda": "CLP",
+    "monto_total": 15387,
+    "sucursal_id": 1,
     "vendedor_id": 0,
-    "nombre_suscursal": "Uruguay"
+    "nombre_cliente": "Hollie Hayes",
+    "nombre_suscursal": "Chile"
   }
 ]

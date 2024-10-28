@@ -11,6 +11,7 @@ const Sidebar = () => {
   const router = useRouter()
 
   useEffect(() => {
+
       setNavigate(window.location.pathname)
   }, [])
   
@@ -27,7 +28,7 @@ const Sidebar = () => {
         <div className=" w-full h-16 flex justify-center items-center">
           <img src={rect.src} alt="" />
         </div>
-        <div onClick={()=>{setNavigate('/admin/sales');router.push('/admin/sales'); }} className={`${navigate==='/admin/sales' && 'bg-blue-500'} w-full h-16 flex justify-center items-center`}>
+        <div onClick={()=>{setNavigate('/admin/sales');router.push('/admin/sales'); }} className={`${navigate==='/admin/sales' && 'bg-blue-500'} cursor-pointer w-full h-16 flex justify-center items-center`}>
           <img src={folder.src} alt="" />
         </div>
         <div className=" w-full h-16 flex justify-center items-center">

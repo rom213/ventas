@@ -49,6 +49,7 @@ const Document = () => {
     const timeStamp = new Date();
     saleStore.sale.fecha = timeStamp.toString();
     saleStore.sale.cliente_id = customer.id;
+    saleStore.sale.nombre_cliente=customer.nombre + " " + customer.apellidos
   };
 
   return (
