@@ -7,6 +7,8 @@ interface LoginStore{
     verifyLogged:()=>void
 }
 
+
+
 export const LoginStore = create<LoginStore>((set) => ({
   isLoggedIn:false,
   login: false,
@@ -14,9 +16,8 @@ export const LoginStore = create<LoginStore>((set) => ({
 
   verifyLogged: () => set((state) => {
     const isLoggedIn = !!localStorage.getItem('login');
-
     return { ...state, isLoggedIn};
-  })
-  
+  }),
+
 
 }))
