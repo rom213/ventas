@@ -15,7 +15,7 @@ interface BranchStore {
 }
 
 export const BranchStore = create<BranchStore>((set, get) => ({
-  path: "../src/data/sucursales.json",
+  path: "sucursales",
   branches: [],
 
   allBranches: async () => {

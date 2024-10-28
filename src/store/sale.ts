@@ -11,7 +11,7 @@ interface SaleStore {
   findSales: (ven_id: number) => Promise<{ sales: Venta[] }>;
 }
 
-const dataTem: Venta = {
+export const dataTem: Venta = {
   id: 0,
   cliente_id: 0,
   detalle: [],
@@ -31,20 +31,24 @@ export const detalleVenta:DetalleVenta={
 }
 
 export const SaleStore = create<SaleStore>((set, get) => ({
-  path: "../src/data/ventas.json",
+  path: "ventas",
   sale: dataTem,
-  sales: [dataTem],
+  sales: [],
   detalles:[detalleVenta,detalleVenta],
   saveSale: async () => {
+    const state = get();
+    state.sale.detalle=state.detalles
     set((state) => {
       if (state.sale) {
-        fetch("/api/sales/save", {
+        fetch("/api/data", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
           },
-          body: JSON.stringify({ sale: state.sale, path: state.path }),
+          body: JSON.stringify({ data: state.sale, path: state.path }),
         });
+        state.detalles=[]
+        state.sale.monto_total=0
         return { sale: dataTem };
       }
       return state;
@@ -53,7 +57,7 @@ export const SaleStore = create<SaleStore>((set, get) => ({
 
   allSales: async () => {
     const state = get();
-    const response = await fetch(`/api/sales?path=${encodeURIComponent(state.path)}`, {
+    const response = await fetch(`/api/data?path=${encodeURIComponent(state.path)}`, {
       method: "GET",
       headers: {
         "Content-Type": "application/json",
@@ -62,6 +66,7 @@ export const SaleStore = create<SaleStore>((set, get) => ({
 
     if (response.ok) {
       const sales: Venta[] = await response.json();
+
       set(() => ({ sales }));
     } else {
       console.error("Failed to fetch sales:", await response.json());

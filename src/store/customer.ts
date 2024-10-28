@@ -18,19 +18,19 @@ interface CustomerStore {
 }
 
 export const CustomerStore = create<CustomerStore>((set, get) => ({
-  path: "../src/data/clientes.json",
+  path: "usuarios",
   user: null,
   users: [],
   updateUser: (data: Customer) => set(() => ({ user: data })),
   saveUser: async () => {
     set((state) => {
       if (state.user) {
-        fetch("/api/users/save", {
+        fetch("/api/data", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
           },
-          body: JSON.stringify({ user: state.user, path: state.path }),
+          body: JSON.stringify({ data: state.user, path: state.path }),
         });
         return { user: null };
       }

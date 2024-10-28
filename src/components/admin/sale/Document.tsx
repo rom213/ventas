@@ -38,6 +38,7 @@ const Document = () => {
     if (selectedBranch) {
       saleStore.sale.sucursal_id=selectedBranch.id
       saleStore.sale.moneda=selectedBranch?.moneda
+      saleStore.sale.nombre_suscursal=selectedBranch.pais
       setDevice(selectedBranch.moneda);
 
     }

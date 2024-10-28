@@ -5,17 +5,20 @@
     "vendedor_id": 4,
     "cliente_id": 138,
     "sucursal_id": 6,
+    "nombre_suscursal": "PERU",
     "monto_total": 29300,
     "moneda": "MXN",
     "detalle": [
       {
         "producto_id": 164,
+        "nombre_producto": "Manual fake",
         "cantidad": 2,
         "precio_unitario": 4638,
         "subtotal": 9276
       },
       {
         "producto_id": 712,
+        "nombre_producto": "Manual fake 2",
         "cantidad": 8,
         "precio_unitario": 2503,
         "subtotal": 20024
@@ -28,150 +31,62 @@
     "vendedor_id": 6,
     "cliente_id": 771,
     "sucursal_id": 4,
+    "nombre_suscursal": "BOLIVIA",
     "monto_total": 140665,
     "moneda": "BRL",
     "detalle": [
       {
         "producto_id": 835,
         "cantidad": 4,
+        "nombre_producto": "Manual fake 4",
         "precio_unitario": 1183,
         "subtotal": 4732
-      },
-      {
-        "producto_id": 235,
-        "cantidad": 9,
-        "precio_unitario": 8441,
-        "subtotal": 75969
-      },
-      {
-        "producto_id": 404,
-        "cantidad": 1,
-        "precio_unitario": 9498,
-        "subtotal": 9498
-      },
-      {
-        "producto_id": 697,
-        "cantidad": 6,
-        "precio_unitario": 2680,
-        "subtotal": 16080
-      },
-      {
-        "producto_id": 921,
-        "cantidad": 6,
-        "precio_unitario": 5731,
-        "subtotal": 34386
       }
     ]
+  },
+  {
+    "id": 2,
+    "cliente_id": 3,
+    "detalle": [
+      {
+        "cantidad": 1,
+        "precio_unitario": 8569,
+        "producto_id": 2,
+        "subtotal": 8569,
+        "nombre_producto": "Practical Wooden Bacon"
+      }
+    ],
+    "fecha": "Mon Oct 28 2024 09:37:35 GMT-0500 (hora estándar de Colombia)",
+    "moneda": "BRL",
+    "monto_total": 8569,
+    "sucursal_id": 4,
+    "vendedor_id": 0,
+    "nombre_suscursal": "Brasil"
   },
   {
     "id": 3,
-    "fecha": "2024-10-25",
-    "vendedor_id": 14,
-    "cliente_id": 664,
-    "sucursal_id": 9,
-    "monto_total": 190014,
-    "moneda": "USD",
+    "cliente_id": 8,
     "detalle": [
       {
-        "producto_id": 90,
-        "cantidad": 4,
-        "precio_unitario": 4776,
-        "subtotal": 19104
+        "cantidad": 1,
+        "precio_unitario": 8260,
+        "producto_id": 6,
+        "subtotal": 8260,
+        "nombre_producto": "Intelligent Concrete Chips"
       },
       {
-        "producto_id": 799,
-        "cantidad": 9,
-        "precio_unitario": 7276,
-        "subtotal": 65484
-      },
-      {
-        "producto_id": 536,
-        "cantidad": 6,
-        "precio_unitario": 3703,
-        "subtotal": 22218
-      },
-      {
-        "producto_id": 402,
-        "cantidad": 8,
-        "precio_unitario": 5625,
-        "subtotal": 45000
-      },
-      {
-        "producto_id": 90,
-        "cantidad": 8,
-        "precio_unitario": 4776,
-        "subtotal": 38208
+        "cantidad": 1,
+        "precio_unitario": 8569,
+        "producto_id": 2,
+        "subtotal": 8569,
+        "nombre_producto": "Practical Wooden Bacon"
       }
-    ]
-  },
-  {
-    "id": 4,
-    "fecha": "2024-10-25",
-    "vendedor_id": 18,
-    "cliente_id": 101,
-    "sucursal_id": 1,
-    "monto_total": 128040,
-    "moneda": "CLP",
-    "detalle": [
-      {
-        "producto_id": 978,
-        "cantidad": 10,
-        "precio_unitario": 8705,
-        "subtotal": 87050
-      },
-      {
-        "producto_id": 282,
-        "cantidad": 5,
-        "precio_unitario": 3709,
-        "subtotal": 18545
-      },
-      {
-        "producto_id": 73,
-        "cantidad": 5,
-        "precio_unitario": 4489,
-        "subtotal": 22445
-      }
-    ]
-  },
-  {
-    "id": 5,
-    "fecha": "2024-10-25",
-    "vendedor_id": 12,
-    "cliente_id": 83,
-    "sucursal_id": 10,
-    "monto_total": 139706,
-    "moneda": "VES",
-    "detalle": [
-      {
-        "producto_id": 895,
-        "cantidad": 8,
-        "precio_unitario": 5850,
-        "subtotal": 46800
-      },
-      {
-        "producto_id": 71,
-        "cantidad": 6,
-        "precio_unitario": 1500,
-        "subtotal": 9000
-      },
-      {
-        "producto_id": 622,
-        "cantidad": 2,
-        "precio_unitario": 2613,
-        "subtotal": 5226
-      },
-      {
-        "producto_id": 700,
-        "cantidad": 6,
-        "precio_unitario": 9584,
-        "subtotal": 57504
-      },
-      {
-        "producto_id": 816,
-        "cantidad": 4,
-        "precio_unitario": 5294,
-        "subtotal": 21176
-      }
-    ]
+    ],
+    "fecha": "Mon Oct 28 2024 09:58:25 GMT-0500 (hora estándar de Colombia)",
+    "moneda": "UYU",
+    "monto_total": 16829,
+    "sucursal_id": 7,
+    "vendedor_id": 0,
+    "nombre_suscursal": "Uruguay"
   }
 ]

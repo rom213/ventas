@@ -17,7 +17,7 @@ interface ProductStore {
 }
 
 export const ProductStore = create<ProductStore>((set, get) => ({
-  path: "../src/data/productos.json",
+  path: "productos",
   products: [],
 
   allProducts: async () => {
