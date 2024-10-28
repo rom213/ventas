@@ -1,6 +1,4 @@
-import { readJson, writeJson } from "@/data/json";
-import { Branch } from "@/types/branch";
-import { Customer } from "@/types/customer";
+
 import { Product } from "@/types/product";
 import { create } from "zustand";
 

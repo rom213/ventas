@@ -1,4 +1,3 @@
-import { readJson, writeJson } from "@/data/json";
 import { Customer } from "@/types/customer";
 import { create } from "zustand";
 

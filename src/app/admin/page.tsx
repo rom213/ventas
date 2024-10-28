@@ -1,6 +1,7 @@
 import Details from "@/components/admin/sale/Details";
 import holdUser from "../../images/Recurso 7.png";
 import Document from "@/components/admin/sale/Document";
+import Image from "next/image"; // Import the Image component
 
 const page = () => {
   return (
@@ -8,7 +9,14 @@ const page = () => {
       <div className="space-y-8">
         <div className="flex w-full gap-7 items-center">
           <div>
-            <img src={holdUser.src} alt="" />
+            {/* Replace img with Image */}
+            <Image
+              src={holdUser.src}
+              alt="User Holding"
+              layout="intrinsic"
+              quality={100} 
+              className="your-custom-class"
+            />
           </div>
           <div className="space-y-1 sm:space-y-4 w-full">
             <div>
@@ -18,11 +26,8 @@ const page = () => {
           </div>
         </div>
 
-        
         <Document />
         <Details />
-
-
       </div>
     </div>
   );
